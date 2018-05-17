@@ -1,0 +1,114 @@
+			     SEMEVAL-2013
+			    -------------
+
+               TASK 12: Multilingual Word Sense Disambiguation
+	    Organizers: Roberto Navigli and David Jurgens 
+
+Many thanks for your interest in the SemEval-2013 task on multilingual
+WSD! The trial data package contains the following files:
+
+
+  README			     this file
+  HOWTO-PARTICIPATE		     quick instructions on how to
+				     participate in the SemEval task
+  data/				     directory with the sample data
+    multilingual-all-words.dtd	     dtd for input files
+    multilingual-all-words.en.xml    sample data (ENGLISH)
+    multilingual-all-words.en.senses sense inventory (ENGLISH)
+    multilingual-all-words.fr.xml    sample data (FRENCH)
+    multilingual-all-words.fr.senses sense inventory (FRENCH)
+
+  docs/				    documentation for the task
+    answer-format.txt		    SENSEVAL answer format doc
+    documentation.txt 		    SENSEVAL scorer doc
+    scorescheme.txt		    SENSEVAL scoring scheme
+
+  keys/
+    keys-bn.en			    gold-standard senses for the
+    				    English data (BABEL SYNSET
+				    OFFSETS)
+    keys-wn.en			    gold-standard senses for the
+    				    English data (WORDNET SENSE
+				    KEYS) 
+    keys-wiki.en		    gold-standard senses for the
+    				    English data (WIKIPEDIA PAGE
+				    TITLES)
+    keys-bn.fr			    gold-standard senses for the
+    				    French data (BABEL SYNSET
+				    OFFSETS)
+    keys-wn.fr			    gold-standard senses for the
+    				    French data (WORDNET SENSE
+				    KEYS) 
+    keys-wiki.fr		    gold-standard senses for the
+    				    French data (WIKIPEDIA PAGE
+				    TITLES)
+
+  scorer2/                          scorer program
+    score2.c			    original SENSEVAL scorer
+    score.pl			    Perl wrapper for the SENSEVAL scorer
+
+
+--------------
+Task languages 
+--------------
+
+Note that, while we provide annotated trial data for English and French
+only, the final test data will consist of documents in 4 different
+languages, namely: English, French, German, Italian, and Spanish.
+
+--------------
+Answer format
+--------------
+
+The answer format is the same of the gold-standard format (as found in
+keys/keys.en and keys/keys.fr). See also the task's webpage for
+additional information:
+
+http://www.cs.york.ac.uk/semeval-2013/task12/index.php?id=data
+
+We allow as sense labels any of the WordNet sense keys, Wikipedia page
+titles or Babel synset offsets found within the sense inventory. Please
+look at the gold-standard files within the keys/ directory for examples
+of system outputs for any of these sense label formats. Note that
+systems will be evaluated separately depending on the type of sense
+label they output.
+
+Note that the answer format also allows systems to return multiple
+weighted senses. Please check the original SENSEVAL documentation (found
+in the "doc" directory) for details.
+
+-------
+Scoring
+-------
+
+In order to score your system's output, simply do the following:
+
+$ cd scorer
+$ ./score.pl answer-file key-file
+
+scorer.pl sorts both files in alphanumeric order and makes a call to
+scorer2 (the official scorer from past SENSEVAL/SemEval
+competitions). Remember to compile the scorer before performing any
+scoring at all! To this end, simply go into the scorer's directory and
+compile the C source file. For instance, if you have a standard UNIX
+box, you can do the following:
+
+$ cd scorer
+$ gcc -o scorer2 scorer2.c
+
+(enclosed you will find a version of the scorer compiled for a Linux
+64-bit architecture).
+
+----------
+Contact us
+----------
+
+Feel free to contact us for any problem by joining and posting in our
+Google group: http://groups.google.com/group/semeval13-multilingual-wsd
+
+----------------
+Acknowledgements
+----------------
+
+This SemEval task has been developed in the context of the ERC Starting
+Grant MultiJEDI No. 259234.

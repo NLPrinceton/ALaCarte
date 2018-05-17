@@ -1,0 +1,39 @@
+			     SEMEVAL-2013
+			    -------------
+
+               TASK 12: Multilingual Word Sense Disambiguation
+
+In order to participate in the multilingual WSD task, you need to:
+
+   1. join our Google group
+   2. download the trial data from the task webpage
+   5. get BabelNet 
+   6. download the test data from the task website 
+   7. upload the results (up to three different system runs)
+   8. write a paper
+
+--------
+BabelNet
+--------
+
+All resources related to BabelNet -- i.e., dumps, API, etc. can be found
+here:
+
+http://babelnet.org/
+
+---------------
+Test/trial data
+---------------
+
+Trial and test data can be found on the task webpage:
+
+ http://www.cs.york.ac.uk/semeval-2013/task12/index.php?id=data
+
+------------
+Google group
+------------
+
+Participants MUST join the task Google group:
+
+ http://groups.google.com/group/semeval13-multilingual-wsd
+

@@ -1,0 +1,3011 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<corpus lang="it">
+<text id="d001">
+<sentence id="d001.s001">
+<wf id="d001.s001.t001" pos="X">Questo</wf>
+<wf id="d001.s001.t002" lemma="documento" pos="N">documento</wf>
+<wf id="d001.s001.t003" lemma="essere" pos="V">è</wf>
+<wf id="d001.s001.t004" pos="X">la</wf>
+<wf id="d001.s001.t005" lemma="sintesi" pos="N">sintesi</wf>
+<wf id="d001.s001.t006" pos="X">di</wf>
+<wf id="d001.s001.t007" pos="X">una</wf>
+<wf id="d001.s001.t008" lemma="relazione" pos="N">relazione</wf>
+<wf id="d001.s001.t009" lemma="pubblico" pos="J">pubblica</wf>
+<wf id="d001.s001.t010" pos="X">di</wf>
+<wf id="d001.s001.t011" lemma="valutazione" pos="N">valutazione</wf>
+<wf id="d001.s001.t012" lemma="europeo" pos="J">europea</wf>
+<wf id="d001.s001.t013" pos="X">(</wf>
+<wf id="d001.s001.t014" lemma="epar" pos="N">EPAR</wf>
+<wf id="d001.s001.t015" pos="X">)</wf>
+<wf id="d001.s001.t016" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s002">
+<wf id="d001.s002.t001" pos="X">L</wf>
+<wf id="d001.s002.t002" lemma="epar" pos="N">EPAR</wf>
+<wf id="d001.s002.t003" lemma="descrivere" pos="V">descrive</wf>
+<wf id="d001.s002.t004" pos="X">il</wf>
+<wf id="d001.s002.t005" lemma="modo" pos="N">modo</wf>
+<wf id="d001.s002.t006" pos="X">in</wf>
+<wf id="d001.s002.t007" pos="X">cui</wf>
+<wf id="d001.s002.t008" pos="X">il</wf>
+<wf id="d001.s002.t009" lemma="comitato" pos="N">comitato</wf>
+<wf id="d001.s002.t010" pos="X">per</wf>
+<wf id="d001.s002.t011" pos="X">i</wf>
+<wf id="d001.s002.t012" lemma="medicinale" pos="N">medicinali</wf>
+<wf id="d001.s002.t013" pos="X">per</wf>
+<wf id="d001.s002.t014" lemma="uso" pos="N">uso</wf>
+<wf id="d001.s002.t015" lemma="umano" pos="J">umano</wf>
+<wf id="d001.s002.t016" pos="X">(</wf>
+<wf id="d001.s002.t017" lemma="chmp" pos="N">CHMP</wf>
+<wf id="d001.s002.t018" pos="X">)</wf>
+<wf id="d001.s002.t019" lemma="avere" pos="V">ha</wf>
+<wf id="d001.s002.t020" lemma="valutare" pos="V">valutato</wf>
+<wf id="d001.s002.t021" pos="X">gli</wf>
+<wf id="d001.s002.t022" lemma="studio" pos="N">studi</wf>
+<wf id="d001.s002.t023" lemma="scientifico" pos="J">scientifici</wf>
+<wf id="d001.s002.t024" lemma="effettuare" pos="V">effettuati</wf>
+<wf id="d001.s002.t025" pos="X">e</wf>
+<wf id="d001.s002.t026" lemma="avere" pos="V">ha</wf>
+<wf id="d001.s002.t027" lemma="formulare" pos="V">formulato</wf>
+<wf id="d001.s002.t028" pos="X">le</wf>
+<wf id="d001.s002.t029" lemma="raccomandazione" pos="N">raccomandazioni</wf>
+<wf id="d001.s002.t030" pos="X">su</wf>
+<wf id="d001.s002.t031" pos="X">come</wf>
+<wf id="d001.s002.t032" lemma="usare" pos="V">usare</wf>
+<wf id="d001.s002.t033" pos="X">il</wf>
+<wf id="d001.s002.t034" lemma="medicinale" pos="N">medicinale</wf>
+<wf id="d001.s002.t035" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s003">
+<wf id="d001.s003.t001" pos="X">Per</wf>
+<wf id="d001.s003.t002" lemma="maggiore" pos="J">maggiori</wf>
+<wf id="d001.s003.t003" lemma="informazione" pos="N">informazioni</wf>
+<wf id="d001.s003.t004" lemma="riguardare" pos="V">riguardanti</wf>
+<wf id="d001.s003.t005" pos="X">le</wf>
+<wf id="d001.s003.t006" lemma="proprio" pos="J">proprie</wf>
+<wf id="d001.s003.t007" lemma="condizione" pos="N">condizioni</wf>
+<wf id="d001.s003.t008" pos="X">di</wf>
+<wf id="d001.s003.t009" lemma="salute" pos="N">salute</wf>
+<wf id="d001.s003.t010" pos="X">o</wf>
+<wf id="d001.s003.t011" pos="X">la</wf>
+<wf id="d001.s003.t012" lemma="terapia" pos="N">terapia</wf>
+<wf id="d001.s003.t013" pos="X">,</wf>
+<wf id="d001.s003.t014" lemma="leggere" pos="V">leggere</wf>
+<wf id="d001.s003.t015" pos="X">il</wf>
+<wf id="d001.s003.t016" lemma="foglio" pos="N">foglio</wf>
+<wf id="d001.s003.t017" lemma="illustrativo" pos="J">illustrativo</wf>
+<wf id="d001.s003.t018" pos="X">(</wf>
+<wf id="d001.s003.t019" lemma="allegare" pos="V">allegato</wf>
+<wf id="d001.s003.t020" pos="X">all</wf>
+<wf id="d001.s003.t021" lemma="epar" pos="N">EPAR</wf>
+<wf id="d001.s003.t022" pos="X">)</wf>
+<wf id="d001.s003.t023" pos="X">oppure</wf>
+<wf id="d001.s003.t024" lemma="consultare" pos="V">consultare</wf>
+<wf id="d001.s003.t025" pos="X">il</wf>
+<wf id="d001.s003.t026" lemma="medico" pos="N">medico</wf>
+<wf id="d001.s003.t027" pos="X">o</wf>
+<wf id="d001.s003.t028" pos="X">il</wf>
+<wf id="d001.s003.t029" lemma="farmacista" pos="N">farmacista</wf>
+<wf id="d001.s003.t030" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s004">
+<wf id="d001.s004.t001" pos="X">Per</wf>
+<wf id="d001.s004.t002" lemma="maggiore" pos="J">maggiori</wf>
+<wf id="d001.s004.t003" lemma="informazione" pos="N">informazioni</wf>
+<wf id="d001.s004.t004" lemma="riguardo" pos="N">riguardo</wf>
+<wf id="d001.s004.t005" pos="X">alle</wf>
+<wf id="d001.s004.t006" lemma="motivazione" pos="N">motivazioni</wf>
+<wf id="d001.s004.t007" pos="X">delle</wf>
+<wf id="d001.s004.t008" lemma="raccomandazione" pos="N">raccomandazioni</wf>
+<wf id="d001.s004.t009" pos="X">del</wf>
+<wf id="d001.s004.t010" lemma="chmp" pos="N">CHMP</wf>
+<wf id="d001.s004.t011" pos="X">,</wf>
+<wf id="d001.s004.t012" lemma="leggere" pos="V">leggere</wf>
+<wf id="d001.s004.t013" pos="X">la</wf>
+<wf id="d001.s004.t014" lemma="discussione" pos="N">discussione</wf>
+<wf id="d001.s004.t015" lemma="scientifico" pos="J">scientifica</wf>
+<wf id="d001.s004.t016" pos="X">(</wf>
+<wf id="d001.s004.t017" pos="X">anch</wf>
+<wf id="d001.s004.t018" pos="X">essa</wf>
+<wf id="d001.s004.t019" lemma="allegare" pos="V">allegato</wf>
+<wf id="d001.s004.t020" pos="X">all</wf>
+<wf id="d001.s004.t021" lemma="epar" pos="N">EPAR</wf>
+<wf id="d001.s004.t022" pos="X">)</wf>
+<wf id="d001.s004.t023" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s005">
+<wf id="d001.s005.t001" pos="X">Che</wf>
+<wf id="d001.s005.t002" lemma="cosa" pos="N">cos</wf>
+<wf id="d001.s005.t003" lemma="essere" pos="V">è</wf>
+<wf id="d001.s005.t004" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s005.t005" pos="X">?</wf>
+</sentence>
+<sentence id="d001.s006">
+<wf id="d001.s006.t001" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s006.t002" lemma="essere" pos="V">è</wf>
+<wf id="d001.s006.t003" pos="X">una</wf>
+<wf id="d001.s006.t004" lemma="polvere" pos="N">polvere</wf>
+<wf id="d001.s006.t005" pos="X">da</wf>
+<wf id="d001.s006.t006" lemma="ricostituire" pos="V">ricostituire</wf>
+<wf id="d001.s006.t007" pos="X">in</wf>
+<wf id="d001.s006.t008" lemma="soluzione" pos="N">soluzione</wf>
+<wf id="d001.s006.t009" pos="X">per</wf>
+<wf id="d001.s006.t010" lemma="infusione" pos="N">infusione</wf>
+<wf id="d001.s006.t011" pos="X">(</wf>
+<wf id="d001.s006.t012" lemma="iniezione" pos="N">iniezione</wf>
+<wf id="d001.s006.t013" lemma="goccia" pos="N">goccia</wf>
+<wf id="d001.s006.t014" pos="X">a</wf>
+<wf id="d001.s006.t015" lemma="goccia" pos="N">goccia</wf>
+<wf id="d001.s006.t016" pos="X">in</wf>
+<wf id="d001.s006.t017" lemma="vena" pos="N">vena</wf>
+<wf id="d001.s006.t018" pos="X">)</wf>
+<wf id="d001.s006.t019" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s007">
+<wf id="d001.s007.t001" lemma="contenere" pos="V">Contiene</wf>
+<wf id="d001.s007.t002" pos="X">il</wf>
+<wf id="d001.s007.t003" lemma="principio" pos="N">principio</wf>
+<wf id="d001.s007.t004" lemma="attivo" pos="J">attivo</wf>
+<wf id="d001.s007.t005" lemma="pemetrexed" pos="N">pemetrexed</wf>
+<wf id="d001.s007.t006" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s008">
+<wf id="d001.s008.t001" pos="X">Per</wf>
+<wf id="d001.s008.t002" pos="X">che</wf>
+<wf id="d001.s008.t003" lemma="cosa" pos="N">cosa</wf>
+<wf id="d001.s008.t004" pos="X">si</wf>
+<wf id="d001.s008.t005" lemma="usare" pos="V">usa</wf>
+<wf id="d001.s008.t006" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s008.t007" pos="X">?</wf>
+</sentence>
+<sentence id="d001.s009">
+<wf id="d001.s009.t001" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s009.t002" lemma="essere" pos="V">è</wf>
+<wf id="d001.s009.t003" lemma="indicare" pos="V">indicato</wf>
+<wf id="d001.s009.t004" pos="X">nel</wf>
+<wf id="d001.s009.t005" lemma="trattamento" pos="N">trattamento</wf>
+<wf id="d001.s009.t006" pos="X">di</wf>
+<wf id="d001.s009.t007" lemma="due" pos="N">due</wf>
+<wf id="d001.s009.t008" lemma="tipo" pos="N">tipi</wf>
+<wf id="d001.s009.t009" pos="X">di</wf>
+<wf id="d001.s009.t010" lemma="tumore" pos="N">tumore</wf>
+<wf id="d001.s009.t011" pos="X">:</wf>
+<wf id="d001.s009.t012" pos="X">il</wf>
+<wf id="d001.s009.t013" lemma="mesotelioma" pos="N">mesotelioma</wf>
+<wf id="d001.s009.t014" lemma="pleurico" pos="J">pleurico</wf>
+<wf id="d001.s009.t015" pos="X">(</wf>
+<wf id="d001.s009.t016" lemma="tumore" pos="N">tumore</wf>
+<wf id="d001.s009.t017" pos="X">della</wf>
+<wf id="d001.s009.t018" lemma="membrana" pos="N">membrana</wf>
+<wf id="d001.s009.t019" pos="X">che</wf>
+<wf id="d001.s009.t020" lemma="rivestire" pos="V">riveste</wf>
+<wf id="d001.s009.t021" pos="X">i</wf>
+<wf id="d001.s009.t022" lemma="polmone" pos="N">polmoni</wf>
+<wf id="d001.s009.t023" pos="X">,</wf>
+<wf id="d001.s009.t024" lemma="generalmente" pos="R">generalmente</wf>
+<wf id="d001.s009.t025" lemma="provocare" pos="V">provocato</wf>
+<wf id="d001.s009.t026" pos="X">dall</wf>
+<wf id="d001.s009.t027" lemma="esposizione" pos="N">esposizione</wf>
+<wf id="d001.s009.t028" pos="X">all</wf>
+<wf id="d001.s009.t029" lemma="amianto" pos="N">amianto</wf>
+<wf id="d001.s009.t030" pos="X">)</wf>
+<wf id="d001.s009.t031" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s010">
+<wf id="d001.s010.t001" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s010.t002" lemma="essere" pos="V">è</wf>
+<wf id="d001.s010.t003" lemma="utilizzare" pos="V">utilizzato</wf>
+<wf id="d001.s010.t004" pos="X">in</wf>
+<wf id="d001.s010.t005" lemma="combinazione" pos="N">combinazione</wf>
+<wf id="d001.s010.t006" pos="X">con</wf>
+<wf id="d001.s010.t007" lemma="cisplatino" pos="N">cisplatino</wf>
+<wf id="d001.s010.t008" pos="X">(</wf>
+<wf id="d001.s010.t009" pos="X">un</wf>
+<wf id="d001.s010.t010" lemma="altro" pos="J">altro</wf>
+<wf id="d001.s010.t011" lemma="farmaco" pos="N">farmaco</wf>
+<wf id="d001.s010.t012" lemma="antitumorale" pos="J">antitumorale</wf>
+<wf id="d001.s010.t013" pos="X">)</wf>
+<wf id="d001.s010.t014" pos="X">quando</wf>
+<wf id="d001.s010.t015" pos="X">il</wf>
+<wf id="d001.s010.t016" lemma="tumore" pos="N">tumore</wf>
+<wf id="d001.s010.t017" pos="X">non</wf>
+<wf id="d001.s010.t018" lemma="essere" pos="V">è</wf>
+<wf id="d001.s010.t019" lemma="asportabile" pos="J">asportabile</wf>
+<wf id="d001.s010.t020" pos="X">(</wf>
+<wf id="d001.s010.t021" pos="X">non</wf>
+<wf id="d001.s010.t022" lemma="potere" pos="V">può</wf>
+<wf id="d001.s010.t023" lemma="essere" pos="V">essere</wf>
+<wf id="d001.s010.t024" lemma="asportare" pos="V">asportato</wf>
+<wf id="d001.s010.t025" pos="X">con</wf>
+<wf id="d001.s010.t026" pos="X">il</wf>
+<wf id="d001.s010.t027" lemma="solo" pos="J">solo</wf>
+<wf id="d001.s010.t028" lemma="intervento" pos="N">intervento</wf>
+<wf id="d001.s010.t029" lemma="chirurgico" pos="J">chirurgico</wf>
+<wf id="d001.s010.t030" pos="X">)</wf>
+<wf id="d001.s010.t031" pos="X">ed</wf>
+<wf id="d001.s010.t032" lemma="essere" pos="V">è</wf>
+<wf id="d001.s010.t033" lemma="maligno" pos="J">maligno</wf>
+<wf id="d001.s010.t034" pos="X">(</wf>
+<wf id="d001.s010.t035" pos="X">si</wf>
+<wf id="d001.s010.t036" lemma="essere" pos="V">è</wf>
+<wf id="d001.s010.t037" lemma="diffondere" pos="V">diffuso</wf>
+<wf id="d001.s010.t038" pos="X">,</wf>
+<wf id="d001.s010.t039" pos="X">o</wf>
+<wf id="d001.s010.t040" lemma="essere" pos="V">è</wf>
+<wf id="d001.s010.t041" lemma="probabile" pos="J">probabile</wf>
+<wf id="d001.s010.t042" pos="X">si</wf>
+<wf id="d001.s010.t043" lemma="diffondere" pos="V">diffonda</wf>
+<wf id="d001.s010.t044" lemma="facilmente" pos="R">facilmente</wf>
+<wf id="d001.s010.t045" pos="X">,</wf>
+<wf id="d001.s010.t046" pos="X">ad</wf>
+<wf id="d001.s010.t047" pos="X">altre</wf>
+<wf id="d001.s010.t048" lemma="parte" pos="N">parti</wf>
+<wf id="d001.s010.t049" pos="X">del</wf>
+<wf id="d001.s010.t050" lemma="corpo" pos="N">corpo</wf>
+<wf id="d001.s010.t051" pos="X">)</wf>
+<wf id="d001.s010.t052" pos="X">,</wf>
+<wf id="d001.s010.t053" pos="X">in</wf>
+<wf id="d001.s010.t054" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s010.t055" pos="X">che</wf>
+<wf id="d001.s010.t056" pos="X">non</wf>
+<wf id="d001.s010.t057" lemma="essere" pos="V">sono</wf>
+<wf id="d001.s010.t058" lemma="essere" pos="V">stati</wf>
+<wf id="d001.s010.t059" lemma="sottoporre" pos="V">sottoposti</wf>
+<wf id="d001.s010.t060" pos="X">in</wf>
+<wf id="d001.s010.t061" lemma="precedenza" pos="N">precedenza</wf>
+<wf id="d001.s010.t062" pos="X">a</wf>
+<wf id="d001.s010.t063" lemma="chemioterapia" pos="N">chemioterapia</wf>
+<wf id="d001.s010.t064" pos="X">il</wf>
+<wf id="d001.s010.t065" lemma="carcinoma" pos="N">carcinoma</wf>
+<wf id="d001.s010.t066" lemma="polmonare" pos="J">polmonare</wf>
+<wf id="d001.s010.t067" pos="X">non</wf>
+<wf id="d001.s010.t068" pos="X">a</wf>
+<wf id="d001.s010.t069" lemma="piccolo" pos="J">piccole</wf>
+<wf id="d001.s010.t070" lemma="cellula" pos="N">cellule</wf>
+<wf id="d001.s010.t071" pos="X">in</wf>
+<wf id="d001.s010.t072" lemma="stadio" pos="N">stadio</wf>
+<wf id="d001.s010.t073" lemma="avanzato" pos="J">avanzato</wf>
+<wf id="d001.s010.t074" pos="X">o</wf>
+<wf id="d001.s010.t075" lemma="metastatico" pos="J">metastatico</wf>
+<wf id="d001.s010.t076" pos="X">che</wf>
+<wf id="d001.s010.t077" pos="X">non</wf>
+<wf id="d001.s010.t078" lemma="interessare" pos="V">interessa</wf>
+<wf id="d001.s010.t079" pos="X">le</wf>
+<wf id="d001.s010.t080" lemma="cellula" pos="N">cellule</wf>
+<wf id="d001.s010.t081" lemma="squamoso" pos="J">squamose</wf>
+<wf id="d001.s010.t082" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s011">
+<wf id="d001.s011.t001" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s011.t002" lemma="essere" pos="V">è</wf>
+<wf id="d001.s011.t003" lemma="usare" pos="V">usato</wf>
+<wf id="d001.s011.t004" pos="X">in</wf>
+<wf id="d001.s011.t005" lemma="associazione" pos="N">associazione</wf>
+<wf id="d001.s011.t006" pos="X">con</wf>
+<wf id="d001.s011.t007" lemma="cisplatino" pos="N">cisplatino</wf>
+<wf id="d001.s011.t008" pos="X">in</wf>
+<wf id="d001.s011.t009" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s011.t010" pos="X">non</wf>
+<wf id="d001.s011.t011" lemma="trattare" pos="V">trattati</wf>
+<wf id="d001.s011.t012" pos="X">in</wf>
+<wf id="d001.s011.t013" lemma="passato" pos="N">passato</wf>
+<wf id="d001.s011.t014" pos="X">e</wf>
+<wf id="d001.s011.t015" pos="X">da</wf>
+<wf id="d001.s011.t016" lemma="solo" pos="R">solo</wf>
+<wf id="d001.s011.t017" pos="X">in</wf>
+<wf id="d001.s011.t018" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s011.t019" pos="X">che</wf>
+<wf id="d001.s011.t020" pos="X">in</wf>
+<wf id="d001.s011.t021" lemma="passato" pos="N">passato</wf>
+<wf id="d001.s011.t022" lemma="essere" pos="V">sono</wf>
+<wf id="d001.s011.t023" lemma="essere" pos="V">stati</wf>
+<wf id="d001.s011.t024" lemma="sottoporre" pos="V">sottoposti</wf>
+<wf id="d001.s011.t025" pos="X">ad</wf>
+<wf id="d001.s011.t026" pos="X">un</wf>
+<wf id="d001.s011.t027" lemma="altro" pos="J">altro</wf>
+<wf id="d001.s011.t028" lemma="tipo" pos="N">tipo</wf>
+<wf id="d001.s011.t029" pos="X">di</wf>
+<wf id="d001.s011.t030" lemma="chemioterapia" pos="N">chemioterapia</wf>
+<wf id="d001.s011.t031" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s012">
+<wf id="d001.s012.t001" pos="X">Il</wf>
+<wf id="d001.s012.t002" lemma="medicinale" pos="N">medicinale</wf>
+<wf id="d001.s012.t003" lemma="potere" pos="V">può</wf>
+<wf id="d001.s012.t004" lemma="essere" pos="V">essere</wf>
+<wf id="d001.s012.t005" lemma="ottenere" pos="V">ottenuto</wf>
+<wf id="d001.s012.t006" lemma="soltanto" pos="R">soltanto</wf>
+<wf id="d001.s012.t007" pos="X">con</wf>
+<wf id="d001.s012.t008" lemma="prescrizione" pos="N">prescrizione</wf>
+<wf id="d001.s012.t009" lemma="medico" pos="J">medica</wf>
+<wf id="d001.s012.t010" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s013">
+<wf id="d001.s013.t001" pos="X">Come</wf>
+<wf id="d001.s013.t002" pos="X">si</wf>
+<wf id="d001.s013.t003" lemma="usare" pos="V">usa</wf>
+<wf id="d001.s013.t004" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s013.t005" pos="X">?</wf>
+</sentence>
+<sentence id="d001.s014">
+<wf id="d001.s014.t001" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s014.t002" lemma="dovere" pos="V">deve</wf>
+<wf id="d001.s014.t003" lemma="essere" pos="V">essere</wf>
+<wf id="d001.s014.t004" lemma="somministrare" pos="V">somministrato</wf>
+<wf id="d001.s014.t005" lemma="solamente" pos="R">solamente</wf>
+<wf id="d001.s014.t006" pos="X">sotto</wf>
+<wf id="d001.s014.t007" pos="X">la</wf>
+<wf id="d001.s014.t008" lemma="supervisione" pos="N">supervisione</wf>
+<wf id="d001.s014.t009" pos="X">di</wf>
+<wf id="d001.s014.t010" pos="X">un</wf>
+<wf id="d001.s014.t011" lemma="medico" pos="N">medico</wf>
+<wf id="d001.s014.t012" lemma="qualificato" pos="J">qualificato</wf>
+<wf id="d001.s014.t013" pos="X">per</wf>
+<wf id="d001.s014.t014" pos="X">l</wf>
+<wf id="d001.s014.t015" lemma="uso" pos="N">uso</wf>
+<wf id="d001.s014.t016" pos="X">della</wf>
+<wf id="d001.s014.t017" lemma="chemioterapia" pos="N">chemioterapia</wf>
+<wf id="d001.s014.t018" lemma="antitumorale" pos="J">antitumorale</wf>
+<wf id="d001.s014.t019" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s015">
+<wf id="d001.s015.t001" pos="X">La</wf>
+<wf id="d001.s015.t002" lemma="dose" pos="N">dose</wf>
+<wf id="d001.s015.t003" lemma="raccomandata" pos="N">raccomandata</wf>
+<wf id="d001.s015.t004" pos="X">di</wf>
+<wf id="d001.s015.t005" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s015.t006" lemma="essere" pos="V">è</wf>
+<wf id="d001.s015.t007" pos="X">di</wf>
+<wf id="d001.s015.t008" pos="X">500</wf>
+<wf id="d001.s015.t009" lemma="mg" pos="N">mg</wf>
+<wf id="d001.s015.t010" pos="X">per</wf>
+<wf id="d001.s015.t011" lemma="metro" pos="N">metro</wf>
+<wf id="d001.s015.t012" lemma="quadrato" pos="N">quadrato</wf>
+<wf id="d001.s015.t013" pos="X">di</wf>
+<wf id="d001.s015.t014" lemma="superficie" pos="N">superficie</wf>
+<wf id="d001.s015.t015" lemma="corporeo" pos="J">corporea</wf>
+<wf id="d001.s015.t016" pos="X">(</wf>
+<wf id="d001.s015.t017" lemma="calcolare" pos="V">calcolata</wf>
+<wf id="d001.s015.t018" lemma="utilizzare" pos="V">utilizzando</wf>
+<wf id="d001.s015.t019" pos="X">l</wf>
+<wf id="d001.s015.t020" lemma="altezza" pos="N">altezza</wf>
+<wf id="d001.s015.t021" pos="X">e</wf>
+<wf id="d001.s015.t022" pos="X">il</wf>
+<wf id="d001.s015.t023" lemma="peso" pos="N">peso</wf>
+<wf id="d001.s015.t024" pos="X">del</wf>
+<wf id="d001.s015.t025" lemma="paziente" pos="N">paziente</wf>
+<wf id="d001.s015.t026" pos="X">)</wf>
+<wf id="d001.s015.t027" pos="X">da</wf>
+<wf id="d001.s015.t028" lemma="somministrare" pos="V">somministrare</wf>
+<wf id="d001.s015.t029" pos="X">per</wf>
+<wf id="d001.s015.t030" lemma="infusione" pos="N">infusione</wf>
+<wf id="d001.s015.t031" lemma="endovenoso" pos="J">endovenosa</wf>
+<wf id="d001.s015.t032" pos="X">in</wf>
+<wf id="d001.s015.t033" pos="X">10</wf>
+<wf id="d001.s015.t034" lemma="minuto" pos="N">minuti</wf>
+<wf id="d001.s015.t035" pos="X">una</wf>
+<wf id="d001.s015.t036" lemma="volta" pos="N">volta</wf>
+<wf id="d001.s015.t037" lemma="ogni" pos="J">ogni</wf>
+<wf id="d001.s015.t038" lemma="tre" pos="J">tre</wf>
+<wf id="d001.s015.t039" lemma="settimana" pos="N">settimane</wf>
+<wf id="d001.s015.t040" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s016">
+<wf id="d001.s016.t001" pos="X">Per</wf>
+<wf id="d001.s016.t002" lemma="ridurre" pos="V">ridurre</wf>
+<wf id="d001.s016.t003" pos="X">gli</wf>
+<wf id="d001.s016.t004" lemma="effetto" pos="N">effetti</wf>
+<wf id="d001.s016.t005" lemma="indesiderato" pos="J">indesiderati</wf>
+<wf id="d001.s016.t006" pos="X">,</wf>
+<wf id="d001.s016.t007" pos="X">i</wf>
+<wf id="d001.s016.t008" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s016.t009" lemma="dovere" pos="V">devono</wf>
+<wf id="d001.s016.t010" lemma="assumere" pos="V">assumere</wf>
+<wf id="d001.s016.t011" pos="X">un</wf>
+<wf id="d001.s016.t012" lemma="corticosteroide" pos="N">corticosteroide</wf>
+<wf id="d001.s016.t013" pos="X">e</wf>
+<wf id="d001.s016.t014" lemma="acido" pos="N">acido</wf>
+<wf id="d001.s016.t015" lemma="folico" pos="J">folico</wf>
+<wf id="d001.s016.t016" pos="X">(</wf>
+<wf id="d001.s016.t017" pos="X">un</wf>
+<wf id="d001.s016.t018" lemma="tipo" pos="N">tipo</wf>
+<wf id="d001.s016.t019" pos="X">di</wf>
+<wf id="d001.s016.t020" lemma="vitamina" pos="N">vitamina</wf>
+<wf id="d001.s016.t021" pos="X">)</wf>
+<wf id="d001.s016.t022" pos="X">e</wf>
+<wf id="d001.s016.t023" lemma="ricevere" pos="V">ricevere</wf>
+<wf id="d001.s016.t024" lemma="iniezione" pos="N">iniezioni</wf>
+<wf id="d001.s016.t025" pos="X">di</wf>
+<wf id="d001.s016.t026" lemma="vitamina" pos="N">vitamina</wf>
+<wf id="d001.s016.t027" lemma="b12" pos="N">B12</wf>
+<wf id="d001.s016.t028" pos="X">durante</wf>
+<wf id="d001.s016.t029" pos="X">il</wf>
+<wf id="d001.s016.t030" lemma="trattamento" pos="N">trattamento</wf>
+<wf id="d001.s016.t031" pos="X">con</wf>
+<wf id="d001.s016.t032" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s016.t033" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s017">
+<wf id="d001.s017.t001" lemma="quando" pos="R">Quando</wf>
+<wf id="d001.s017.t002" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s017.t003" lemma="essere" pos="V">è</wf>
+<wf id="d001.s017.t004" lemma="somministrare" pos="V">somministrato</wf>
+<wf id="d001.s017.t005" pos="X">con</wf>
+<wf id="d001.s017.t006" lemma="cisplatino" pos="N">cisplatino</wf>
+<wf id="d001.s017.t007" pos="X">,</wf>
+<wf id="d001.s017.t008" pos="X">i</wf>
+<wf id="d001.s017.t009" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s017.t010" lemma="dovere" pos="V">devono</wf>
+<wf id="d001.s017.t011" lemma="assumere" pos="V">assumere</wf>
+<wf id="d001.s017.t012" pos="X">un</wf>
+<wf id="d001.s017.t013" lemma="farmaco" pos="N">farmaco</wf>
+<wf id="d001.s017.t014" lemma="antiemetico" pos="N">antiemetico</wf>
+<wf id="d001.s017.t015" pos="X">(</wf>
+<wf id="d001.s017.t016" pos="X">per</wf>
+<wf id="d001.s017.t017" lemma="prevenire" pos="V">prevenire</wf>
+<wf id="d001.s017.t018" pos="X">il</wf>
+<wf id="d001.s017.t019" lemma="vomito" pos="N">vomito</wf>
+<wf id="d001.s017.t020" pos="X">)</wf>
+<wf id="d001.s017.t021" pos="X">e</wf>
+<wf id="d001.s017.t022" lemma="ricevere" pos="V">ricevere</wf>
+<wf id="d001.s017.t023" pos="X">un</wf>
+<wf id="d001.s017.t024" lemma="adeguato" pos="J">adeguata</wf>
+<wf id="d001.s017.t025" lemma="idratazione" pos="N">idratazione</wf>
+<wf id="d001.s017.t026" pos="X">(</wf>
+<wf id="d001.s017.t027" pos="X">per</wf>
+<wf id="d001.s017.t028" lemma="prevenire" pos="V">prevenire</wf>
+<wf id="d001.s017.t029" pos="X">la</wf>
+<wf id="d001.s017.t030" lemma="disidratazione" pos="N">disidratazione</wf>
+<wf id="d001.s017.t031" pos="X">)</wf>
+<wf id="d001.s017.t032" lemma="prima" pos="R">prima</wf>
+<wf id="d001.s017.t033" pos="X">o</wf>
+<wf id="d001.s017.t034" lemma="dopo" pos="R">dopo</wf>
+<wf id="d001.s017.t035" pos="X">l</wf>
+<wf id="d001.s017.t036" lemma="assunzione" pos="N">assunzione</wf>
+<wf id="d001.s017.t037" pos="X">di</wf>
+<wf id="d001.s017.t038" lemma="cisplatino" pos="N">cisplatino</wf>
+<wf id="d001.s017.t039" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s018">
+<wf id="d001.s018.t001" pos="X">Il</wf>
+<wf id="d001.s018.t002" lemma="trattamento" pos="N">trattamento</wf>
+<wf id="d001.s018.t003" lemma="dovere" pos="V">deve</wf>
+<wf id="d001.s018.t004" lemma="essere" pos="V">essere</wf>
+<wf id="d001.s018.t005" lemma="posticipare" pos="V">posticipato</wf>
+<wf id="d001.s018.t006" pos="X">o</wf>
+<wf id="d001.s018.t007" lemma="interrompere" pos="V">interrotto</wf>
+<wf id="d001.s018.t008" pos="X">,</wf>
+<wf id="d001.s018.t009" pos="X">o</wf>
+<wf id="d001.s018.t010" pos="X">la</wf>
+<wf id="d001.s018.t011" lemma="dose" pos="N">dose</wf>
+<wf id="d001.s018.t012" lemma="dovere" pos="V">deve</wf>
+<wf id="d001.s018.t013" lemma="essere" pos="V">essere</wf>
+<wf id="d001.s018.t014" lemma="ridurre" pos="V">ridotta</wf>
+<wf id="d001.s018.t015" pos="X">,</wf>
+<wf id="d001.s018.t016" pos="X">nei</wf>
+<wf id="d001.s018.t017" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s018.t018" pos="X">con</wf>
+<wf id="d001.s018.t019" lemma="alterazione" pos="N">alterazioni</wf>
+<wf id="d001.s018.t020" pos="X">nelle</wf>
+<wf id="d001.s018.t021" lemma="conta" pos="N">conte</wf>
+<wf id="d001.s018.t022" lemma="ematico" pos="J">ematiche</wf>
+<wf id="d001.s018.t023" pos="X">o</wf>
+<wf id="d001.s018.t024" pos="X">che</wf>
+<wf id="d001.s018.t025" lemma="riportare" pos="V">riportano</wf>
+<wf id="d001.s018.t026" pos="X">altri</wf>
+<wf id="d001.s018.t027" lemma="effetto" pos="N">effetti</wf>
+<wf id="d001.s018.t028" lemma="indesiderato" pos="J">indesiderati</wf>
+<wf id="d001.s018.t029" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s019">
+<wf id="d001.s019.t001" pos="X">L</wf>
+<wf id="d001.s019.t002" lemma="impiego" pos="N">impiego</wf>
+<wf id="d001.s019.t003" pos="X">di</wf>
+<wf id="d001.s019.t004" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s019.t005" lemma="essere" pos="V">è</wf>
+<wf id="d001.s019.t006" lemma="sconsigliare" pos="J">sconsigliato</wf>
+<wf id="d001.s019.t007" pos="X">nei</wf>
+<wf id="d001.s019.t008" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s019.t009" pos="X">con</wf>
+<wf id="d001.s019.t010" lemma="insufficienza" pos="N">insufficienza</wf>
+<wf id="d001.s019.t011" lemma="renale" pos="J">renale</wf>
+<wf id="d001.s019.t012" lemma="grave" pos="J">grave</wf>
+<wf id="d001.s019.t013" pos="X">o</wf>
+<wf id="d001.s019.t014" lemma="moderato" pos="J">moderata</wf>
+<wf id="d001.s019.t015" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s020">
+<wf id="d001.s020.t001" pos="X">Per</wf>
+<wf id="d001.s020.t002" lemma="maggiore" pos="J">maggiori</wf>
+<wf id="d001.s020.t003" lemma="informazione" pos="N">informazioni</wf>
+<wf id="d001.s020.t004" pos="X">,</wf>
+<wf id="d001.s020.t005" pos="X">si</wf>
+<wf id="d001.s020.t006" lemma="rimandare" pos="V">rimanda</wf>
+<wf id="d001.s020.t007" pos="X">al</wf>
+<wf id="d001.s020.t008" lemma="riassunto" pos="N">Riassunto</wf>
+<wf id="d001.s020.t009" pos="X">delle</wf>
+<wf id="d001.s020.t010" lemma="caratteristica" pos="N">caratteristiche</wf>
+<wf id="d001.s020.t011" pos="X">del</wf>
+<wf id="d001.s020.t012" lemma="prodotto" pos="N">prodotto</wf>
+<wf id="d001.s020.t013" pos="X">,</wf>
+<wf id="d001.s020.t014" pos="X">anch</wf>
+<wf id="d001.s020.t015" pos="X">esso</wf>
+<wf id="d001.s020.t016" lemma="allegare" pos="V">allegato</wf>
+<wf id="d001.s020.t017" pos="X">all</wf>
+<wf id="d001.s020.t018" lemma="epar" pos="N">EPAR</wf>
+<wf id="d001.s020.t019" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s021">
+<wf id="d001.s021.t001" pos="X">Come</wf>
+<wf id="d001.s021.t002" lemma="agire" pos="V">agisce</wf>
+<wf id="d001.s021.t003" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s021.t004" pos="X">?</wf>
+</sentence>
+<sentence id="d001.s022">
+<wf id="d001.s022.t001" pos="X">Il</wf>
+<wf id="d001.s022.t002" lemma="principio" pos="N">principio</wf>
+<wf id="d001.s022.t003" lemma="attivo" pos="J">attivo</wf>
+<wf id="d001.s022.t004" pos="X">di</wf>
+<wf id="d001.s022.t005" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s022.t006" pos="X">,</wf>
+<wf id="d001.s022.t007" lemma="pemetrexed" pos="N">pemetrexed</wf>
+<wf id="d001.s022.t008" pos="X">,</wf>
+<wf id="d001.s022.t009" lemma="essere" pos="V">è</wf>
+<wf id="d001.s022.t010" pos="X">un</wf>
+<wf id="d001.s022.t011" lemma="medicinale" pos="N">medicinale</wf>
+<wf id="d001.s022.t012" lemma="citotossico" pos="J">citotossico</wf>
+<wf id="d001.s022.t013" pos="X">(</wf>
+<wf id="d001.s022.t014" lemma="medicinale" pos="N">medicinale</wf>
+<wf id="d001.s022.t015" pos="X">che</wf>
+<wf id="d001.s022.t016" lemma="uccidere" pos="V">uccide</wf>
+<wf id="d001.s022.t017" pos="X">le</wf>
+<wf id="d001.s022.t018" lemma="cellula" pos="N">cellule</wf>
+<wf id="d001.s022.t019" pos="X">in</wf>
+<wf id="d001.s022.t020" lemma="attivo" pos="J">attiva</wf>
+<wf id="d001.s022.t021" lemma="divisione" pos="N">divisione</wf>
+<wf id="d001.s022.t022" pos="X">,</wf>
+<wf id="d001.s022.t023" pos="X">come</wf>
+<wf id="d001.s022.t024" pos="X">le</wf>
+<wf id="d001.s022.t025" lemma="cellula" pos="N">cellule</wf>
+<wf id="d001.s022.t026" lemma="tumorale" pos="J">tumorali</wf>
+<wf id="d001.s022.t027" pos="X">)</wf>
+<wf id="d001.s022.t028" pos="X">,</wf>
+<wf id="d001.s022.t029" pos="X">che</wf>
+<wf id="d001.s022.t030" lemma="appartenere" pos="V">appartiene</wf>
+<wf id="d001.s022.t031" pos="X">al</wf>
+<wf id="d001.s022.t032" lemma="gruppo" pos="N">gruppo</wf>
+<wf id="d001.s022.t033" pos="X">degli</wf>
+<wf id="d001.s022.t034" lemma="antimetaboliti" pos="N">antimetaboliti</wf>
+<wf id="d001.s022.t035" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s023">
+<wf id="d001.s023.t001" pos="X">Nell</wf>
+<wf id="d001.s023.t002" lemma="organismo" pos="N">organismo</wf>
+<wf id="d001.s023.t003" pos="X">,</wf>
+<wf id="d001.s023.t004" lemma="pemetrexed" pos="N">pemetrexed</wf>
+<wf id="d001.s023.t005" lemma="venire" pos="V">viene</wf>
+<wf id="d001.s023.t006" lemma="trasformare" pos="V">trasformato</wf>
+<wf id="d001.s023.t007" pos="X">in</wf>
+<wf id="d001.s023.t008" pos="X">una</wf>
+<wf id="d001.s023.t009" lemma="forma" pos="N">forma</wf>
+<wf id="d001.s023.t010" lemma="attivo" pos="J">attiva</wf>
+<wf id="d001.s023.t011" pos="X">che</wf>
+<wf id="d001.s023.t012" lemma="bloccare" pos="V">blocca</wf>
+<wf id="d001.s023.t013" pos="X">l</wf>
+<wf id="d001.s023.t014" lemma="attività" pos="N">attività</wf>
+<wf id="d001.s023.t015" pos="X">degli</wf>
+<wf id="d001.s023.t016" lemma="enzima" pos="N">enzimi</wf>
+<wf id="d001.s023.t017" lemma="coinvolgere" pos="V">coinvolti</wf>
+<wf id="d001.s023.t018" pos="X">nella</wf>
+<wf id="d001.s023.t019" lemma="produzione" pos="N">produzione</wf>
+<wf id="d001.s023.t020" pos="X">dei</wf>
+<wf id="d001.s023.t021" lemma="nucleotidi" pos="N">nucleotidi</wf>
+<wf id="d001.s023.t022" pos="X">(</wf>
+<wf id="d001.s023.t023" pos="X">gli</wf>
+<wf id="d001.s023.t024" lemma="elemento" pos="N">elementi</wf>
+<wf id="d001.s023.t025" lemma="costitutivo" pos="J">costitutivi</wf>
+<wf id="d001.s023.t026" pos="X">di</wf>
+<wf id="d001.s023.t027" lemma="dna" pos="N">DNA</wf>
+<wf id="d001.s023.t028" pos="X">e</wf>
+<wf id="d001.s023.t029" lemma="rna" pos="N">RNA</wf>
+<wf id="d001.s023.t030" pos="X">,</wf>
+<wf id="d001.s023.t031" pos="X">il</wf>
+<wf id="d001.s023.t032" lemma="materiale" pos="N">materiale</wf>
+<wf id="d001.s023.t033" lemma="genetico" pos="J">genetico</wf>
+<wf id="d001.s023.t034" pos="X">delle</wf>
+<wf id="d001.s023.t035" lemma="cellula" pos="N">cellule</wf>
+<wf id="d001.s023.t036" pos="X">)</wf>
+<wf id="d001.s023.t037" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s024">
+<wf id="d001.s024.t001" pos="X">Quali</wf>
+<wf id="d001.s024.t002" lemma="studio" pos="N">studi</wf>
+<wf id="d001.s024.t003" lemma="essere" pos="V">sono</wf>
+<wf id="d001.s024.t004" lemma="essere" pos="V">stati</wf>
+<wf id="d001.s024.t005" lemma="effettuare" pos="V">effettuati</wf>
+<wf id="d001.s024.t006" pos="X">su</wf>
+<wf id="d001.s024.t007" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s024.t008" pos="X">?</wf>
+</sentence>
+<sentence id="d001.s025">
+<wf id="d001.s025.t001" pos="X">Per</wf>
+<wf id="d001.s025.t002" pos="X">il</wf>
+<wf id="d001.s025.t003" lemma="trattamento" pos="N">trattamento</wf>
+<wf id="d001.s025.t004" pos="X">del</wf>
+<wf id="d001.s025.t005" lemma="mesotelioma" pos="N">mesotelioma</wf>
+<wf id="d001.s025.t006" lemma="pleurico" pos="J">pleurico</wf>
+<wf id="d001.s025.t007" lemma="maligno" pos="J">maligno</wf>
+<wf id="d001.s025.t008" pos="X">,</wf>
+<wf id="d001.s025.t009" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s025.t010" lemma="essere" pos="V">è</wf>
+<wf id="d001.s025.t011" lemma="essere" pos="V">stato</wf>
+<wf id="d001.s025.t012" lemma="esaminare" pos="V">esaminato</wf>
+<wf id="d001.s025.t013" pos="X">nell</wf>
+<wf id="d001.s025.t014" lemma="ambito" pos="N">ambito</wf>
+<wf id="d001.s025.t015" pos="X">di</wf>
+<wf id="d001.s025.t016" pos="X">uno</wf>
+<wf id="d001.s025.t017" lemma="studio" pos="N">studio</wf>
+<wf id="d001.s025.t018" lemma="principale" pos="J">principale</wf>
+<wf id="d001.s025.t019" lemma="condurre" pos="V">condotto</wf>
+<wf id="d001.s025.t020" pos="X">su</wf>
+<wf id="d001.s025.t021" pos="X">456</wf>
+<wf id="d001.s025.t022" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s025.t023" pos="X">che</wf>
+<wf id="d001.s025.t024" pos="X">non</wf>
+<wf id="d001.s025.t025" lemma="essere" pos="V">erano</wf>
+<wf id="d001.s025.t026" lemma="essere" pos="V">stati</wf>
+<wf id="d001.s025.t027" lemma="sottoporre" pos="V">sottoposti</wf>
+<wf id="d001.s025.t028" pos="X">a</wf>
+<wf id="d001.s025.t029" lemma="chemioterapia" pos="N">chemioterapia</wf>
+<wf id="d001.s025.t030" pos="X">in</wf>
+<wf id="d001.s025.t031" lemma="precedenza" pos="N">precedenza</wf>
+<wf id="d001.s025.t032" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s026">
+<wf id="d001.s026.t001" pos="X">Gli</wf>
+<wf id="d001.s026.t002" lemma="effetto" pos="N">effetti</wf>
+<wf id="d001.s026.t003" pos="X">di</wf>
+<wf id="d001.s026.t004" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s026.t005" lemma="somministrare" pos="V">somministrato</wf>
+<wf id="d001.s026.t006" pos="X">in</wf>
+<wf id="d001.s026.t007" lemma="combinazione" pos="N">combinazione</wf>
+<wf id="d001.s026.t008" pos="X">con</wf>
+<wf id="d001.s026.t009" lemma="cisplatino" pos="N">cisplatino</wf>
+<wf id="d001.s026.t010" lemma="essere" pos="V">sono</wf>
+<wf id="d001.s026.t011" lemma="essere" pos="V">stati</wf>
+<wf id="d001.s026.t012" lemma="confrontare" pos="V">confrontati</wf>
+<wf id="d001.s026.t013" pos="X">con</wf>
+<wf id="d001.s026.t014" pos="X">quelli</wf>
+<wf id="d001.s026.t015" pos="X">di</wf>
+<wf id="d001.s026.t016" lemma="cisplatino" pos="N">cisplatino</wf>
+<wf id="d001.s026.t017" pos="X">in</wf>
+<wf id="d001.s026.t018" lemma="monoterapia" pos="N">monoterapia</wf>
+<wf id="d001.s026.t019" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s027">
+<wf id="d001.s027.t001" pos="X">Per</wf>
+<wf id="d001.s027.t002" pos="X">il</wf>
+<wf id="d001.s027.t003" lemma="trattamento" pos="N">trattamento</wf>
+<wf id="d001.s027.t004" pos="X">del</wf>
+<wf id="d001.s027.t005" lemma="carcinoma" pos="N">carcinoma</wf>
+<wf id="d001.s027.t006" lemma="polmonare" pos="J">polmonare</wf>
+<wf id="d001.s027.t007" pos="X">non</wf>
+<wf id="d001.s027.t008" pos="X">a</wf>
+<wf id="d001.s027.t009" lemma="piccolo" pos="J">piccole</wf>
+<wf id="d001.s027.t010" lemma="cellula" pos="N">cellule</wf>
+<wf id="d001.s027.t011" pos="X">,</wf>
+<wf id="d001.s027.t012" pos="X">gli</wf>
+<wf id="d001.s027.t013" lemma="effetto" pos="N">effetti</wf>
+<wf id="d001.s027.t014" pos="X">di</wf>
+<wf id="d001.s027.t015" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s027.t016" lemma="essere" pos="V">sono</wf>
+<wf id="d001.s027.t017" lemma="essere" pos="V">stati</wf>
+<wf id="d001.s027.t018" lemma="confrontare" pos="V">confrontati</wf>
+<wf id="d001.s027.t019" pos="X">con</wf>
+<wf id="d001.s027.t020" pos="X">quelli</wf>
+<wf id="d001.s027.t021" pos="X">di</wf>
+<wf id="d001.s027.t022" lemma="docetaxel" pos="N">docetaxel</wf>
+<wf id="d001.s027.t023" pos="X">(</wf>
+<wf id="d001.s027.t024" pos="X">un</wf>
+<wf id="d001.s027.t025" lemma="altro" pos="J">altro</wf>
+<wf id="d001.s027.t026" lemma="farmaco" pos="N">farmaco</wf>
+<wf id="d001.s027.t027" lemma="antitumorale" pos="J">antitumorale</wf>
+<wf id="d001.s027.t028" pos="X">)</wf>
+<wf id="d001.s027.t029" pos="X">in</wf>
+<wf id="d001.s027.t030" pos="X">uno</wf>
+<wf id="d001.s027.t031" lemma="studio" pos="N">studio</wf>
+<wf id="d001.s027.t032" lemma="condurre" pos="V">condotto</wf>
+<wf id="d001.s027.t033" pos="X">su</wf>
+<wf id="d001.s027.t034" pos="X">571</wf>
+<wf id="d001.s027.t035" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s027.t036" pos="X">con</wf>
+<wf id="d001.s027.t037" lemma="tumore" pos="N">tumore</wf>
+<wf id="d001.s027.t038" pos="X">in</wf>
+<wf id="d001.s027.t039" lemma="fase" pos="N">fase</wf>
+<wf id="d001.s027.t040" lemma="avanzato" pos="J">avanzata</wf>
+<wf id="d001.s027.t041" pos="X">o</wf>
+<wf id="d001.s027.t042" lemma="metastatico" pos="J">metastatica</wf>
+<wf id="d001.s027.t043" pos="X">,</wf>
+<wf id="d001.s027.t044" pos="X">già</wf>
+<wf id="d001.s027.t045" lemma="sottoporre" pos="V">sottoposti</wf>
+<wf id="d001.s027.t046" pos="X">in</wf>
+<wf id="d001.s027.t047" lemma="precedenza" pos="N">precedenza</wf>
+<wf id="d001.s027.t048" pos="X">a</wf>
+<wf id="d001.s027.t049" lemma="chemioterapia" pos="N">chemioterapia</wf>
+<wf id="d001.s027.t050" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s028">
+<wf id="d001.s028.t001" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s028.t002" lemma="essere" pos="V">è</wf>
+<wf id="d001.s028.t003" lemma="essere" pos="V">stato</wf>
+<wf id="d001.s028.t004" pos="X">anche</wf>
+<wf id="d001.s028.t005" lemma="confrontare" pos="V">confrontato</wf>
+<wf id="d001.s028.t006" pos="X">con</wf>
+<wf id="d001.s028.t007" lemma="gemcitabina" pos="N">gemcitabina</wf>
+<wf id="d001.s028.t008" pos="X">(</wf>
+<wf id="d001.s028.t009" pos="X">altro</wf>
+<wf id="d001.s028.t010" lemma="medicinale" pos="N">medicinale</wf>
+<wf id="d001.s028.t011" lemma="antitumorale" pos="J">antitumorale</wf>
+<wf id="d001.s028.t012" pos="X">)</wf>
+<wf id="d001.s028.t013" pos="X">,</wf>
+<wf id="d001.s028.t014" lemma="entrambi" pos="J">entrambi</wf>
+<wf id="d001.s028.t015" pos="X">in</wf>
+<wf id="d001.s028.t016" lemma="associazione" pos="N">associazione</wf>
+<wf id="d001.s028.t017" pos="X">con</wf>
+<wf id="d001.s028.t018" lemma="cisplatino" pos="N">cisplatino</wf>
+<wf id="d001.s028.t019" pos="X">,</wf>
+<wf id="d001.s028.t020" pos="X">in</wf>
+<wf id="d001.s028.t021" pos="X">uno</wf>
+<wf id="d001.s028.t022" lemma="studio" pos="N">studio</wf>
+<wf id="d001.s028.t023" pos="X">su</wf>
+<wf id="d001.s028.t024" pos="X">1.725</wf>
+<wf id="d001.s028.t025" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s028.t026" pos="X">che</wf>
+<wf id="d001.s028.t027" pos="X">in</wf>
+<wf id="d001.s028.t028" lemma="passato" pos="N">passato</wf>
+<wf id="d001.s028.t029" pos="X">non</wf>
+<wf id="d001.s028.t030" lemma="essere" pos="V">erano</wf>
+<wf id="d001.s028.t031" pos="X">mai</wf>
+<wf id="d001.s028.t032" lemma="essere" pos="V">stati</wf>
+<wf id="d001.s028.t033" lemma="sottoporre" pos="V">sottoposti</wf>
+<wf id="d001.s028.t034" pos="X">a</wf>
+<wf id="d001.s028.t035" lemma="chemioterapia" pos="N">chemioterapia</wf>
+<wf id="d001.s028.t036" pos="X">per</wf>
+<wf id="d001.s028.t037" lemma="tumore" pos="N">tumore</wf>
+<wf id="d001.s028.t038" lemma="polmonare" pos="J">polmonare</wf>
+<wf id="d001.s028.t039" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s029">
+<wf id="d001.s029.t001" pos="X">In</wf>
+<wf id="d001.s029.t002" lemma="tutto" pos="J">tutti</wf>
+<wf id="d001.s029.t003" pos="X">e</wf>
+<wf id="d001.s029.t004" lemma="tre" pos="J">tre</wf>
+<wf id="d001.s029.t005" pos="X">gli</wf>
+<wf id="d001.s029.t006" lemma="studio" pos="N">studi</wf>
+<wf id="d001.s029.t007" pos="X">,</wf>
+<wf id="d001.s029.t008" pos="X">il</wf>
+<wf id="d001.s029.t009" lemma="principale" pos="J">principale</wf>
+<wf id="d001.s029.t010" lemma="indicatore" pos="N">indicatore</wf>
+<wf id="d001.s029.t011" pos="X">dell</wf>
+<wf id="d001.s029.t012" lemma="efficacia" pos="N">efficacia</wf>
+<wf id="d001.s029.t013" lemma="essere" pos="V">era</wf>
+<wf id="d001.s029.t014" pos="X">il</wf>
+<wf id="d001.s029.t015" lemma="tempo" pos="N">tempo</wf>
+<wf id="d001.s029.t016" pos="X">di</wf>
+<wf id="d001.s029.t017" lemma="sopravvivenza" pos="N">sopravvivenza</wf>
+<wf id="d001.s029.t018" pos="X">dei</wf>
+<wf id="d001.s029.t019" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s029.t020" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s030">
+<wf id="d001.s030.t001" pos="X">Quali</wf>
+<wf id="d001.s030.t002" lemma="beneficio" pos="N">benefici</wf>
+<wf id="d001.s030.t003" lemma="avere" pos="V">ha</wf>
+<wf id="d001.s030.t004" lemma="mostrare" pos="V">mostrato</wf>
+<wf id="d001.s030.t005" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s030.t006" pos="X">nel</wf>
+<wf id="d001.s030.t007" lemma="corso" pos="N">corso</wf>
+<wf id="d001.s030.t008" pos="X">degli</wf>
+<wf id="d001.s030.t009" lemma="studio" pos="N">studi</wf>
+<wf id="d001.s030.t010" pos="X">?</wf>
+</sentence>
+<sentence id="d001.s031">
+<wf id="d001.s031.t001" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s031.t002" lemma="avere" pos="V">ha</wf>
+<wf id="d001.s031.t003" lemma="aumentare" pos="V">aumentato</wf>
+<wf id="d001.s031.t004" pos="X">il</wf>
+<wf id="d001.s031.t005" lemma="tempo" pos="N">tempo</wf>
+<wf id="d001.s031.t006" pos="X">di</wf>
+<wf id="d001.s031.t007" lemma="sopravvivenza" pos="N">sopravvivenza</wf>
+<wf id="d001.s031.t008" pos="X">dei</wf>
+<wf id="d001.s031.t009" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s031.t010" lemma="affetto" pos="J">affetti</wf>
+<wf id="d001.s031.t011" pos="X">da</wf>
+<wf id="d001.s031.t012" lemma="mesotelioma" pos="N">mesotelioma</wf>
+<wf id="d001.s031.t013" lemma="pleurico" pos="J">pleurico</wf>
+<wf id="d001.s031.t014" lemma="maligno" pos="J">maligno</wf>
+<wf id="d001.s031.t015" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s032">
+<wf id="d001.s032.t001" pos="X">I</wf>
+<wf id="d001.s032.t002" lemma="soggetto" pos="N">soggetti</wf>
+<wf id="d001.s032.t003" pos="X">a</wf>
+<wf id="d001.s032.t004" pos="X">cui</wf>
+<wf id="d001.s032.t005" lemma="essere" pos="V">è</wf>
+<wf id="d001.s032.t006" lemma="essere" pos="V">stato</wf>
+<wf id="d001.s032.t007" lemma="somministrare" pos="V">somministrato</wf>
+<wf id="d001.s032.t008" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s032.t009" pos="X">in</wf>
+<wf id="d001.s032.t010" lemma="combinazione" pos="N">combinazione</wf>
+<wf id="d001.s032.t011" pos="X">con</wf>
+<wf id="d001.s032.t012" lemma="cisplatino" pos="N">cisplatino</wf>
+<wf id="d001.s032.t013" lemma="essere" pos="V">sono</wf>
+<wf id="d001.s032.t014" lemma="sopravvivere" pos="V">sopravvissuti</wf>
+<wf id="d001.s032.t015" pos="X">in</wf>
+<wf id="d001.s032.t016" lemma="media" pos="N">media</wf>
+<wf id="d001.s032.t017" pos="X">12,1</wf>
+<wf id="d001.s032.t018" lemma="mese" pos="N">mesi</wf>
+<wf id="d001.s032.t019" pos="X">,</wf>
+<wf id="d001.s032.t020" lemma="rispetto" pos="N">rispetto</wf>
+<wf id="d001.s032.t021" pos="X">ai</wf>
+<wf id="d001.s032.t022" pos="X">9,3</wf>
+<wf id="d001.s032.t023" lemma="mese" pos="N">mesi</wf>
+<wf id="d001.s032.t024" pos="X">dei</wf>
+<wf id="d001.s032.t025" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s032.t026" pos="X">che</wf>
+<wf id="d001.s032.t027" lemma="avere" pos="V">hanno</wf>
+<wf id="d001.s032.t028" lemma="assumere" pos="V">assunto</wf>
+<wf id="d001.s032.t029" lemma="cisplatino" pos="N">cisplatino</wf>
+<wf id="d001.s032.t030" pos="X">in</wf>
+<wf id="d001.s032.t031" lemma="monoterapia" pos="N">monoterapia</wf>
+<wf id="d001.s032.t032" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s033">
+<wf id="d001.s033.t001" pos="X">Nel</wf>
+<wf id="d001.s033.t002" lemma="trattamento" pos="N">trattamento</wf>
+<wf id="d001.s033.t003" pos="X">dei</wf>
+<wf id="d001.s033.t004" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s033.t005" pos="X">con</wf>
+<wf id="d001.s033.t006" lemma="carcinoma" pos="N">carcinoma</wf>
+<wf id="d001.s033.t007" lemma="polmonare" pos="J">polmonare</wf>
+<wf id="d001.s033.t008" pos="X">non</wf>
+<wf id="d001.s033.t009" pos="X">a</wf>
+<wf id="d001.s033.t010" lemma="piccolo" pos="J">piccole</wf>
+<wf id="d001.s033.t011" lemma="cellula" pos="N">cellule</wf>
+<wf id="d001.s033.t012" pos="X">,</wf>
+<wf id="d001.s033.t013" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s033.t014" pos="X">si</wf>
+<wf id="d001.s033.t015" lemma="essere" pos="V">è</wf>
+<wf id="d001.s033.t016" lemma="rivelare" pos="V">rivelato</wf>
+<wf id="d001.s033.t017" pos="X">tanto</wf>
+<wf id="d001.s033.t018" lemma="efficace" pos="J">efficace</wf>
+<wf id="d001.s033.t019" pos="X">quanto</wf>
+<wf id="d001.s033.t020" pos="X">i</wf>
+<wf id="d001.s033.t021" lemma="comparatore" pos="N">comparatori</wf>
+<wf id="d001.s033.t022" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s034">
+<wf id="d001.s034.t001" pos="X">Nei</wf>
+<wf id="d001.s034.t002" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s034.t003" pos="X">che</wf>
+<wf id="d001.s034.t004" pos="X">in</wf>
+<wf id="d001.s034.t005" lemma="passato" pos="N">passato</wf>
+<wf id="d001.s034.t006" lemma="essere" pos="V">erano</wf>
+<wf id="d001.s034.t007" lemma="essere" pos="V">stati</wf>
+<wf id="d001.s034.t008" lemma="sottoporre" pos="V">sottoposti</wf>
+<wf id="d001.s034.t009" pos="X">a</wf>
+<wf id="d001.s034.t010" lemma="chemioterapia" pos="N">chemioterapia</wf>
+<wf id="d001.s034.t011" pos="X">,</wf>
+<wf id="d001.s034.t012" pos="X">il</wf>
+<wf id="d001.s034.t013" lemma="tempo" pos="N">tempo</wf>
+<wf id="d001.s034.t014" pos="X">di</wf>
+<wf id="d001.s034.t015" lemma="sopravvivenza" pos="N">sopravvivenza</wf>
+<wf id="d001.s034.t016" lemma="medio" pos="J">medio</wf>
+<wf id="d001.s034.t017" lemma="essere" pos="V">è</wf>
+<wf id="d001.s034.t018" lemma="essere" pos="V">stato</wf>
+<wf id="d001.s034.t019" pos="X">di</wf>
+<wf id="d001.s034.t020" pos="X">8,3</wf>
+<wf id="d001.s034.t021" lemma="mese" pos="N">mesi</wf>
+<wf id="d001.s034.t022" pos="X">con</wf>
+<wf id="d001.s034.t023" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s034.t024" pos="X">,</wf>
+<wf id="d001.s034.t025" pos="X">contro</wf>
+<wf id="d001.s034.t026" pos="X">7,9</wf>
+<wf id="d001.s034.t027" pos="X">con</wf>
+<wf id="d001.s034.t028" lemma="docetaxel" pos="N">docetaxel</wf>
+<wf id="d001.s034.t029" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s035">
+<wf id="d001.s035.t001" pos="X">Nei</wf>
+<wf id="d001.s035.t002" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s035.t003" pos="X">che</wf>
+<wf id="d001.s035.t004" pos="X">in</wf>
+<wf id="d001.s035.t005" lemma="passato" pos="N">passato</wf>
+<wf id="d001.s035.t006" pos="X">non</wf>
+<wf id="d001.s035.t007" lemma="essere" pos="V">erano</wf>
+<wf id="d001.s035.t008" lemma="essere" pos="V">stati</wf>
+<wf id="d001.s035.t009" lemma="sottoporre" pos="V">sottoposti</wf>
+<wf id="d001.s035.t010" pos="X">a</wf>
+<wf id="d001.s035.t011" lemma="chemioterapia" pos="N">chemioterapia</wf>
+<wf id="d001.s035.t012" pos="X">,</wf>
+<wf id="d001.s035.t013" pos="X">il</wf>
+<wf id="d001.s035.t014" lemma="tempo" pos="N">tempo</wf>
+<wf id="d001.s035.t015" pos="X">di</wf>
+<wf id="d001.s035.t016" lemma="sopravvivenza" pos="N">sopravvivenza</wf>
+<wf id="d001.s035.t017" lemma="medio" pos="J">medio</wf>
+<wf id="d001.s035.t018" lemma="essere" pos="V">è</wf>
+<wf id="d001.s035.t019" lemma="essere" pos="V">stato</wf>
+<wf id="d001.s035.t020" pos="X">di</wf>
+<wf id="d001.s035.t021" pos="X">10,3</wf>
+<wf id="d001.s035.t022" lemma="mese" pos="N">mesi</wf>
+<wf id="d001.s035.t023" pos="X">in</wf>
+<wf id="d001.s035.t024" lemma="entrambi" pos="J">entrambi</wf>
+<wf id="d001.s035.t025" pos="X">i</wf>
+<wf id="d001.s035.t026" lemma="gruppo" pos="N">gruppi</wf>
+<wf id="d001.s035.t027" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s036">
+<wf id="d001.s036.t001" lemma="tuttavia" pos="R">Tuttavia</wf>
+<wf id="d001.s036.t002" pos="X">,</wf>
+<wf id="d001.s036.t003" pos="X">in</wf>
+<wf id="d001.s036.t004" lemma="entrambi" pos="J">entrambi</wf>
+<wf id="d001.s036.t005" pos="X">gli</wf>
+<wf id="d001.s036.t006" lemma="studio" pos="N">studi</wf>
+<wf id="d001.s036.t007" pos="X">i</wf>
+<wf id="d001.s036.t008" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s036.t009" pos="X">il</wf>
+<wf id="d001.s036.t010" pos="X">cui</wf>
+<wf id="d001.s036.t011" lemma="tumore" pos="N">tumore</wf>
+<wf id="d001.s036.t012" pos="X">non</wf>
+<wf id="d001.s036.t013" lemma="interessare" pos="V">interessava</wf>
+<wf id="d001.s036.t014" lemma="cellula" pos="N">cellule</wf>
+<wf id="d001.s036.t015" lemma="squamoso" pos="J">squamose</wf>
+<wf id="d001.s036.t016" lemma="avere" pos="V">hanno</wf>
+<wf id="d001.s036.t017" lemma="riportare" pos="V">riportato</wf>
+<wf id="d001.s036.t018" lemma="tempo" pos="N">tempi</wf>
+<wf id="d001.s036.t019" pos="X">di</wf>
+<wf id="d001.s036.t020" lemma="sopravvivenza" pos="N">sopravvivenza</wf>
+<wf id="d001.s036.t021" pos="X">più</wf>
+<wf id="d001.s036.t022" lemma="lungo" pos="J">lunghi</wf>
+<wf id="d001.s036.t023" pos="X">se</wf>
+<wf id="d001.s036.t024" lemma="trattare" pos="V">trattati</wf>
+<wf id="d001.s036.t025" pos="X">con</wf>
+<wf id="d001.s036.t026" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s036.t027" pos="X">che</wf>
+<wf id="d001.s036.t028" pos="X">se</wf>
+<wf id="d001.s036.t029" lemma="trattare" pos="V">trattati</wf>
+<wf id="d001.s036.t030" pos="X">con</wf>
+<wf id="d001.s036.t031" pos="X">il</wf>
+<wf id="d001.s036.t032" lemma="comparatore" pos="N">comparatore</wf>
+<wf id="d001.s036.t033" pos="X">.</wf>
+</sentence>
+<sentence id="d001.s037">
+<wf id="d001.s037.t001" lemma="invece" pos="R">Invece</wf>
+<wf id="d001.s037.t002" pos="X">,</wf>
+<wf id="d001.s037.t003" pos="X">i</wf>
+<wf id="d001.s037.t004" lemma="paziente" pos="N">pazienti</wf>
+<wf id="d001.s037.t005" pos="X">il</wf>
+<wf id="d001.s037.t006" pos="X">cui</wf>
+<wf id="d001.s037.t007" lemma="tumore" pos="N">tumore</wf>
+<wf id="d001.s037.t008" lemma="interessare" pos="V">interessava</wf>
+<wf id="d001.s037.t009" lemma="cellula" pos="N">cellule</wf>
+<wf id="d001.s037.t010" lemma="squamoso" pos="J">squamose</wf>
+<wf id="d001.s037.t011" lemma="avere" pos="V">hanno</wf>
+<wf id="d001.s037.t012" lemma="riportare" pos="V">riportato</wf>
+<wf id="d001.s037.t013" lemma="tempo" pos="N">tempi</wf>
+<wf id="d001.s037.t014" pos="X">di</wf>
+<wf id="d001.s037.t015" lemma="sopravvivenza" pos="N">sopravvivenza</wf>
+<wf id="d001.s037.t016" pos="X">più</wf>
+<wf id="d001.s037.t017" lemma="breve" pos="J">brevi</wf>
+<wf id="d001.s037.t018" pos="X">se</wf>
+<wf id="d001.s037.t019" lemma="trattare" pos="V">trattati</wf>
+<wf id="d001.s037.t020" pos="X">con</wf>
+<wf id="d001.s037.t021" lemma="alimta" pos="N">Alimta</wf>
+<wf id="d001.s037.t022" pos="X">.</wf>
+</sentence>
+</text>
+<text id="d002">
+<sentence id="d002.s001">
+<wf id="d002.s001.t001" lemma="kalgebra" pos="N">kalgebra</wf>
+<wf id="d002.s001.t002" lemma="essere" pos="V">è</wf>
+<wf id="d002.s001.t003" pos="X">una</wf>
+<wf id="d002.s001.t004" lemma="calcolatrice" pos="N">calcolatrice</wf>
+<wf id="d002.s001.t005" lemma="matematico" pos="J">matematica</wf>
+<wf id="d002.s001.t006" lemma="basare" pos="V">basata</wf>
+<wf id="d002.s001.t007" pos="X">sul</wf>
+<wf id="d002.s001.t008" lemma="linguaggio" pos="N">linguaggio</wf>
+<wf id="d002.s001.t009" lemma="mathml" pos="N">MathML</wf>
+<wf id="d002.s001.t010" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s002">
+<wf id="d002.s002.t001" lemma="potere" pos="V">Può</wf>
+<wf id="d002.s002.t002" lemma="eseguire" pos="V">eseguire</wf>
+<wf id="d002.s002.t003" lemma="semplice" pos="J">semplici</wf>
+<wf id="d002.s002.t004" lemma="operazione" pos="N">operazioni</wf>
+<wf id="d002.s002.t005" pos="X">(</wf>
+<wf id="d002.s002.t006" lemma="aritmetico" pos="J">aritmetiche</wf>
+<wf id="d002.s002.t007" pos="X">e</wf>
+<wf id="d002.s002.t008" lemma="logico" pos="J">logiche</wf>
+<wf id="d002.s002.t009" pos="X">)</wf>
+<wf id="d002.s002.t010" pos="X">in</wf>
+<wf id="d002.s002.t011" lemma="mathml" pos="N">MathML</wf>
+<wf id="d002.s002.t012" pos="X">e</wf>
+<wf id="d002.s002.t013" lemma="potere" pos="V">può</wf>
+<wf id="d002.s002.t014" lemma="rappresentare" pos="V">rappresentare</wf>
+<wf id="d002.s002.t015" lemma="grafico" pos="N">grafici</wf>
+<wf id="d002.s002.t016" lemma="2d" pos="N">2D</wf>
+<wf id="d002.s002.t017" pos="X">e</wf>
+<wf id="d002.s002.t018" lemma="3d" pos="N">3D</wf>
+<wf id="d002.s002.t019" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s003">
+<wf id="d002.s003.t001" lemma="non" pos="R">Non</wf>
+<wf id="d002.s003.t002" lemma="essere" pos="V">è</wf>
+<wf id="d002.s003.t003" lemma="necessario" pos="J">necessario</wf>
+<wf id="d002.s003.t004" lemma="conoscere" pos="V">conoscere</wf>
+<wf id="d002.s003.t005" lemma="mathml" pos="N">MathML</wf>
+<wf id="d002.s003.t006" pos="X">per</wf>
+<wf id="d002.s003.t007" lemma="usare" pos="V">usare</wf>
+<wf id="d002.s003.t008" lemma="kalgebra" pos="N">kalgebra</wf>
+<wf id="d002.s003.t009" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s004">
+<wf id="d002.s004.t001" lemma="kalgebra" pos="N">kalgebra</wf>
+<wf id="d002.s004.t002" lemma="essere" pos="V">è</wf>
+<wf id="d002.s004.t003" pos="X">una</wf>
+<wf id="d002.s004.t004" lemma="calcolatrice" pos="N">calcolatrice</wf>
+<wf id="d002.s004.t005" lemma="grafico" pos="J">grafica</wf>
+<wf id="d002.s004.t006" lemma="basare" pos="V">basata</wf>
+<wf id="d002.s004.t007" pos="X">sul</wf>
+<wf id="d002.s004.t008" lemma="linguaggio" pos="N">linguaggio</wf>
+<wf id="d002.s004.t009" lemma="mathml" pos="N">MathML</wf>
+<wf id="d002.s004.t010" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s005">
+<wf id="d002.s005.t001" pos="X">Anche</wf>
+<wf id="d002.s005.t002" pos="X">se</wf>
+<wf id="d002.s005.t003" lemma="inizialmente" pos="R">inizialmente</wf>
+<wf id="d002.s005.t004" lemma="essere" pos="V">era</wf>
+<wf id="d002.s005.t005" lemma="orientare" pos="V">orientata</wf>
+<wf id="d002.s005.t006" pos="X">all'</wf>
+<wf id="d002.s005.t007" lemma="uso" pos="N">uso</wf>
+<wf id="d002.s005.t008" lemma="usare" pos="V">usando</wf>
+<wf id="d002.s005.t009" lemma="mathml" pos="N">MathML</wf>
+<wf id="d002.s005.t010" pos="X">,</wf>
+<wf id="d002.s005.t011" lemma="potere" pos="V">può</wf>
+<wf id="d002.s005.t012" lemma="essere" pos="V">essere</wf>
+<wf id="d002.s005.t013" lemma="usare" pos="V">usata</wf>
+<wf id="d002.s005.t014" pos="X">da</wf>
+<wf id="d002.s005.t015" pos="X">chiunque</wf>
+<wf id="d002.s005.t016" pos="X">con</wf>
+<wf id="d002.s005.t017" pos="X">un</wf>
+<wf id="d002.s005.t018" lemma="minimo" pos="N">minimo</wf>
+<wf id="d002.s005.t019" pos="X">di</wf>
+<wf id="d002.s005.t020" lemma="conoscenza" pos="N">conoscenza</wf>
+<wf id="d002.s005.t021" lemma="matematico" pos="J">matematica</wf>
+<wf id="d002.s005.t022" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s006">
+<wf id="d002.s006.t001" lemma="immagine" pos="N">Immagine</wf>
+<wf id="d002.s006.t002" pos="X">della</wf>
+<wf id="d002.s006.t003" lemma="finestra" pos="N">finestra</wf>
+<wf id="d002.s006.t004" lemma="principale" pos="J">principale</wf>
+<wf id="d002.s006.t005" pos="X">di</wf>
+<wf id="d002.s006.t006" lemma="kalgebra" pos="N">kalgebra</wf>
+</sentence>
+<sentence id="d002.s007">
+<wf id="d002.s007.t001" lemma="finestra" pos="N">Finestra</wf>
+<wf id="d002.s007.t002" lemma="principale" pos="J">principale</wf>
+<wf id="d002.s007.t003" pos="X">di</wf>
+<wf id="d002.s007.t004" lemma="kalgebra" pos="N">kalgebra</wf>
+</sentence>
+<sentence id="d002.s008">
+<wf id="d002.s008.t001" pos="X">La</wf>
+<wf id="d002.s008.t002" lemma="finestra" pos="N">finestra</wf>
+<wf id="d002.s008.t003" lemma="principale" pos="J">principale</wf>
+<wf id="d002.s008.t004" pos="X">di</wf>
+<wf id="d002.s008.t005" lemma="kalgebra" pos="N">kalgebra</wf>
+<wf id="d002.s008.t006" lemma="essere" pos="V">è</wf>
+<wf id="d002.s008.t007" lemma="comporre" pos="V">composta</wf>
+<wf id="d002.s008.t008" pos="X">da</wf>
+<wf id="d002.s008.t009" pos="X">una</wf>
+<wf id="d002.s008.t010" lemma="scheda" pos="N">scheda</wf>
+<wf id="d002.s008.t011" lemma="console" pos="N">Console</wf>
+<wf id="d002.s008.t012" pos="X">,</wf>
+<wf id="d002.s008.t013" pos="X">una</wf>
+<wf id="d002.s008.t014" lemma="scheda" pos="N">scheda</wf>
+<wf id="d002.s008.t015" lemma="2d" pos="N">2D</wf>
+<wf id="d002.s008.t016" pos="X">,</wf>
+<wf id="d002.s008.t017" pos="X">una</wf>
+<wf id="d002.s008.t018" lemma="scheda" pos="N">scheda</wf>
+<wf id="d002.s008.t019" lemma="3d" pos="N">3D</wf>
+<wf id="d002.s008.t020" pos="X">e</wf>
+<wf id="d002.s008.t021" pos="X">una</wf>
+<wf id="d002.s008.t022" lemma="scheda" pos="N">scheda</wf>
+<wf id="d002.s008.t023" lemma="dizionario" pos="N">Dizionario</wf>
+<wf id="d002.s008.t024" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s009">
+<wf id="d002.s009.t001" pos="X">Sotto</wf>
+<wf id="d002.s009.t002" pos="X">queste</wf>
+<wf id="d002.s009.t003" lemma="scheda" pos="N">schede</wf>
+<wf id="d002.s009.t004" pos="X">si</wf>
+<wf id="d002.s009.t005" lemma="trovare" pos="V">trova</wf>
+<wf id="d002.s009.t006" pos="X">un</wf>
+<wf id="d002.s009.t007" lemma="campo" pos="N">campo</wf>
+<wf id="d002.s009.t008" pos="X">di</wf>
+<wf id="d002.s009.t009" lemma="inserimento" pos="N">inserimento</wf>
+<wf id="d002.s009.t010" pos="X">per</wf>
+<wf id="d002.s009.t011" lemma="scrivere" pos="V">scrivere</wf>
+<wf id="d002.s009.t012" pos="X">le</wf>
+<wf id="d002.s009.t013" lemma="funzione" pos="N">funzioni</wf>
+<wf id="d002.s009.t014" pos="X">o</wf>
+<wf id="d002.s009.t015" lemma="fare" pos="V">fare</wf>
+<wf id="d002.s009.t016" lemma="calcolo" pos="N">calcoli</wf>
+<wf id="d002.s009.t017" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s010">
+<wf id="d002.s010.t001" pos="X">Se</wf>
+<wf id="d002.s010.t002" lemma="volere" pos="V">vogliamo</wf>
+<wf id="d002.s010.t003" lemma="capire" pos="V">capire</wf>
+<wf id="d002.s010.t004" pos="X">come</wf>
+<wf id="d002.s010.t005" lemma="funzionare" pos="V">funziona</wf>
+<wf id="d002.s010.t006" pos="X">,</wf>
+<wf id="d002.s010.t007" pos="X">la</wf>
+<wf id="d002.s010.t008" lemma="cosa" pos="N">cosa</wf>
+<wf id="d002.s010.t009" lemma="migliore" pos="J">migliore</wf>
+<wf id="d002.s010.t010" pos="X">da</wf>
+<wf id="d002.s010.t011" lemma="fare" pos="V">fare</wf>
+<wf id="d002.s010.t012" lemma="essere" pos="V">è</wf>
+<wf id="d002.s010.t013" lemma="comprendere" pos="V">comprendere</wf>
+<wf id="d002.s010.t014" pos="X">che</wf>
+<wf id="d002.s010.t015" pos="X">ciò</wf>
+<wf id="d002.s010.t016" pos="X">che</wf>
+<wf id="d002.s010.t017" lemma="venire" pos="V">viene</wf>
+<wf id="d002.s010.t018" lemma="inserire" pos="V">inserito</wf>
+<wf id="d002.s010.t019" lemma="essere" pos="V">è</wf>
+<wf id="d002.s010.t020" lemma="convertire" pos="V">convertito</wf>
+<wf id="d002.s010.t021" pos="X">in</wf>
+<wf id="d002.s010.t022" lemma="mathml" pos="N">MathML</wf>
+<wf id="d002.s010.t023" pos="X">,</wf>
+<wf id="d002.s010.t024" pos="X">anche</wf>
+<wf id="d002.s010.t025" pos="X">se</wf>
+<wf id="d002.s010.t026" pos="X">non</wf>
+<wf id="d002.s010.t027" lemma="essere" pos="V">è</wf>
+<wf id="d002.s010.t028" lemma="necessario" pos="J">necessario</wf>
+<wf id="d002.s010.t029" lemma="conoscere" pos="V">conoscere</wf>
+<wf id="d002.s010.t030" lemma="mathml" pos="N">MathML</wf>
+<wf id="d002.s010.t031" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s011">
+<wf id="d002.s011.t001" lemma="avere" pos="V">Ho</wf>
+<wf id="d002.s011.t002" lemma="basare" pos="V">basato</wf>
+<wf id="d002.s011.t003" pos="X">la</wf>
+<wf id="d002.s011.t004" lemma="sintassi" pos="N">sintassi</wf>
+<wf id="d002.s011.t005" lemma="praticamente" pos="R">praticamente</wf>
+<wf id="d002.s011.t006" pos="X">sul</wf>
+<wf id="d002.s011.t007" lemma="senso" pos="N">senso</wf>
+<wf id="d002.s011.t008" lemma="comune" pos="J">comune</wf>
+<wf id="d002.s011.t009" pos="X">,</wf>
+<wf id="d002.s011.t010" pos="X">e</wf>
+<wf id="d002.s011.t011" pos="X">non</wf>
+<wf id="d002.s011.t012" lemma="dovere" pos="V">dovrebbe</wf>
+<wf id="d002.s011.t013" lemma="essere" pos="V">essere</wf>
+<wf id="d002.s011.t014" lemma="difficile" pos="J">difficile</wf>
+<wf id="d002.s011.t015" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s012">
+<wf id="d002.s012.t001" lemma="avere" pos="V">Ho</wf>
+<wf id="d002.s012.t002" lemma="dare" pos="V">dato</wf>
+<wf id="d002.s012.t003" pos="X">un'</wf>
+<wf id="d002.s012.t004" lemma="occhiata" pos="N">occhiata</wf>
+<wf id="d002.s012.t005" pos="X">alla</wf>
+<wf id="d002.s012.t006" lemma="sintassi" pos="N">sintassi</wf>
+<wf id="d002.s012.t007" pos="X">di</wf>
+<wf id="d002.s012.t008" lemma="maxima" pos="N">Maxima</wf>
+<wf id="d002.s012.t009" pos="X">e</wf>
+<wf id="d002.s012.t010" pos="X">di</wf>
+<wf id="d002.s012.t011" lemma="maple" pos="N">Maple</wf>
+<wf id="d002.s012.t012" pos="X">,</wf>
+<wf id="d002.s012.t013" pos="X">in</wf>
+<wf id="d002.s012.t014" lemma="modo" pos="N">modo</wf>
+<wf id="d002.s012.t015" pos="X">da</wf>
+<wf id="d002.s012.t016" lemma="essere" pos="V">esserne</wf>
+<wf id="d002.s012.t017" lemma="abbastanza" pos="R">abbastanza</wf>
+<wf id="d002.s012.t018" lemma="simile" pos="J">simile</wf>
+<wf id="d002.s012.t019" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s013">
+<wf id="d002.s013.t001" pos="X">+</wf>
+<wf id="d002.s013.t002" pos="X">-</wf>
+<wf id="d002.s013.t003" pos="X">*</wf>
+<wf id="d002.s013.t004" pos="X">/</wf>
+<wf id="d002.s013.t005" pos="X">:</wf>
+<wf id="d002.s013.t006" lemma="addizione" pos="N">addizione</wf>
+<wf id="d002.s013.t007" pos="X">,</wf>
+<wf id="d002.s013.t008" lemma="sottrazione" pos="N">sottrazione</wf>
+<wf id="d002.s013.t009" pos="X">,</wf>
+<wf id="d002.s013.t010" lemma="moltiplicazione" pos="N">moltiplicazione</wf>
+<wf id="d002.s013.t011" pos="X">e</wf>
+<wf id="d002.s013.t012" lemma="divisione" pos="N">divisione</wf>
+<wf id="d002.s013.t013" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s014">
+<wf id="d002.s014.t001" lemma="^" pos="X">^</wf>
+<wf id="d002.s014.t002" pos="X">,</wf>
+<wf id="d002.s014.t003" lemma="**" pos="X">**</wf>
+<wf id="d002.s014.t004" pos="X">:</wf>
+<wf id="d002.s014.t005" lemma="elevamento" pos="N">elevamento</wf>
+<wf id="d002.s014.t006" pos="X">a</wf>
+<wf id="d002.s014.t007" lemma="potenza" pos="N">potenza</wf>
+<wf id="d002.s014.t008" pos="X">,</wf>
+<wf id="d002.s014.t009" lemma="potere" pos="V">puoi</wf>
+<wf id="d002.s014.t010" lemma="usare" pos="V">usare</wf>
+<wf id="d002.s014.t011" lemma="entrambi" pos="J">entrambi</wf>
+<wf id="d002.s014.t012" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s015">
+<wf id="d002.s015.t001" lemma="essere" pos="V">È</wf>
+<wf id="d002.s015.t002" pos="X">anche</wf>
+<wf id="d002.s015.t003" lemma="possibile" pos="J">possibile</wf>
+<wf id="d002.s015.t004" lemma="usare" pos="V">usare</wf>
+<wf id="d002.s015.t005" pos="X">il</wf>
+<wf id="d002.s015.t006" lemma="carattere" pos="N">carattere</wf>
+<wf id="d002.s015.t007" lemma="unicode" pos="N">Unicode</wf>
+<wf id="d002.s015.t008" pos="X">²</wf>
+<wf id="d002.s015.t009" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s016">
+<wf id="d002.s016.t001" pos="X">Con</wf>
+<wf id="d002.s016.t002" pos="X">gli</wf>
+<wf id="d002.s016.t003" lemma="elevamento" pos="N">elevamenti</wf>
+<wf id="d002.s016.t004" pos="X">a</wf>
+<wf id="d002.s016.t005" lemma="potenza" pos="N">potenza</wf>
+<wf id="d002.s016.t006" lemma="essere" pos="V">è</wf>
+<wf id="d002.s016.t007" pos="X">anche</wf>
+<wf id="d002.s016.t008" lemma="possibile" pos="J">possibile</wf>
+<wf id="d002.s016.t009" lemma="effettuare" pos="V">effettuare</wf>
+<wf id="d002.s016.t010" lemma="radice" pos="N">radici</wf>
+</sentence>
+<sentence id="d002.s017">
+<wf id="d002.s017.t001" pos="X">-gt</wf>
+<wf id="d002.s017.t002" pos="X">:</wf>
+<wf id="d002.s017.t003" lemma="essere" pos="V">È</wf>
+<wf id="d002.s017.t004" pos="X">il</wf>
+<wf id="d002.s017.t005" lemma="modo" pos="N">modo</wf>
+<wf id="d002.s017.t006" pos="X">di</wf>
+<wf id="d002.s017.t007" lemma="specificare" pos="V">specificare</wf>
+<wf id="d002.s017.t008" pos="X">la</wf>
+<wf id="d002.s017.t009" lemma="variabile" pos="N">variabile</wf>
+<wf id="d002.s017.t010" lemma="vincolare" pos="V">vincolata</wf>
+<wf id="d002.s017.t011" pos="X">in</wf>
+<wf id="d002.s017.t012" pos="X">una</wf>
+<wf id="d002.s017.t013" lemma="funzione" pos="N">funzione</wf>
+<wf id="d002.s017.t014" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s018">
+<wf id="d002.s018.t001" pos="X">(</wf>
+<wf id="d002.s018.t002" pos="X">)</wf>
+<wf id="d002.s018.t003" pos="X">:</wf>
+<wf id="d002.s018.t004" lemma="usare" pos="V">usato</wf>
+<wf id="d002.s018.t005" pos="X">per</wf>
+<wf id="d002.s018.t006" lemma="specificare" pos="V">specificare</wf>
+<wf id="d002.s018.t007" pos="X">una</wf>
+<wf id="d002.s018.t008" lemma="priorità" pos="N">priorità</wf>
+<wf id="d002.s018.t009" pos="X">più</wf>
+<wf id="d002.s018.t010" lemma="alto" pos="J">alta</wf>
+<wf id="d002.s018.t011" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s019">
+<wf id="d002.s019.t001" pos="X">abc(parametri)</wf>
+<wf id="d002.s019.t002" pos="X">:</wf>
+<wf id="d002.s019.t003" pos="X">Quando</wf>
+<wf id="d002.s019.t004" pos="X">l'</wf>
+<wf id="d002.s019.t005" lemma="analizzatore" pos="N">analizzatore</wf>
+<wf id="d002.s019.t006" lemma="trovare" pos="V">trova</wf>
+<wf id="d002.s019.t007" pos="X">una</wf>
+<wf id="d002.s019.t008" lemma="funzione" pos="N">funzione</wf>
+<wf id="d002.s019.t009" pos="X">,</wf>
+<wf id="d002.s019.t010" lemma="controllare" pos="V">controlla</wf>
+<wf id="d002.s019.t011" pos="X">se</wf>
+<wf id="d002.s019.t012" pos="X">«</wf>
+<wf id="d002.s019.t013" pos="X">abc</wf>
+<wf id="d002.s019.t014" pos="X">»</wf>
+<wf id="d002.s019.t015" lemma="essere" pos="V">è</wf>
+<wf id="d002.s019.t016" pos="X">un</wf>
+<wf id="d002.s019.t017" lemma="operatore" pos="N">operatore</wf>
+<wf id="d002.s019.t018" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s020">
+<wf id="d002.s020.t001" pos="X">Se</wf>
+<wf id="d002.s020.t002" pos="X">lo</wf>
+<wf id="d002.s020.t003" lemma="essere" pos="V">è</wf>
+<wf id="d002.s020.t004" pos="X">,</wf>
+<wf id="d002.s020.t005" lemma="essere" pos="V">sarà</wf>
+<wf id="d002.s020.t006" lemma="trattare" pos="V">trattato</wf>
+<wf id="d002.s020.t007" pos="X">come</wf>
+<wf id="d002.s020.t008" pos="X">un</wf>
+<wf id="d002.s020.t009" lemma="operatore" pos="N">operatore</wf>
+<wf id="d002.s020.t010" pos="X">se</wf>
+<wf id="d002.s020.t011" pos="X">non</wf>
+<wf id="d002.s020.t012" pos="X">lo</wf>
+<wf id="d002.s020.t013" lemma="essere" pos="V">è</wf>
+<wf id="d002.s020.t014" pos="X">,</wf>
+<wf id="d002.s020.t015" lemma="essere" pos="V">sarà</wf>
+<wf id="d002.s020.t016" lemma="trattare" pos="V">trattato</wf>
+<wf id="d002.s020.t017" pos="X">come</wf>
+<wf id="d002.s020.t018" pos="X">una</wf>
+<wf id="d002.s020.t019" lemma="funzione" pos="N">funzione</wf>
+<wf id="d002.s020.t020" lemma="utente" pos="N">utente</wf>
+<wf id="d002.s020.t021" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s021">
+<wf id="d002.s021.t001" pos="X">:</wf>
+<wf id="d002.s021.t002" pos="X">=</wf>
+<wf id="d002.s021.t003" pos="X">:</wf>
+<wf id="d002.s021.t004" lemma="usare" pos="V">Usata</wf>
+<wf id="d002.s021.t005" pos="X">per</wf>
+<wf id="d002.s021.t006" lemma="definire" pos="V">definire</wf>
+<wf id="d002.s021.t007" pos="X">il</wf>
+<wf id="d002.s021.t008" lemma="valore" pos="N">valore</wf>
+<wf id="d002.s021.t009" pos="X">di</wf>
+<wf id="d002.s021.t010" pos="X">una</wf>
+<wf id="d002.s021.t011" lemma="variabile" pos="N">variabile</wf>
+<wf id="d002.s021.t012" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s022">
+<wf id="d002.s022.t001" pos="X">?</wf>
+<wf id="d002.s022.t002" pos="X">:</wf>
+<wf id="d002.s022.t003" lemma="definizione" pos="N">Definizione</wf>
+<wf id="d002.s022.t004" pos="X">di</wf>
+<wf id="d002.s022.t005" lemma="condizione" pos="N">condizione</wf>
+<wf id="d002.s022.t006" lemma="definire" pos="V">definita</wf>
+<wf id="d002.s022.t007" pos="X">a</wf>
+<wf id="d002.s022.t008" lemma="tratto" pos="N">tratti</wf>
+<wf id="d002.s022.t009" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s023">
+<wf id="d002.s023.t001" pos="X">Una</wf>
+<wf id="d002.s023.t002" lemma="definizione" pos="N">definizione</wf>
+<wf id="d002.s023.t003" pos="X">"</wf>
+<wf id="d002.s023.t004" pos="X">a</wf>
+<wf id="d002.s023.t005" lemma="tratto" pos="N">tratti</wf>
+<wf id="d002.s023.t006" pos="X">"</wf>
+<wf id="d002.s023.t007" lemma="essere" pos="V">è</wf>
+<wf id="d002.s023.t008" pos="X">il</wf>
+<wf id="d002.s023.t009" lemma="modo" pos="N">modo</wf>
+<wf id="d002.s023.t010" pos="X">in</wf>
+<wf id="d002.s023.t011" pos="X">cui</wf>
+<wf id="d002.s023.t012" lemma="potere" pos="V">possiamo</wf>
+<wf id="d002.s023.t013" lemma="definire" pos="V">definire</wf>
+<wf id="d002.s023.t014" lemma="operazione" pos="N">operazioni</wf>
+<wf id="d002.s023.t015" lemma="condizionale" pos="J">condizionali</wf>
+<wf id="d002.s023.t016" pos="X">in</wf>
+<wf id="d002.s023.t017" lemma="kalgebra" pos="N">kalgebra</wf>
+<wf id="d002.s023.t018" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s024">
+<wf id="d002.s024.t001" pos="X">Se</wf>
+<wf id="d002.s024.t002" lemma="introdurre" pos="V">introduciamo</wf>
+<wf id="d002.s024.t003" pos="X">la</wf>
+<wf id="d002.s024.t004" lemma="condizione" pos="N">condizione</wf>
+<wf id="d002.s024.t005" lemma="primo" pos="J">prima</wf>
+<wf id="d002.s024.t006" pos="X">del</wf>
+<wf id="d002.s024.t007" pos="X">«</wf>
+<wf id="d002.s024.t008" pos="X">?</wf>
+<wf id="d002.s024.t009" pos="X">»</wf>
+<wf id="d002.s024.t010" pos="X">,</wf>
+<wf id="d002.s024.t011" pos="X">questa</wf>
+<wf id="d002.s024.t012" lemma="condizione" pos="N">condizione</wf>
+<wf id="d002.s024.t013" lemma="essere" pos="V">sarà</wf>
+<wf id="d002.s024.t014" lemma="usare" pos="V">usata</wf>
+<wf id="d002.s024.t015" pos="X">solo</wf>
+<wf id="d002.s024.t016" pos="X">se</wf>
+<wf id="d002.s024.t017" lemma="essere" pos="V">è</wf>
+<wf id="d002.s024.t018" lemma="vero" pos="J">vera</wf>
+<wf id="d002.s024.t019" pos="X">se</wf>
+<wf id="d002.s024.t020" lemma="venire" pos="V">viene</wf>
+<wf id="d002.s024.t021" lemma="trovare" pos="V">trovato</wf>
+<wf id="d002.s024.t022" pos="X">un</wf>
+<wf id="d002.s024.t023" pos="X">«</wf>
+<wf id="d002.s024.t024" pos="X">?</wf>
+<wf id="d002.s024.t025" pos="X">»</wf>
+<wf id="d002.s024.t026" pos="X">senza</wf>
+<wf id="d002.s024.t027" lemma="condizione" pos="N">condizione</wf>
+<wf id="d002.s024.t028" pos="X">,</wf>
+<wf id="d002.s024.t029" lemma="venire" pos="V">verrà</wf>
+<wf id="d002.s024.t030" lemma="usare" pos="V">usato</wf>
+<wf id="d002.s024.t031" pos="X">come</wf>
+<wf id="d002.s024.t032" lemma="ultimo" pos="J">ultima</wf>
+<wf id="d002.s024.t033" lemma="alternativa" pos="N">alternativa</wf>
+<wf id="d002.s024.t034" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s025">
+<wf id="d002.s025.t001" pos="X">{</wf>
+<wf id="d002.s025.t002" pos="X">}</wf>
+<wf id="d002.s025.t003" pos="X">:</wf>
+<wf id="d002.s025.t004" lemma="contenitore" pos="N">contenitore</wf>
+<wf id="d002.s025.t005" lemma="mathml" pos="N">MathML</wf>
+<wf id="d002.s025.t006" pos="X">;</wf>
+<wf id="d002.s025.t007" lemma="potere" pos="V">Può</wf>
+<wf id="d002.s025.t008" lemma="essere" pos="V">essere</wf>
+<wf id="d002.s025.t009" lemma="usare" pos="V">usato</wf>
+<wf id="d002.s025.t010" pos="X">per</wf>
+<wf id="d002.s025.t011" lemma="definire" pos="V">definire</wf>
+<wf id="d002.s025.t012" pos="X">un</wf>
+<wf id="d002.s025.t013" lemma="contenitore" pos="N">contenitore</wf>
+<wf id="d002.s025.t014" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s026">
+<wf id="d002.s026.t001" lemma="utile" pos="N">Utile</wf>
+<wf id="d002.s026.t002" lemma="principalmente" pos="R">principalmente</wf>
+<wf id="d002.s026.t003" pos="X">per</wf>
+<wf id="d002.s026.t004" pos="X">le</wf>
+<wf id="d002.s026.t005" lemma="funzione" pos="N">funzioni</wf>
+<wf id="d002.s026.t006" lemma="definire" pos="V">definite</wf>
+<wf id="d002.s026.t007" pos="X">a</wf>
+<wf id="d002.s026.t008" lemma="tratto" pos="N">tratti</wf>
+<wf id="d002.s026.t009" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s027">
+<wf id="d002.s027.t001" lemma="adesso" pos="R">Adesso</wf>
+<wf id="d002.s027.t002" lemma="potere" pos="V">potresti</wf>
+<wf id="d002.s027.t003" lemma="chiedere" pos="V">chiedermi</wf>
+<wf id="d002.s027.t004" pos="X">:</wf>
+<wf id="d002.s027.t005" pos="X">perché</wf>
+<wf id="d002.s027.t006" pos="X">l'</wf>
+<wf id="d002.s027.t007" lemma="utente" pos="N">utente</wf>
+<wf id="d002.s027.t008" lemma="dovere" pos="V">dovrebbe</wf>
+<wf id="d002.s027.t009" lemma="conoscere" pos="V">conoscere</wf>
+<wf id="d002.s027.t010" lemma="mathml" pos="N">MathML</wf>
+<wf id="d002.s027.t011" pos="X">?</wf>
+<wf id="d002.s027.t012" lemma="semplice" pos="J">Semplice</wf>
+<wf id="d002.s027.t013" pos="X">:</wf>
+<wf id="d002.s027.t014" pos="X">con</wf>
+<wf id="d002.s027.t015" pos="X">il</wf>
+<wf id="d002.s027.t016" lemma="mathml" pos="N">MathML</wf>
+<wf id="d002.s027.t017" lemma="potere" pos="V">possiamo</wf>
+<wf id="d002.s027.t018" lemma="operare" pos="V">operare</wf>
+<wf id="d002.s027.t019" pos="X">con</wf>
+<wf id="d002.s027.t020" lemma="funzione" pos="N">funzioni</wf>
+<wf id="d002.s027.t021" pos="X">come</wf>
+<wf id="d002.s027.t022" lemma="cos" pos="N">cos()</wf>
+<wf id="d002.s027.t023" pos="X">,</wf>
+<wf id="d002.s027.t024" lemma="sin" pos="N">sin()</wf>
+<wf id="d002.s027.t025" pos="X">(</wf>
+<wf id="d002.s027.t026" pos="X">e</wf>
+<wf id="d002.s027.t027" lemma="qualsiasi" pos="J">qualsiasi</wf>
+<wf id="d002.s027.t028" pos="X">altra</wf>
+<wf id="d002.s027.t029" lemma="funzione" pos="N">funzione</wf>
+<wf id="d002.s027.t030" lemma="trigonometrico" pos="J">trigonometrica</wf>
+<wf id="d002.s027.t031" pos="X">)</wf>
+<wf id="d002.s027.t032" pos="X">,</wf>
+<wf id="d002.s027.t033" lemma="sum" pos="N">sum()</wf>
+<wf id="d002.s027.t034" pos="X">o</wf>
+<wf id="d002.s027.t035" lemma="product" pos="N">product()</wf>
+<wf id="d002.s027.t036" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s028">
+<wf id="d002.s028.t001" pos="X">Non</wf>
+<wf id="d002.s028.t002" lemma="importare" pos="V">importa</wf>
+<wf id="d002.s028.t003" pos="X">che</wf>
+<wf id="d002.s028.t004" lemma="tipo" pos="N">tipo</wf>
+<wf id="d002.s028.t005" pos="X">di</wf>
+<wf id="d002.s028.t006" lemma="funzione" pos="N">funzione</wf>
+<wf id="d002.s028.t007" lemma="essere" pos="V">sia</wf>
+<wf id="d002.s028.t008" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s029">
+<wf id="d002.s029.t001" lemma="potere" pos="V">Possiamo</wf>
+<wf id="d002.s029.t002" lemma="usare" pos="V">usare</wf>
+<wf id="d002.s029.t003" lemma="plus" pos="N">plus()</wf>
+<wf id="d002.s029.t004" pos="X">,</wf>
+<wf id="d002.s029.t005" lemma="times" pos="N">times()</wf>
+<wf id="d002.s029.t006" pos="X">e</wf>
+<wf id="d002.s029.t007" lemma="qualunque" pos="J">qualunque</wf>
+<wf id="d002.s029.t008" lemma="cosa" pos="N">cosa</wf>
+<wf id="d002.s029.t009" pos="X">che</wf>
+<wf id="d002.s029.t010" lemma="avere" pos="V">ha</wf>
+<wf id="d002.s029.t011" pos="X">un</wf>
+<wf id="d002.s029.t012" lemma="operatore" pos="N">operatore</wf>
+<wf id="d002.s029.t013" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s030">
+<wf id="d002.s030.t001" pos="X">La</wf>
+<wf id="d002.s030.t002" lemma="console" pos="N">console</wf>
+<wf id="d002.s030.t003" pos="X">di</wf>
+<wf id="d002.s030.t004" lemma="kalgebra" pos="N">kalgebra</wf>
+<wf id="d002.s030.t005" lemma="essere" pos="V">è</wf>
+<wf id="d002.s030.t006" lemma="utile" pos="J">utile</wf>
+<wf id="d002.s030.t007" pos="X">come</wf>
+<wf id="d002.s030.t008" lemma="calcolatrice" pos="N">calcolatrice</wf>
+<wf id="d002.s030.t009" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s031">
+<wf id="d002.s031.t001" pos="X">C</wf>
+<wf id="d002.s031.t002" lemma="essere" pos="V">è</wf>
+<wf id="d002.s031.t003" pos="X">una</wf>
+<wf id="d002.s031.t004" lemma="lista" pos="N">lista</wf>
+<wf id="d002.s031.t005" pos="X">delle</wf>
+<wf id="d002.s031.t006" lemma="variabile" pos="N">variabili</wf>
+<wf id="d002.s031.t007" lemma="dichiarare" pos="V">dichiarate</wf>
+<wf id="d002.s031.t008" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s032">
+<wf id="d002.s032.t001" lemma="fare" pos="V">Facendo</wf>
+<wf id="d002.s032.t002" lemma="doppio" pos="J">doppio</wf>
+<wf id="d002.s032.t003" lemma="clic" pos="N">clic</wf>
+<wf id="d002.s032.t004" pos="X">su</wf>
+<wf id="d002.s032.t005" pos="X">ognuna</wf>
+<wf id="d002.s032.t006" pos="X">di</wf>
+<wf id="d002.s032.t007" pos="X">esse</wf>
+<wf id="d002.s032.t008" lemma="potere" pos="V">puoi</wf>
+<wf id="d002.s032.t009" lemma="vedere" pos="V">vedere</wf>
+<wf id="d002.s032.t010" pos="X">una</wf>
+<wf id="d002.s032.t011" lemma="finestra" pos="N">finestra</wf>
+<wf id="d002.s032.t012" pos="X">di</wf>
+<wf id="d002.s032.t013" lemma="dialogo" pos="N">dialogo</wf>
+<wf id="d002.s032.t014" pos="X">che</wf>
+<wf id="d002.s032.t015" pos="X">ti</wf>
+<wf id="d002.s032.t016" lemma="permettere" pos="V">permette</wf>
+<wf id="d002.s032.t017" pos="X">di</wf>
+<wf id="d002.s032.t018" lemma="modificare" pos="V">modificarne</wf>
+<wf id="d002.s032.t019" pos="X">il</wf>
+<wf id="d002.s032.t020" lemma="valore" pos="N">valore</wf>
+<wf id="d002.s032.t021" pos="X">(</wf>
+<wf id="d002.s032.t022" pos="X">un</wf>
+<wf id="d002.s032.t023" lemma="modo" pos="N">modo</wf>
+<wf id="d002.s032.t024" pos="X">per</wf>
+<wf id="d002.s032.t025" lemma="ingannare" pos="V">ingannare</wf>
+<wf id="d002.s032.t026" pos="X">il</wf>
+<wf id="d002.s032.t027" lemma="log" pos="N">log</wf>
+<wf id="d002.s032.t028" pos="X">)</wf>
+<wf id="d002.s032.t029" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s033">
+<wf id="d002.s033.t001" lemma="ogni" pos="J">Ogni</wf>
+<wf id="d002.s033.t002" lemma="volta" pos="N">volta</wf>
+<wf id="d002.s033.t003" pos="X">che</wf>
+<wf id="d002.s033.t004" lemma="inserire" pos="V">inserisci</wf>
+<wf id="d002.s033.t005" pos="X">un'</wf>
+<wf id="d002.s033.t006" lemma="espressione" pos="N">espressione</wf>
+<wf id="d002.s033.t007" pos="X">,</wf>
+<wf id="d002.s033.t008" pos="X">il</wf>
+<wf id="d002.s033.t009" lemma="valore" pos="N">valore</wf>
+<wf id="d002.s033.t010" pos="X">della</wf>
+<wf id="d002.s033.t011" lemma="variabile" pos="N">variabile</wf>
+<wf id="d002.s033.t012" pos="X">«</wf>
+<wf id="d002.s033.t013" pos="X">ans</wf>
+<wf id="d002.s033.t014" pos="X">»</wf>
+<wf id="d002.s033.t015" lemma="essere" pos="V">sarà</wf>
+<wf id="d002.s033.t016" lemma="modificare" pos="V">modificato</wf>
+<wf id="d002.s033.t017" pos="X">all'</wf>
+<wf id="d002.s033.t018" lemma="ultimo" pos="J">ultimo</wf>
+<wf id="d002.s033.t019" lemma="risultato" pos="N">risultato</wf>
+<wf id="d002.s033.t020" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s034">
+<wf id="d002.s034.t001" lemma="ctrl" pos="N">Ctrl</wf>
+<wf id="d002.s034.t002" lemma="n" pos="N">N</wf>
+<wf id="d002.s034.t003" lemma="nuovo" pos="N">Nuovo</wf>
+</sentence>
+<sentence id="d002.s035">
+<wf id="d002.s035.t001" lemma="pulire" pos="V">Pulisce</wf>
+<wf id="d002.s035.t002" pos="X">la</wf>
+<wf id="d002.s035.t003" lemma="console" pos="N">console</wf>
+<wf id="d002.s035.t004" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s036">
+<wf id="d002.s036.t001" lemma="ctrl" pos="N">Ctrl</wf>
+<wf id="d002.s036.t002" lemma="c" pos="N">C</wf>
+<wf id="d002.s036.t003" lemma="caricare" pos="V">Carica</wf>
+<wf id="d002.s036.t004" lemma="script" pos="N">script</wf>
+</sentence>
+<sentence id="d002.s037">
+<wf id="d002.s037.t001" lemma="eseguire" pos="V">Esegue</wf>
+<wf id="d002.s037.t002" pos="X">le</wf>
+<wf id="d002.s037.t003" lemma="istruzione" pos="N">istruzioni</wf>
+<wf id="d002.s037.t004" lemma="presente" pos="J">presenti</wf>
+<wf id="d002.s037.t005" pos="X">in</wf>
+<wf id="d002.s037.t006" pos="X">un</wf>
+<wf id="d002.s037.t007" lemma="file" pos="N">file</wf>
+<wf id="d002.s037.t008" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s038">
+<wf id="d002.s038.t001" pos="X">Un</wf>
+<wf id="d002.s038.t002" lemma="buono" pos="J">buon</wf>
+<wf id="d002.s038.t003" lemma="metodo" pos="N">metodo</wf>
+<wf id="d002.s038.t004" pos="X">per</wf>
+<wf id="d002.s038.t005" lemma="creare" pos="V">creare</wf>
+<wf id="d002.s038.t006" pos="X">"</wf>
+<wf id="d002.s038.t007" lemma="libreria" pos="N">librerie</wf>
+<wf id="d002.s038.t008" pos="X">"</wf>
+<wf id="d002.s038.t009" pos="X">o</wf>
+<wf id="d002.s038.t010" lemma="riprendere" pos="V">riprendere</wf>
+<wf id="d002.s038.t011" pos="X">un</wf>
+<wf id="d002.s038.t012" lemma="lavoro" pos="N">lavoro</wf>
+<wf id="d002.s038.t013" lemma="interrompere" pos="V">interrotto</wf>
+<wf id="d002.s038.t014" pos="X">in</wf>
+<wf id="d002.s038.t015" lemma="precedenza" pos="N">precedenza</wf>
+<wf id="d002.s038.t016" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s039">
+<wf id="d002.s039.t001" lemma="ctrl" pos="N">Ctrl</wf>
+<wf id="d002.s039.t002" lemma="s" pos="N">S</wf>
+<wf id="d002.s039.t003" lemma="salvare" pos="V">Salva</wf>
+<wf id="d002.s039.t004" lemma="script" pos="N">script</wf>
+</sentence>
+<sentence id="d002.s040">
+<wf id="d002.s040.t001" lemma="salvare" pos="V">Salva</wf>
+<wf id="d002.s040.t002" pos="X">le</wf>
+<wf id="d002.s040.t003" lemma="istruzione" pos="N">istruzioni</wf>
+<wf id="d002.s040.t004" lemma="eseguire" pos="V">eseguite</wf>
+<wf id="d002.s040.t005" pos="X">dall'</wf>
+<wf id="d002.s040.t006" lemma="inizio" pos="N">inizio</wf>
+<wf id="d002.s040.t007" pos="X">della</wf>
+<wf id="d002.s040.t008" lemma="sessione" pos="N">sessione</wf>
+<wf id="d002.s040.t009" pos="X">in</wf>
+<wf id="d002.s040.t010" lemma="modo" pos="N">modo</wf>
+<wf id="d002.s040.t011" pos="X">da</wf>
+<wf id="d002.s040.t012" lemma="potere" pos="V">poterle</wf>
+<wf id="d002.s040.t013" lemma="riusare" pos="V">riusare</wf>
+<wf id="d002.s040.t014" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s041">
+<wf id="d002.s041.t001" lemma="generare" pos="V">Genera</wf>
+<wf id="d002.s041.t002" lemma="file" pos="N">file</wf>
+<wf id="d002.s041.t003" pos="X">di</wf>
+<wf id="d002.s041.t004" lemma="testo" pos="N">testo</wf>
+<wf id="d002.s041.t005" lemma="semplice" pos="J">semplice</wf>
+<wf id="d002.s041.t006" pos="X">,</wf>
+<wf id="d002.s041.t007" pos="X">quindi</wf>
+<wf id="d002.s041.t008" lemma="essere" pos="V">è</wf>
+<wf id="d002.s041.t009" lemma="possibile" pos="J">possibile</wf>
+<wf id="d002.s041.t010" lemma="modificare" pos="V">modificarli</wf>
+<wf id="d002.s041.t011" lemma="usare" pos="V">usando</wf>
+<wf id="d002.s041.t012" pos="X">un</wf>
+<wf id="d002.s041.t013" lemma="qualsiasi" pos="J">qualsiasi</wf>
+<wf id="d002.s041.t014" lemma="editor" pos="N">editor</wf>
+<wf id="d002.s041.t015" pos="X">di</wf>
+<wf id="d002.s041.t016" lemma="testo" pos="N">testo</wf>
+<wf id="d002.s041.t017" pos="X">(</wf>
+<wf id="d002.s041.t018" pos="X">come</wf>
+<wf id="d002.s041.t019" lemma="kate" pos="N">Kate</wf>
+<wf id="d002.s041.t020" pos="X">)</wf>
+<wf id="d002.s041.t021" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s042">
+<wf id="d002.s042.t001" lemma="ctrl" pos="N">Ctrl</wf>
+<wf id="d002.s042.t002" lemma="l" pos="N">L</wf>
+<wf id="d002.s042.t003" lemma="salvare" pos="V">Salva</wf>
+<wf id="d002.s042.t004" lemma="log" pos="N">log</wf>
+</sentence>
+<sentence id="d002.s043">
+<wf id="d002.s043.t001" lemma="salvare" pos="V">Salva</wf>
+<wf id="d002.s043.t002" pos="X">il</wf>
+<wf id="d002.s043.t003" lemma="log" pos="N">log</wf>
+<wf id="d002.s043.t004" pos="X">e</wf>
+<wf id="d002.s043.t005" pos="X">tutti</wf>
+<wf id="d002.s043.t006" pos="X">i</wf>
+<wf id="d002.s043.t007" lemma="risultato" pos="N">risultati</wf>
+<wf id="d002.s043.t008" pos="X">su</wf>
+<wf id="d002.s043.t009" lemma="file" pos="N">file</wf>
+<wf id="d002.s043.t010" lemma="html" pos="N">HTML</wf>
+<wf id="d002.s043.t011" pos="X">che</wf>
+<wf id="d002.s043.t012" lemma="potere" pos="V">può</wf>
+<wf id="d002.s043.t013" lemma="essere" pos="V">essere</wf>
+<wf id="d002.s043.t014" lemma="stampare" pos="V">stampato</wf>
+<wf id="d002.s043.t015" pos="X">o</wf>
+<wf id="d002.s043.t016" lemma="pubblicare" pos="V">pubblicato</wf>
+<wf id="d002.s043.t017" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s044">
+<wf id="d002.s044.t001" lemma="ctrl" pos="N">Ctrl</wf>
+<wf id="d002.s044.t002" lemma="q" pos="N">Q</wf>
+<wf id="d002.s044.t003" lemma="uscire" pos="V">Esci</wf>
+</sentence>
+<sentence id="d002.s045">
+<wf id="d002.s045.t001" lemma="chiudere" pos="V">Chiude</wf>
+<wf id="d002.s045.t002" pos="X">il</wf>
+<wf id="d002.s045.t003" lemma="programma" pos="N">programma</wf>
+<wf id="d002.s045.t004" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s046">
+<wf id="d002.s046.t001" pos="X">Per</wf>
+<wf id="d002.s046.t002" lemma="aggiungere" pos="V">aggiungere</wf>
+<wf id="d002.s046.t003" pos="X">un</wf>
+<wf id="d002.s046.t004" lemma="nuovo" pos="J">nuovo</wf>
+<wf id="d002.s046.t005" lemma="grafico" pos="N">grafico</wf>
+<wf id="d002.s046.t006" lemma="2d" pos="N">2D</wf>
+<wf id="d002.s046.t007" pos="X">in</wf>
+<wf id="d002.s046.t008" lemma="kalgebra" pos="N">kalgebra</wf>
+<wf id="d002.s046.t009" pos="X">,</wf>
+<wf id="d002.s046.t010" lemma="dovere" pos="V">devi</wf>
+<wf id="d002.s046.t011" lemma="andare" pos="V">andare</wf>
+<wf id="d002.s046.t012" pos="X">nella</wf>
+<wf id="d002.s046.t013" lemma="scheda" pos="N">scheda</wf>
+<wf id="d002.s046.t014" lemma="grafico" pos="N">Grafico</wf>
+<wf id="d002.s046.t015" lemma="2d" pos="N">2D</wf>
+<wf id="d002.s046.t016" pos="X">e</wf>
+<wf id="d002.s046.t017" lemma="fare" pos="V">fare</wf>
+<wf id="d002.s046.t018" lemma="clic" pos="N">clic</wf>
+<wf id="d002.s046.t019" pos="X">sulla</wf>
+<wf id="d002.s046.t020" lemma="scheda" pos="N">scheda</wf>
+<wf id="d002.s046.t021" lemma="aggiungere" pos="N">Aggiungi</wf>
+<wf id="d002.s046.t022" pos="X">per</wf>
+<wf id="d002.s046.t023" lemma="aggiungere" pos="V">aggiungere</wf>
+<wf id="d002.s046.t024" pos="X">una</wf>
+<wf id="d002.s046.t025" lemma="nuovo" pos="J">nuova</wf>
+<wf id="d002.s046.t026" lemma="funzione" pos="N">funzione</wf>
+<wf id="d002.s046.t027" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s047">
+<wf id="d002.s047.t001" lemma="essere" pos="V">Sarà</wf>
+<wf id="d002.s047.t002" pos="X">quindi</wf>
+<wf id="d002.s047.t003" lemma="attivare" pos="V">attivata</wf>
+<wf id="d002.s047.t004" pos="X">la</wf>
+<wf id="d002.s047.t005" lemma="casella" pos="N">casella</wf>
+<wf id="d002.s047.t006" pos="X">di</wf>
+<wf id="d002.s047.t007" lemma="testo" pos="N">testo</wf>
+<wf id="d002.s047.t008" pos="X">dove</wf>
+<wf id="d002.s047.t009" lemma="potere" pos="V">puoi</wf>
+<wf id="d002.s047.t010" lemma="scrivere" pos="V">scrivere</wf>
+<wf id="d002.s047.t011" pos="X">la</wf>
+<wf id="d002.s047.t012" lemma="funzione" pos="N">funzione</wf>
+<wf id="d002.s047.t013" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s048">
+<wf id="d002.s048.t001" pos="X">Se</wf>
+<wf id="d002.s048.t002" lemma="volere" pos="V">vuoi</wf>
+<wf id="d002.s048.t003" lemma="usare" pos="V">usare</wf>
+<wf id="d002.s048.t004" pos="X">una</wf>
+<wf id="d002.s048.t005" lemma="tipico" pos="J">tipica</wf>
+<wf id="d002.s048.t006" lemma="funzione" pos="N">funzione</wf>
+<wf id="d002.s048.t007" lemma="f(x)" pos="N">f(x)</wf>
+<wf id="d002.s048.t008" pos="X">non</wf>
+<wf id="d002.s048.t009" lemma="essere" pos="V">è</wf>
+<wf id="d002.s048.t010" lemma="necessario" pos="J">necessario</wf>
+<wf id="d002.s048.t011" lemma="specificare" pos="V">specificarla</wf>
+<wf id="d002.s048.t012" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s049">
+<wf id="d002.s049.t001" pos="X">Quando</wf>
+<wf id="d002.s049.t002" lemma="avere" pos="V">hai</wf>
+<wf id="d002.s049.t003" lemma="inserire" pos="V">inserito</wf>
+<wf id="d002.s049.t004" pos="X">la</wf>
+<wf id="d002.s049.t005" lemma="funzione" pos="N">funzione</wf>
+<wf id="d002.s049.t006" lemma="premere" pos="V">premi</wf>
+<wf id="d002.s049.t007" lemma="ok" pos="N">OK</wf>
+<wf id="d002.s049.t008" pos="X">per</wf>
+<wf id="d002.s049.t009" lemma="visualizzare" pos="V">visualizzare</wf>
+<wf id="d002.s049.t010" pos="X">il</wf>
+<wf id="d002.s049.t011" lemma="grafico" pos="N">grafico</wf>
+<wf id="d002.s049.t012" pos="X">nella</wf>
+<wf id="d002.s049.t013" lemma="finestra" pos="N">finestra</wf>
+<wf id="d002.s049.t014" lemma="principale" pos="J">principale</wf>
+<wf id="d002.s049.t015" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s050">
+<wf id="d002.s050.t001" lemma="potere" pos="V">Puoi</wf>
+<wf id="d002.s050.t002" lemma="avere" pos="V">avere</wf>
+<wf id="d002.s050.t003" pos="X">più</wf>
+<wf id="d002.s050.t004" lemma="grafico" pos="N">grafici</wf>
+<wf id="d002.s050.t005" pos="X">nella</wf>
+<wf id="d002.s050.t006" lemma="stesso" pos="J">stessa</wf>
+<wf id="d002.s050.t007" lemma="vista" pos="N">vista</wf>
+<wf id="d002.s050.t008" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s051">
+<wf id="d002.s051.t001" lemma="usare" pos="V">Usa</wf>
+<wf id="d002.s051.t002" pos="X">il</wf>
+<wf id="d002.s051.t003" lemma="pulsante" pos="N">pulsante</wf>
+<wf id="d002.s051.t004" lemma="aggiungere" pos="N">Aggiungi</wf>
+<wf id="d002.s051.t005" pos="X">in</wf>
+<wf id="d002.s051.t006" lemma="modalità" pos="N">modalità</wf>
+<wf id="d002.s051.t007" pos="X">«</wf>
+<wf id="d002.s051.t008" lemma="lista" pos="N">lista</wf>
+<wf id="d002.s051.t009" pos="X">»</wf>
+<wf id="d002.s051.t010" pos="X">.</wf>
+</sentence>
+<sentence id="d002.s052">
+<wf id="d002.s052.t001" lemma="potere" pos="V">Puoi</wf>
+<wf id="d002.s052.t002" lemma="impostare" pos="V">impostare</wf>
+<wf id="d002.s052.t003" pos="X">un</wf>
+<wf id="d002.s052.t004" lemma="diverso" pos="J">diverso</wf>
+<wf id="d002.s052.t005" lemma="colore" pos="N">colore</wf>
+<wf id="d002.s052.t006" pos="X">per</wf>
+<wf id="d002.s052.t007" lemma="ogni" pos="J">ogni</wf>
+<wf id="d002.s052.t008" lemma="grafico" pos="N">grafico</wf>
+<wf id="d002.s052.t009" pos="X">.</wf>
+</sentence>
+</text>
+<text id="d003">
+<sentence id="d003.s001">
+<wf id="d003.s001.t001" lemma="recentemente" pos="R">Recentemente</wf>
+<wf id="d003.s001.t002" pos="X">la</wf>
+<wf id="d003.s001.t003" lemma="fondazione" pos="N">Fondazione</wf>
+<wf id="d003.s001.t004" lemma="avere" pos="V">ha</wf>
+<wf id="d003.s001.t005" lemma="partecipare" pos="V">partecipato</wf>
+<wf id="d003.s001.t006" pos="X">all'</wf>
+<wf id="d003.s001.t007" lemma="organizzazione" pos="N">organizzazione</wf>
+<wf id="d003.s001.t008" pos="X">di</wf>
+<wf id="d003.s001.t009" pos="X">una</wf>
+<wf id="d003.s001.t010" lemma="conferenza" pos="N">conferenza</wf>
+<wf id="d003.s001.t011" pos="X">che</wf>
+<wf id="d003.s001.t012" lemma="avere" pos="V">ha</wf>
+<wf id="d003.s001.t013" lemma="affrontare" pos="V">affrontato</wf>
+<wf id="d003.s001.t014" pos="X">questa</wf>
+<wf id="d003.s001.t015" lemma="sfida" pos="N">sfida</wf>
+<wf id="d003.s001.t016" lemma="critico" pos="J">critica</wf>
+<wf id="d003.s001.t017" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s002">
+<wf id="d003.s002.t001" lemma="avere" pos="V">Hanno</wf>
+<wf id="d003.s002.t002" lemma="partecipare" pos="V">partecipato</wf>
+<wf id="d003.s002.t003" pos="X">oltre</wf>
+<wf id="d003.s002.t004" pos="X">100</wf>
+<wf id="d003.s002.t005" lemma="esponente" pos="N">esponenti</wf>
+<wf id="d003.s002.t006" pos="X">delle</wf>
+<wf id="d003.s002.t007" lemma="principale" pos="J">principali</wf>
+<wf id="d003.s002.t008" lemma="categoria" pos="N">categorie</wf>
+<wf id="d003.s002.t009" lemma="interessato" pos="J">interessate</wf>
+<wf id="d003.s002.t010" pos="X">,</wf>
+<wf id="d003.s002.t011" pos="X">i</wf>
+<wf id="d003.s002.t012" pos="X">quali</wf>
+<wf id="d003.s002.t013" lemma="avere" pos="V">hanno</wf>
+<wf id="d003.s002.t014" lemma="discutere" pos="V">discusso</wf>
+<wf id="d003.s002.t015" pos="X">fra</wf>
+<wf id="d003.s002.t016" pos="X">l'</wf>
+<wf id="d003.s002.t017" lemma="altro" pos="N">altro</wf>
+<wf id="d003.s002.t018" pos="X">del</wf>
+<wf id="d003.s002.t019" lemma="ruolo" pos="N">ruolo</wf>
+<wf id="d003.s002.t020" pos="X">degli</wf>
+<wf id="d003.s002.t021" lemma="attore" pos="N">attori</wf>
+<wf id="d003.s002.t022" lemma="chiave" pos="N">chiave</wf>
+<wf id="d003.s002.t023" lemma="quale" pos="R">quali</wf>
+<wf id="d003.s002.t024" lemma="pubblico" pos="J">pubbliche</wf>
+<wf id="d003.s002.t025" lemma="autorità" pos="N">autorità</wf>
+<wf id="d003.s002.t026" pos="X">,</wf>
+<wf id="d003.s002.t027" lemma="parte" pos="N">parti</wf>
+<wf id="d003.s002.t028" lemma="sociale" pos="J">sociali</wf>
+<wf id="d003.s002.t029" pos="X">,</wf>
+<wf id="d003.s002.t030" lemma="organizzazione" pos="N">organizzazioni</wf>
+<wf id="d003.s002.t031" pos="X">di</wf>
+<wf id="d003.s002.t032" lemma="volontariato" pos="N">volontariato</wf>
+<wf id="d003.s002.t033" pos="X">e</wf>
+<wf id="d003.s002.t034" lemma="locale" pos="N">locali</wf>
+<wf id="d003.s002.t035" pos="X">nonché</wf>
+<wf id="d003.s002.t036" lemma="utente" pos="N">utenti</wf>
+<wf id="d003.s002.t037" pos="X">dei</wf>
+<wf id="d003.s002.t038" lemma="servizio" pos="N">servizi</wf>
+<wf id="d003.s002.t039" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s003">
+<wf id="d003.s003.t001" pos="X">Si</wf>
+<wf id="d003.s003.t002" lemma="essere" pos="V">è</wf>
+<wf id="d003.s003.t003" lemma="convenire" pos="V">convenuto</wf>
+<wf id="d003.s003.t004" pos="X">sulla</wf>
+<wf id="d003.s003.t005" lemma="necessità" pos="N">necessità</wf>
+<wf id="d003.s003.t006" pos="X">di</wf>
+<wf id="d003.s003.t007" pos="X">un'</wf>
+<wf id="d003.s003.t008" lemma="impostazione" pos="N">impostazione</wf>
+<wf id="d003.s003.t009" pos="X">più</wf>
+<wf id="d003.s003.t010" lemma="olistico" pos="J">olistica</wf>
+<wf id="d003.s003.t011" pos="X">,</wf>
+<wf id="d003.s003.t012" pos="X">che</wf>
+<wf id="d003.s003.t013" lemma="tenere" pos="V">tenga</wf>
+<wf id="d003.s003.t014" lemma="conto" pos="N">conto</wf>
+<wf id="d003.s003.t015" pos="X">del</wf>
+<wf id="d003.s003.t016" lemma="fatto" pos="N">fatto</wf>
+<wf id="d003.s003.t017" pos="X">che</wf>
+<wf id="d003.s003.t018" pos="X">gli</wf>
+<wf id="d003.s003.t019" lemma="utente" pos="N">utenti</wf>
+<wf id="d003.s003.t020" pos="X">non</wf>
+<wf id="d003.s003.t021" lemma="beneficiare" pos="V">beneficiano</wf>
+<wf id="d003.s003.t022" pos="X">di</wf>
+<wf id="d003.s003.t023" pos="X">questi</wf>
+<wf id="d003.s003.t024" lemma="servizio" pos="N">servizi</wf>
+<wf id="d003.s003.t025" pos="X">in</wf>
+<wf id="d003.s003.t026" lemma="isolamento" pos="N">isolamento</wf>
+<wf id="d003.s003.t027" pos="X">,</wf>
+<wf id="d003.s003.t028" pos="X">ma</wf>
+<wf id="d003.s003.t029" pos="X">piuttosto</wf>
+<wf id="d003.s003.t030" lemma="quale" pos="R">quale</wf>
+<wf id="d003.s003.t031" lemma="elemento" pos="N">elemento</wf>
+<wf id="d003.s003.t032" pos="X">della</wf>
+<wf id="d003.s003.t033" pos="X">loro</wf>
+<wf id="d003.s003.t034" lemma="vita" pos="N">vita</wf>
+<wf id="d003.s003.t035" lemma="quotidiano" pos="J">quotidiana</wf>
+<wf id="d003.s003.t036" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s004">
+<wf id="d003.s004.t001" pos="X">Si</wf>
+<wf id="d003.s004.t002" lemma="essere" pos="V">è</wf>
+<wf id="d003.s004.t003" pos="X">anche</wf>
+<wf id="d003.s004.t004" lemma="prendere" pos="V">preso</wf>
+<wf id="d003.s004.t005" lemma="atto" pos="N">atto</wf>
+<wf id="d003.s004.t006" pos="X">della</wf>
+<wf id="d003.s004.t007" lemma="gamma" pos="N">gamma</wf>
+<wf id="d003.s004.t008" pos="X">di</wf>
+<wf id="d003.s004.t009" lemma="aioli" pos="N">aioli</wf>
+<wf id="d003.s004.t010" lemma="diverso" pos="J">diversi</wf>
+<wf id="d003.s004.t011" lemma="svolto" pos="J">svolti</wf>
+</sentence>
+<sentence id="d003.s005">
+<wf id="d003.s005.t001" lemma="unitamente" pos="R">Unitamente</wf>
+<wf id="d003.s005.t002" pos="X">alla</wf>
+<wf id="d003.s005.t003" lemma="commissione" pos="N">Commissione</wf>
+<wf id="d003.s005.t004" lemma="europeo" pos="J">europea</wf>
+<wf id="d003.s005.t005" pos="X">,</wf>
+<wf id="d003.s005.t006" pos="X">al</wf>
+<wf id="d003.s005.t007" lemma="ministero" pos="N">Ministero</wf>
+<wf id="d003.s005.t008" pos="X">degli</wf>
+<wf id="d003.s005.t009" lemma="affare" pos="N">affari</wf>
+<wf id="d003.s005.t010" lemma="sociale" pos="J">sociali</wf>
+<wf id="d003.s005.t011" lemma="spagnolo" pos="J">spagnolo</wf>
+<wf id="d003.s005.t012" pos="X">e</wf>
+<wf id="d003.s005.t013" pos="X">al</wf>
+<wf id="d003.s005.t014" lemma="governo" pos="N">governo</wf>
+<wf id="d003.s005.t015" lemma="regionale" pos="J">regionale</wf>
+<wf id="d003.s005.t016" pos="X">della</wf>
+<wf id="d003.s005.t017" lemma="galizia" pos="N">Galizia</wf>
+<wf id="d003.s005.t018" pos="X">,</wf>
+<wf id="d003.s005.t019" pos="X">la</wf>
+<wf id="d003.s005.t020" lemma="fondazione" pos="N">Fondazione</wf>
+<wf id="d003.s005.t021" lemma="avere" pos="V">ha</wf>
+<wf id="d003.s005.t022" lemma="organizzare" pos="V">organizzato</wf>
+<wf id="d003.s005.t023" pos="X">una</wf>
+<wf id="d003.s005.t024" lemma="conferenza" pos="N">conferenza</wf>
+<wf id="d003.s005.t025" lemma="europeo" pos="J">europea</wf>
+<wf id="d003.s005.t026" pos="X">sul</wf>
+<wf id="d003.s005.t027" lemma="tema" pos="N">tema</wf>
+<wf id="d003.s005.t028" lemma="esclusione" pos="N">Esclusione</wf>
+<wf id="d003.s005.t029" lemma="sociale" pos="J">sociale</wf>
+<wf id="d003.s005.t030" pos="X">:</wf>
+<wf id="d003.s005.t031" pos="X">una</wf>
+<wf id="d003.s005.t032" lemma="grande" pos="J">grande</wf>
+<wf id="d003.s005.t033" lemma="sfida" pos="N">sfida</wf>
+<wf id="d003.s005.t034" pos="X">per</wf>
+<wf id="d003.s005.t035" pos="X">i</wf>
+<wf id="d003.s005.t036" lemma="servizi" pos="N">servizi</wf>
+<wf id="d003.s005.t037" lemma="pubblico" pos="J">pubblici</wf>
+<wf id="d003.s005.t038" pos="X">di</wf>
+<wf id="d003.s005.t039" lemma="assistenza" pos="N">assistenza</wf>
+<wf id="d003.s005.t040" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s006">
+<wf id="d003.s006.t001" lemma="recentemente" pos="R">Recentemente</wf>
+<wf id="d003.s006.t002" pos="X">la</wf>
+<wf id="d003.s006.t003" lemma="fondazione" pos="N">Fondazione</wf>
+<wf id="d003.s006.t004" lemma="avere" pos="V">ha</wf>
+<wf id="d003.s006.t005" lemma="pubblicare" pos="V">pubblicato</wf>
+<wf id="d003.s006.t006" pos="X">,</wf>
+<wf id="d003.s006.t007" pos="X">nel</wf>
+<wf id="d003.s006.t008" lemma="quadro" pos="N">quadro</wf>
+<wf id="d003.s006.t009" pos="X">del</wf>
+<wf id="d003.s006.t010" lemma="progetto" pos="N">progetto</wf>
+<wf id="d003.s006.t011" lemma="epoc" pos="N">EPOC</wf>
+<wf id="d003.s006.t012" pos="X">,</wf>
+<wf id="d003.s006.t013" pos="X">uno</wf>
+<wf id="d003.s006.t014" lemma="studio" pos="N">studio</wf>
+<wf id="d003.s006.t015" lemma="comparativo" pos="J">comparativo</wf>
+<wf id="d003.s006.t016" pos="X">che</wf>
+<wf id="d003.s006.t017" lemma="valutare" pos="V">valuta</wf>
+<wf id="d003.s006.t018" pos="X">la</wf>
+<wf id="d003.s006.t019" lemma="misura" pos="N">misura</wf>
+<wf id="d003.s006.t020" pos="X">in</wf>
+<wf id="d003.s006.t021" pos="X">cui</wf>
+<wf id="d003.s006.t022" pos="X">la</wf>
+<wf id="d003.s006.t023" lemma="partecipazione" pos="N">partecipazione</wf>
+<wf id="d003.s006.t024" lemma="diretto" pos="J">diretta</wf>
+<wf id="d003.s006.t025" lemma="potere" pos="V">può</wf>
+<wf id="d003.s006.t026" lemma="umanizzare" pos="V">umanizzare</wf>
+<wf id="d003.s006.t027" pos="X">il</wf>
+<wf id="d003.s006.t028" lemma="lavoro" pos="N">lavoro</wf>
+<wf id="d003.s006.t029" lemma="migliorare" pos="V">migliorando</wf>
+<wf id="d003.s006.t030" pos="X">allo</wf>
+<wf id="d003.s006.t031" lemma="stesso" pos="J">stesso</wf>
+<wf id="d003.s006.t032" lemma="tempo" pos="N">tempo</wf>
+<wf id="d003.s006.t033" pos="X">la</wf>
+<wf id="d003.s006.t034" lemma="redditività" pos="N">redditività</wf>
+<wf id="d003.s006.t035" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s007">
+<wf id="d003.s007.t001" pos="X">Lo</wf>
+<wf id="d003.s007.t002" lemma="studio" pos="N">studio</wf>
+<wf id="d003.s007.t003" pos="X">si</wf>
+<wf id="d003.s007.t004" lemma="basare" pos="V">basa</wf>
+<wf id="d003.s007.t005" pos="X">su</wf>
+<wf id="d003.s007.t006" pos="X">195</wf>
+<wf id="d003.s007.t007" lemma="intervista" pos="N">interviste</wf>
+<wf id="d003.s007.t008" lemma="personale" pos="J">personali</wf>
+<wf id="d003.s007.t009" pos="X">con</wf>
+<wf id="d003.s007.t010" lemma="alto" pos="J">alti</wf>
+<wf id="d003.s007.t011" lemma="dirigente" pos="N">dirigenti</wf>
+<wf id="d003.s007.t012" pos="X">delle</wf>
+<wf id="d003.s007.t013" lemma="parte" pos="N">parti</wf>
+<wf id="d003.s007.t014" lemma="sociale" pos="J">sociali</wf>
+<wf id="d003.s007.t015" pos="X">,</wf>
+<wf id="d003.s007.t016" pos="X">in</wf>
+<wf id="d003.s007.t017" lemma="rappresentanza" pos="N">rappresentanza</wf>
+<wf id="d003.s007.t018" pos="X">delle</wf>
+<wf id="d003.s007.t019" lemma="principale" pos="J">principali</wf>
+<wf id="d003.s007.t020" lemma="organizzazione" pos="N">organizzazioni</wf>
+<wf id="d003.s007.t021" lemma="nazionale" pos="J">nazionali</wf>
+<wf id="d003.s007.t022" pos="X">di</wf>
+<wf id="d003.s007.t023" lemma="quindici" pos="J">quindici</wf>
+<wf id="d003.s007.t024" lemma="paese" pos="N">paesi</wf>
+<wf id="d003.s007.t025" lemma="europeo" pos="J">europei</wf>
+<wf id="d003.s007.t026" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s008">
+<wf id="d003.s008.t001" pos="X">Quali</wf>
+<wf id="d003.s008.t002" lemma="settore" pos="N">settori</wf>
+<wf id="d003.s008.t003" lemma="industriale" pos="J">industriali</wf>
+<wf id="d003.s008.t004" pos="X">di</wf>
+<wf id="d003.s008.t005" lemma="rilievo" pos="N">rilievo</wf>
+<wf id="d003.s008.t006" pos="X">,</wf>
+<wf id="d003.s008.t007" lemma="essere" pos="V">sono</wf>
+<wf id="d003.s008.t008" lemma="essere" pos="V">stati</wf>
+<wf id="d003.s008.t009" lemma="includere" pos="V">inclusi</wf>
+<wf id="d003.s008.t010" pos="X">anche</wf>
+<wf id="d003.s008.t011" pos="X">l'</wf>
+<wf id="d003.s008.t012" lemma="industria" pos="N">industria</wf>
+<wf id="d003.s008.t013" lemma="metallurgico" pos="J">metallurgica</wf>
+<wf id="d003.s008.t014" pos="X">e</wf>
+<wf id="d003.s008.t015" pos="X">il</wf>
+<wf id="d003.s008.t016" lemma="settore" pos="N">settore</wf>
+<wf id="d003.s008.t017" lemma="bancario" pos="N">bancario</wf>
+<wf id="d003.s008.t018" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s009">
+<wf id="d003.s009.t001" pos="X">I</wf>
+<wf id="d003.s009.t002" lemma="principale" pos="J">principali</wf>
+<wf id="d003.s009.t003" lemma="oratore" pos="N">oratori</wf>
+<wf id="d003.s009.t004" pos="X">in</wf>
+<wf id="d003.s009.t005" lemma="occasione" pos="N">occasione</wf>
+<wf id="d003.s009.t006" pos="X">della</wf>
+<wf id="d003.s009.t007" lemma="conferenza" pos="N">conferenza</wf>
+<wf id="d003.s009.t008" pos="X">sull'</wf>
+<wf id="d003.s009.t009" lemma="esclusione" pos="N">esclusione</wf>
+<wf id="d003.s009.t010" lemma="sociale" pos="J">sociale</wf>
+<wf id="d003.s009.t011" pos="X">(</wf>
+<wf id="d003.s009.t012" pos="X">da</wf>
+<wf id="d003.s009.t013" lemma="sinistra" pos="N">sinistra</wf>
+<wf id="d003.s009.t014" pos="X">a</wf>
+<wf id="d003.s009.t015" lemma="destra" pos="N">destra</wf>
+<wf id="d003.s009.t016" pos="X">)</wf>
+<wf id="d003.s009.t017" pos="X">:</wf>
+<wf id="d003.s009.t018" lemma="cristina" pos="N">Cristina</wf>
+<wf id="d003.s009.t019" lemma="louro" pos="N">louro</wf>
+<wf id="d003.s009.t020" pos="X">,</wf>
+<wf id="d003.s009.t021" lemma="direzione" pos="N">Direzione</wf>
+<wf id="d003.s009.t022" lemma="generale" pos="J">generale</wf>
+<wf id="d003.s009.t023" pos="X">per</wf>
+<wf id="d003.s009.t024" pos="X">l'</wf>
+<wf id="d003.s009.t025" lemma="occupazione" pos="N">Occupazione</wf>
+<wf id="d003.s009.t026" pos="X">,</wf>
+<wf id="d003.s009.t027" pos="X">le</wf>
+<wf id="d003.s009.t028" lemma="relazione" pos="N">relazioni</wf>
+<wf id="d003.s009.t029" lemma="industriale" pos="J">industriali</wf>
+<wf id="d003.s009.t030" pos="X">e</wf>
+<wf id="d003.s009.t031" pos="X">gli</wf>
+<wf id="d003.s009.t032" lemma="affare" pos="N">affari</wf>
+<wf id="d003.s009.t033" lemma="sociale" pos="J">sociali</wf>
+<wf id="d003.s009.t034" pos="X">,</wf>
+<wf id="d003.s009.t035" lemma="commissione" pos="N">Commissione</wf>
+<wf id="d003.s009.t036" lemma="europeo" pos="J">europea</wf>
+<wf id="d003.s009.t037" lemma="fernando" pos="N">Fernando</wf>
+<wf id="d003.s009.t038" lemma="gomes" pos="N">Gomes</wf>
+<wf id="d003.s009.t039" pos="X">,</wf>
+<wf id="d003.s009.t040" lemma="comitato" pos="N">Comitato</wf>
+<wf id="d003.s009.t041" pos="X">delle</wf>
+<wf id="d003.s009.t042" lemma="regione" pos="N">regioni</wf>
+<wf id="d003.s009.t043" lemma="barbaro" pos="N">Barbara</wf>
+<wf id="d003.s009.t044" lemma="weiler" pos="N">Weiler</wf>
+<wf id="d003.s009.t045" pos="X">,</wf>
+<wf id="d003.s009.t046" lemma="deputato" pos="N">deputato</wf>
+<wf id="d003.s009.t047" pos="X">al</wf>
+<wf id="d003.s009.t048" lemma="parlamento" pos="N">Parlamento</wf>
+<wf id="d003.s009.t049" lemma="europeo" pos="J">europeo</wf>
+<wf id="d003.s009.t050" lemma="josé" pos="N">José</wf>
+<wf id="d003.s009.t051" lemma="maría" pos="N">María</wf>
+<wf id="d003.s009.t052" lemma="gil-robles" pos="N">Gil-Robles</wf>
+<wf id="d003.s009.t053" lemma="gil-delgado" pos="N">Gil-Delgado</wf>
+<wf id="d003.s009.t054" pos="X">,</wf>
+<wf id="d003.s009.t055" lemma="vicepresidente" pos="N">vicepresidente</wf>
+<wf id="d003.s009.t056" pos="X">del</wf>
+<wf id="d003.s009.t057" lemma="parlamento" pos="N">Parlamento</wf>
+<wf id="d003.s009.t058" lemma="europeo" pos="J">europeo</wf>
+<wf id="d003.s009.t059" lemma="john" pos="N">John</wf>
+<wf id="d003.s009.t060" lemma="cairoti" pos="N">Cairoti</wf>
+<wf id="d003.s009.t061" pos="X">,</wf>
+<wf id="d003.s009.t062" lemma="comitato" pos="N">Comitato</wf>
+<wf id="d003.s009.t063" lemma="economico" pos="J">economico</wf>
+<wf id="d003.s009.t064" pos="X">e</wf>
+<wf id="d003.s009.t065" lemma="sociale" pos="J">sociale</wf>
+<wf id="d003.s009.t066" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s010">
+<wf id="d003.s010.t001" lemma="studio" pos="N">Studi</wf>
+<wf id="d003.s010.t002" pos="X">di</wf>
+<wf id="d003.s010.t003" lemma="caso" pos="N">casi</wf>
+<wf id="d003.s010.t004" lemma="ogni" pos="J">Ogni</wf>
+<wf id="d003.s010.t005" lemma="rapporto" pos="N">rapporto</wf>
+<wf id="d003.s010.t006" lemma="nazionale" pos="J">nazionale</wf>
+<wf id="d003.s010.t007" lemma="contenere" pos="V">contiene</wf>
+<wf id="d003.s010.t008" pos="X">una</wf>
+<wf id="d003.s010.t009" lemma="serie" pos="N">serie</wf>
+<wf id="d003.s010.t010" pos="X">di</wf>
+<wf id="d003.s010.t011" pos="X">25-30</wf>
+<wf id="d003.s010.t012" lemma="iniziativa" pos="N">iniziative</wf>
+<wf id="d003.s010.t013" pos="X">,</wf>
+<wf id="d003.s010.t014" lemma="selezionare" pos="V">selezionate</wf>
+<wf id="d003.s010.t015" pos="X">fra</wf>
+<wf id="d003.s010.t016" pos="X">quelle</wf>
+<wf id="d003.s010.t017" pos="X">più</wf>
+<wf id="d003.s010.t018" lemma="idoneo" pos="J">idonee</wf>
+<wf id="d003.s010.t019" pos="X">ad</wf>
+<wf id="d003.s010.t020" lemma="illustrare" pos="V">illustrare</wf>
+<wf id="d003.s010.t021" lemma="politico" pos="J">politiche</wf>
+<wf id="d003.s010.t022" pos="X">e</wf>
+<wf id="d003.s010.t023" lemma="prassi" pos="N">prassi</wf>
+<wf id="d003.s010.t024" lemma="volto" pos="J">volte</wf>
+<wf id="d003.s010.t025" pos="X">a</wf>
+<wf id="d003.s010.t026" lemma="migliorare" pos="V">migliorare</wf>
+<wf id="d003.s010.t027" pos="X">l'</wf>
+<wf id="d003.s010.t028" lemma="assunzione" pos="N">assunzione</wf>
+<wf id="d003.s010.t029" pos="X">,</wf>
+<wf id="d003.s010.t030" pos="X">la</wf>
+<wf id="d003.s010.t031" lemma="formazione" pos="N">formazione</wf>
+<wf id="d003.s010.t032" pos="X">e</wf>
+<wf id="d003.s010.t033" pos="X">lo</wf>
+<wf id="d003.s010.t034" lemma="sviluppo" pos="N">sviluppo</wf>
+<wf id="d003.s010.t035" pos="X">dei</wf>
+<wf id="d003.s010.t036" lemma="lavoratore" pos="N">lavoratori</wf>
+<wf id="d003.s010.t037" lemma="anziano" pos="J">anziani</wf>
+<wf id="d003.s010.t038" pos="X">nell'</wf>
+<wf id="d003.s010.t039" lemma="azienda" pos="N">azienda</wf>
+<wf id="d003.s010.t040" pos="X">e</wf>
+<wf id="d003.s010.t041" pos="X">nella</wf>
+<wf id="d003.s010.t042" lemma="comunità" pos="N">comunità</wf>
+<wf id="d003.s010.t043" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s011">
+<wf id="d003.s011.t001" pos="X">Per</wf>
+<wf id="d003.s011.t002" pos="X">ciascun</wf>
+<wf id="d003.s011.t003" lemma="paese" pos="N">paese</wf>
+<wf id="d003.s011.t004" lemma="due" pos="J">due</wf>
+<wf id="d003.s011.t005" pos="X">o</wf>
+<wf id="d003.s011.t006" lemma="tre" pos="J">tre</wf>
+<wf id="d003.s011.t007" lemma="iniziativa" pos="N">iniziative</wf>
+<wf id="d003.s011.t008" lemma="essere" pos="V">sono</wf>
+<wf id="d003.s011.t009" lemma="essere" pos="V">state</wf>
+<wf id="d003.s011.t010" lemma="ulteriormente" pos="R">ulteriormente</wf>
+<wf id="d003.s011.t011" lemma="selezionare" pos="V">selezionate</wf>
+<wf id="d003.s011.t012" pos="X">in</wf>
+<wf id="d003.s011.t013" lemma="vista" pos="N">vista</wf>
+<wf id="d003.s011.t014" pos="X">di</wf>
+<wf id="d003.s011.t015" pos="X">uno</wf>
+<wf id="d003.s011.t016" lemma="studio" pos="N">studio</wf>
+<wf id="d003.s011.t017" pos="X">di</wf>
+<wf id="d003.s011.t018" lemma="caso" pos="N">caso</wf>
+<wf id="d003.s011.t019" pos="X">più</wf>
+<wf id="d003.s011.t020" lemma="approfondire" pos="V">approfondito</wf>
+<wf id="d003.s011.t021" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s012">
+<wf id="d003.s012.t001" pos="X">Questi</wf>
+<wf id="d003.s012.t002" lemma="studio" pos="N">studi</wf>
+<wf id="d003.s012.t003" lemma="avere" pos="V">hanno</wf>
+<wf id="d003.s012.t004" lemma="analizzare" pos="V">analizzato</wf>
+<wf id="d003.s012.t005" pos="X">il</wf>
+<wf id="d003.s012.t006" lemma="contesto" pos="N">contesto</wf>
+<wf id="d003.s012.t007" pos="X">delle</wf>
+<wf id="d003.s012.t008" lemma="iniziativa" pos="N">iniziative</wf>
+<wf id="d003.s012.t009" pos="X">e</wf>
+<wf id="d003.s012.t010" pos="X">il</wf>
+<wf id="d003.s012.t011" pos="X">loro</wf>
+<wf id="d003.s012.t012" lemma="impatto" pos="N">impatto</wf>
+<wf id="d003.s012.t013" pos="X">sui</wf>
+<wf id="d003.s012.t014" lemma="modello" pos="N">modelli</wf>
+<wf id="d003.s012.t015" lemma="occupazionale" pos="J">occupazionali</wf>
+<wf id="d003.s012.t016" pos="X">e</wf>
+<wf id="d003.s012.t017" pos="X">sulle</wf>
+<wf id="d003.s012.t018" lemma="organizzazione" pos="N">organizzazioni</wf>
+<wf id="d003.s012.t019" pos="X">del</wf>
+<wf id="d003.s012.t020" lemma="lavoro" pos="N">lavoro</wf>
+<wf id="d003.s012.t021" pos="X">,</wf>
+<wf id="d003.s012.t022" lemma="valutare" pos="V">valutando</wf>
+<wf id="d003.s012.t023" pos="X">inoltre</wf>
+<wf id="d003.s012.t024" pos="X">i</wf>
+<wf id="d003.s012.t025" lemma="vantaggio" pos="N">vantaggi</wf>
+<wf id="d003.s012.t026" pos="X">e</wf>
+<wf id="d003.s012.t027" pos="X">i</wf>
+<wf id="d003.s012.t028" lemma="problema" pos="N">problemi</wf>
+<wf id="d003.s012.t029" pos="X">dell'</wf>
+<wf id="d003.s012.t030" lemma="iniziativa" pos="N">iniziativa</wf>
+<wf id="d003.s012.t031" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s013">
+<wf id="d003.s013.t001" lemma="avere" pos="V">Hanno</wf>
+<wf id="d003.s013.t002" pos="X">anche</wf>
+<wf id="d003.s013.t003" lemma="avere" pos="V">avuto</wf>
+<wf id="d003.s013.t004" lemma="luogo" pos="N">luogo</wf>
+<wf id="d003.s013.t005" lemma="visita" pos="N">visite</wf>
+<wf id="d003.s013.t006" pos="X">e</wf>
+<wf id="d003.s013.t007" lemma="intervista" pos="N">interviste</wf>
+<wf id="d003.s013.t008" pos="X">con</wf>
+<wf id="d003.s013.t009" lemma="esponente" pos="N">esponenti</wf>
+<wf id="d003.s013.t010" lemma="chiave" pos="N">chiave</wf>
+<wf id="d003.s013.t011" pos="X">del</wf>
+<wf id="d003.s013.t012" lemma="personale" pos="N">personale</wf>
+<wf id="d003.s013.t013" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s014">
+<wf id="d003.s014.t001" pos="X">Gli</wf>
+<wf id="d003.s014.t002" lemma="studio" pos="N">studi</wf>
+<wf id="d003.s014.t003" lemma="nazionale" pos="J">nazionali</wf>
+<wf id="d003.s014.t004" lemma="sfociare" pos="V">sfoceranno</wf>
+<wf id="d003.s014.t005" pos="X">in</wf>
+<wf id="d003.s014.t006" pos="X">un</wf>
+<wf id="d003.s014.t007" lemma="rapporto" pos="N">rapporto</wf>
+<wf id="d003.s014.t008" lemma="europeo" pos="J">europeo</wf>
+<wf id="d003.s014.t009" pos="X">che</wf>
+<wf id="d003.s014.t010" lemma="sintetizzare" pos="V">sintetizzerà</wf>
+<wf id="d003.s014.t011" pos="X">le</wf>
+<wf id="d003.s014.t012" lemma="prassi" pos="N">prassi</wf>
+<wf id="d003.s014.t013" pos="X">più</wf>
+<wf id="d003.s014.t014" lemma="comune" pos="N">comuni</wf>
+<wf id="d003.s014.t015" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s015">
+<wf id="d003.s015.t001" lemma="questo" pos="J">Questo</wf>
+<wf id="d003.s015.t002" lemma="rapporto" pos="N">rapporto</wf>
+<wf id="d003.s015.t003" pos="X">e</wf>
+<wf id="d003.s015.t004" pos="X">una</wf>
+<wf id="d003.s015.t005" lemma="raccolta" pos="N">raccolta</wf>
+<wf id="d003.s015.t006" pos="X">di</wf>
+<wf id="d003.s015.t007" lemma="iniziativa" pos="N">iniziative</wf>
+<wf id="d003.s015.t008" lemma="essere" pos="V">saranno</wf>
+<wf id="d003.s015.t009" lemma="pubblicare" pos="V">pubblicati</wf>
+<wf id="d003.s015.t010" pos="X">nel</wf>
+<wf id="d003.s015.t011" pos="X">1996</wf>
+<wf id="d003.s015.t012" pos="X">e</wf>
+<wf id="d003.s015.t013" lemma="costituire" pos="V">costituiranno</wf>
+<wf id="d003.s015.t014" pos="X">la</wf>
+<wf id="d003.s015.t015" lemma="base" pos="N">base</wf>
+<wf id="d003.s015.t016" pos="X">di</wf>
+<wf id="d003.s015.t017" pos="X">una</wf>
+<wf id="d003.s015.t018" lemma="conferenza" pos="N">conferenza</wf>
+<wf id="d003.s015.t019" lemma="prevedere" pos="V">prevista</wf>
+<wf id="d003.s015.t020" pos="X">per</wf>
+<wf id="d003.s015.t021" pos="X">l'</wf>
+<wf id="d003.s015.t022" lemma="autunno" pos="N">autunno</wf>
+<wf id="d003.s015.t023" pos="X">dello</wf>
+<wf id="d003.s015.t024" lemma="stesso" pos="J">stesso</wf>
+<wf id="d003.s015.t025" lemma="anno" pos="N">anno</wf>
+<wf id="d003.s015.t026" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s016">
+<wf id="d003.s016.t001" pos="X">La</wf>
+<wf id="d003.s016.t002" lemma="fondazione" pos="N">Fondazione</wf>
+<wf id="d003.s016.t003" lemma="intendere" pos="V">intende</wf>
+<wf id="d003.s016.t004" lemma="documentare" pos="V">documentare</wf>
+<wf id="d003.s016.t005" pos="X">le</wf>
+<wf id="d003.s016.t006" lemma="caratteristica" pos="N">caratteristiche</wf>
+<wf id="d003.s016.t007" pos="X">delle</wf>
+<wf id="d003.s016.t008" lemma="barriera" pos="N">barriere</wf>
+<wf id="d003.s016.t009" lemma="inerente" pos="J">inerenti</wf>
+<wf id="d003.s016.t010" pos="X">all'</wf>
+<wf id="d003.s016.t011" lemma="età" pos="N">età</wf>
+<wf id="d003.s016.t012" pos="X">a</wf>
+<wf id="d003.s016.t013" lemma="livello" pos="N">livello</wf>
+<wf id="d003.s016.t014" pos="X">di</wf>
+<wf id="d003.s016.t015" lemma="assunzione" pos="N">assunzione</wf>
+<wf id="d003.s016.t016" pos="X">e</wf>
+<wf id="d003.s016.t017" lemma="formazione" pos="N">formazione</wf>
+<wf id="d003.s016.t018" pos="X">e</wf>
+<wf id="d003.s016.t019" lemma="analizzare" pos="V">analizzarne</wf>
+<wf id="d003.s016.t020" pos="X">le</wf>
+<wf id="d003.s016.t021" lemma="causa" pos="N">cause</wf>
+<wf id="d003.s016.t022" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s017">
+<wf id="d003.s017.t001" lemma="venire" pos="V">Vengono</wf>
+<wf id="d003.s017.t002" lemma="esaminare" pos="V">esaminati</wf>
+<wf id="d003.s017.t003" pos="X">anche</wf>
+<wf id="d003.s017.t004" pos="X">i</wf>
+<wf id="d003.s017.t005" lemma="punto" pos="N">punti</wf>
+<wf id="d003.s017.t006" pos="X">di</wf>
+<wf id="d003.s017.t007" lemma="vista" pos="N">vista</wf>
+<wf id="d003.s017.t008" pos="X">delle</wf>
+<wf id="d003.s017.t009" lemma="parte" pos="N">parti</wf>
+<wf id="d003.s017.t010" lemma="sociale" pos="J">sociali</wf>
+<wf id="d003.s017.t011" pos="X">,</wf>
+<wf id="d003.s017.t012" lemma="dedicare" pos="V">dedicando</wf>
+<wf id="d003.s017.t013" pos="X">un'</wf>
+<wf id="d003.s017.t014" lemma="attenzione" pos="N">attenzione</wf>
+<wf id="d003.s017.t015" lemma="particolare" pos="J">particolare</wf>
+<wf id="d003.s017.t016" pos="X">alle</wf>
+<wf id="d003.s017.t017" lemma="proposta" pos="N">proposte</wf>
+<wf id="d003.s017.t018" lemma="volto" pos="J">volte</wf>
+<wf id="d003.s017.t019" pos="X">ad</wf>
+<wf id="d003.s017.t020" lemma="eliminare" pos="V">eliminare</wf>
+<wf id="d003.s017.t021" pos="X">le</wf>
+<wf id="d003.s017.t022" lemma="barriera" pos="N">barriere</wf>
+<wf id="d003.s017.t023" lemma="inerente" pos="J">inerenti</wf>
+<wf id="d003.s017.t024" pos="X">all'</wf>
+<wf id="d003.s017.t025" lemma="età" pos="N">età</wf>
+<wf id="d003.s017.t026" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s018">
+<wf id="d003.s018.t001" pos="X">In</wf>
+<wf id="d003.s018.t002" lemma="terzo" pos="J">terzo</wf>
+<wf id="d003.s018.t003" lemma="luogo" pos="N">luogo</wf>
+<wf id="d003.s018.t004" pos="X">,</wf>
+<wf id="d003.s018.t005" pos="X">il</wf>
+<wf id="d003.s018.t006" lemma="progetto" pos="N">progetto</wf>
+<wf id="d003.s018.t007" lemma="documentare" pos="V">documenta</wf>
+<wf id="d003.s018.t008" pos="X">e</wf>
+<wf id="d003.s018.t009" lemma="valutare" pos="V">valuta</wf>
+<wf id="d003.s018.t010" lemma="iniziativa" pos="N">iniziative</wf>
+<wf id="d003.s018.t011" pos="X">,</wf>
+<wf id="d003.s018.t012" lemma="pubblico" pos="J">pubbliche</wf>
+<wf id="d003.s018.t013" pos="X">e</wf>
+<wf id="d003.s018.t014" lemma="privato" pos="J">private</wf>
+<wf id="d003.s018.t015" pos="X">,</wf>
+<wf id="d003.s018.t016" lemma="volta" pos="N">volte</wf>
+<wf id="d003.s018.t017" pos="X">a</wf>
+<wf id="d003.s018.t018" lemma="lottare" pos="V">lottare</wf>
+<wf id="d003.s018.t019" pos="X">contro</wf>
+<wf id="d003.s018.t020" pos="X">le</wf>
+<wf id="d003.s018.t021" lemma="barriera" pos="N">barriere</wf>
+<wf id="d003.s018.t022" lemma="legare" pos="V">legate</wf>
+<wf id="d003.s018.t023" pos="X">all'</wf>
+<wf id="d003.s018.t024" lemma="età" pos="N">età</wf>
+<wf id="d003.s018.t025" pos="X">,</wf>
+<wf id="d003.s018.t026" lemma="specialmente" pos="R">specialmente</wf>
+<wf id="d003.s018.t027" pos="X">a</wf>
+<wf id="d003.s018.t028" lemma="favore" pos="N">favore</wf>
+<wf id="d003.s018.t029" pos="X">dei</wf>
+<wf id="d003.s018.t030" lemma="lavoratore" pos="N">lavoratori</wf>
+<wf id="d003.s018.t031" lemma="anziano" pos="J">anziani</wf>
+<wf id="d003.s018.t032" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s019">
+<wf id="d003.s019.t001" lemma="ricercare" pos="V">Ricercando</wf>
+<wf id="d003.s019.t002" lemma="alternativa" pos="N">alternative</wf>
+<wf id="d003.s019.t003" pos="X">al</wf>
+<wf id="d003.s019.t004" lemma="prepensionamento" pos="N">prepensionamento</wf>
+<wf id="d003.s019.t005" pos="X">e</wf>
+<wf id="d003.s019.t006" pos="X">al</wf>
+<wf id="d003.s019.t007" lemma="licenziamento" pos="N">licenziamento</wf>
+<wf id="d003.s019.t008" pos="X">,</wf>
+<wf id="d003.s019.t009" pos="X">il</wf>
+<wf id="d003.s019.t010" lemma="progetto" pos="N">progetto</wf>
+<wf id="d003.s019.t011" pos="X">si</wf>
+<wf id="d003.s019.t012" lemma="interessare" pos="V">interessa</wf>
+<wf id="d003.s019.t013" lemma="principalmente" pos="R">principalmente</wf>
+<wf id="d003.s019.t014" pos="X">al</wf>
+<wf id="d003.s019.t015" lemma="mantenimento" pos="N">mantenimento</wf>
+<wf id="d003.s019.t016" pos="X">,</wf>
+<wf id="d003.s019.t017" pos="X">alla</wf>
+<wf id="d003.s019.t018" lemma="reintegrazione" pos="N">reintegrazione</wf>
+<wf id="d003.s019.t019" pos="X">e</wf>
+<wf id="d003.s019.t020" pos="X">alla</wf>
+<wf id="d003.s019.t021" lemma="riqualificazione" pos="N">riqualificazione</wf>
+<wf id="d003.s019.t022" pos="X">dei</wf>
+<wf id="d003.s019.t023" lemma="lavoratore" pos="N">lavoratori</wf>
+<wf id="d003.s019.t024" lemma="anziano" pos="J">anziani</wf>
+<wf id="d003.s019.t025" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s020">
+<wf id="d003.s020.t001" lemma="essere" pos="V">Sono</wf>
+<wf id="d003.s020.t002" lemma="prendere" pos="V">presi</wf>
+<wf id="d003.s020.t003" pos="X">in</wf>
+<wf id="d003.s020.t004" lemma="considerazione" pos="N">considerazione</wf>
+<wf id="d003.s020.t005" pos="X">il</wf>
+<wf id="d003.s020.t006" lemma="sesso" pos="N">sesso</wf>
+<wf id="d003.s020.t007" pos="X">e</wf>
+<wf id="d003.s020.t008" pos="X">l'</wf>
+<wf id="d003.s020.t009" lemma="appartenenza" pos="N">appartenenza</wf>
+<wf id="d003.s020.t010" lemma="etnico" pos="J">etnica</wf>
+<wf id="d003.s020.t011" pos="X">dei</wf>
+<wf id="d003.s020.t012" lemma="lavoratore" pos="N">lavoratori</wf>
+<wf id="d003.s020.t013" pos="X">,</wf>
+<wf id="d003.s020.t014" pos="X">e</wf>
+<wf id="d003.s020.t015" pos="X">la</wf>
+<wf id="d003.s020.t016" pos="X">loro</wf>
+<wf id="d003.s020.t017" lemma="correlazione" pos="N">correlazione</wf>
+<wf id="d003.s020.t018" pos="X">con</wf>
+<wf id="d003.s020.t019" pos="X">la</wf>
+<wf id="d003.s020.t020" lemma="discriminazione" pos="N">discriminazione</wf>
+<wf id="d003.s020.t021" pos="X">in</wf>
+<wf id="d003.s020.t022" lemma="base" pos="N">base</wf>
+<wf id="d003.s020.t023" pos="X">all'</wf>
+<wf id="d003.s020.t024" lemma="età" pos="N">età</wf>
+<wf id="d003.s020.t025" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s021">
+<wf id="d003.s021.t001" pos="X">Il</wf>
+<wf id="d003.s021.t002" lemma="progetto" pos="N">progetto</wf>
+<wf id="d003.s021.t003" lemma="esaminare" pos="V">esamina</wf>
+<wf id="d003.s021.t004" pos="X">anche</wf>
+<wf id="d003.s021.t005" lemma="iniziativa" pos="N">iniziative</wf>
+<wf id="d003.s021.t006" lemma="volto" pos="J">volte</wf>
+<wf id="d003.s021.t007" pos="X">a</wf>
+<wf id="d003.s021.t008" lemma="lottare" pos="V">lottare</wf>
+<wf id="d003.s021.t009" pos="X">contro</wf>
+<wf id="d003.s021.t010" pos="X">la</wf>
+<wf id="d003.s021.t011" lemma="discriminazione" pos="N">discriminazione</wf>
+<wf id="d003.s021.t012" lemma="basare" pos="V">basata</wf>
+<wf id="d003.s021.t013" pos="X">sull'</wf>
+<wf id="d003.s021.t014" lemma="età" pos="N">età</wf>
+<wf id="d003.s021.t015" pos="X">nelle</wf>
+<wf id="d003.s021.t016" lemma="zona" pos="N">zone</wf>
+<wf id="d003.s021.t017" lemma="rurale" pos="J">rurali</wf>
+<wf id="d003.s021.t018" pos="X">e</wf>
+<wf id="d003.s021.t019" pos="X">nelle</wf>
+<wf id="d003.s021.t020" lemma="piccolo" pos="J">piccole</wf>
+<wf id="d003.s021.t021" pos="X">e</wf>
+<wf id="d003.s021.t022" lemma="medio" pos="J">medie</wf>
+<wf id="d003.s021.t023" lemma="impresa" pos="N">imprese</wf>
+<wf id="d003.s021.t024" pos="X">.</wf>
+</sentence>
+<sentence id="d003.s022">
+<wf id="d003.s022.t001" pos="X">La</wf>
+<wf id="d003.s022.t002" lemma="ricerca" pos="N">ricerca</wf>
+<wf id="d003.s022.t003" lemma="avere" pos="V">ha</wf>
+<wf id="d003.s022.t004" pos="X">per</wf>
+<wf id="d003.s022.t005" lemma="oggetto" pos="N">oggetto</wf>
+<wf id="d003.s022.t006" lemma="sette" pos="J">sette</wf>
+<wf id="d003.s022.t007" lemma="stati" pos="N">Stati</wf>
+<wf id="d003.s022.t008" lemma="membro" pos="N">membri</wf>
+<wf id="d003.s022.t009" pos="X">:</wf>
+<wf id="d003.s022.t010" lemma="belgio" pos="N">Belgio</wf>
+<wf id="d003.s022.t011" pos="X">,</wf>
+<wf id="d003.s022.t012" lemma="francia" pos="N">Francia</wf>
+<wf id="d003.s022.t013" pos="X">,</wf>
+<wf id="d003.s022.t014" lemma="germania" pos="N">Germania</wf>
+<wf id="d003.s022.t015" pos="X">,</wf>
+<wf id="d003.s022.t016" lemma="grecia" pos="N">Grecia</wf>
+<wf id="d003.s022.t017" pos="X">,</wf>
+<wf id="d003.s022.t018" lemma="italia" pos="N">Italia</wf>
+<wf id="d003.s022.t019" pos="X">,</wf>
+<wf id="d003.s022.t020" lemma="paesi" pos="N">Paesi</wf>
+<wf id="d003.s022.t021" lemma="basso" pos="J">Bassi</wf>
+<wf id="d003.s022.t022" pos="X">e</wf>
+<wf id="d003.s022.t023" lemma="regno" pos="N">Regno</wf>
+<wf id="d003.s022.t024" lemma="unito" pos="J">Unito</wf>
+<wf id="d003.s022.t025" pos="X">.</wf>
+</sentence>
+</text>
+<text id="d004">
+<sentence id="d004.s001">
+<wf id="d004.s001.t001" lemma="sintesi" pos="N">Sintesi</wf>
+<wf id="d004.s001.t002" lemma="destinare" pos="V">destinata</wf>
+<wf id="d004.s001.t003" pos="X">al</wf>
+<wf id="d004.s001.t004" lemma="pubblico" pos="N">pubblico</wf>
+</sentence>
+<sentence id="d004.s002">
+<wf id="d004.s002.t001" pos="X">Il</wf>
+<wf id="d004.s002.t002" lemma="presente" pos="J">presente</wf>
+<wf id="d004.s002.t003" lemma="documento" pos="N">documento</wf>
+<wf id="d004.s002.t004" lemma="essere" pos="V">è</wf>
+<wf id="d004.s002.t005" pos="X">la</wf>
+<wf id="d004.s002.t006" lemma="sintesi" pos="N">sintesi</wf>
+<wf id="d004.s002.t007" pos="X">di</wf>
+<wf id="d004.s002.t008" pos="X">una</wf>
+<wf id="d004.s002.t009" lemma="relazione" pos="N">relazione</wf>
+<wf id="d004.s002.t010" pos="X">di</wf>
+<wf id="d004.s002.t011" lemma="valutazione" pos="N">valutazione</wf>
+<wf id="d004.s002.t012" lemma="pubblico" pos="J">pubblica</wf>
+<wf id="d004.s002.t013" lemma="europeo" pos="J">europea</wf>
+<wf id="d004.s002.t014" pos="X">(</wf>
+<wf id="d004.s002.t015" lemma="epar" pos="N">EPAR</wf>
+<wf id="d004.s002.t016" pos="X">)</wf>
+<wf id="d004.s002.t017" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s003">
+<wf id="d004.s003.t001" pos="X">Che</wf>
+<wf id="d004.s003.t002" lemma="cosa" pos="N">cos</wf>
+<wf id="d004.s003.t003" lemma="essere" pos="V">è</wf>
+<wf id="d004.s003.t004" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s003.t005" pos="X">?</wf>
+</sentence>
+<sentence id="d004.s004">
+<wf id="d004.s004.t001" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s004.t002" lemma="contenere" pos="V">contiene</wf>
+<wf id="d004.s004.t003" pos="X">il</wf>
+<wf id="d004.s004.t004" lemma="principio" pos="N">principio</wf>
+<wf id="d004.s004.t005" lemma="attivo" pos="J">attivo</wf>
+<wf id="d004.s004.t006" lemma="maropitant" pos="N">maropitant</wf>
+<wf id="d004.s004.t007" pos="X">ed</wf>
+<wf id="d004.s004.t008" lemma="essere" pos="V">è</wf>
+<wf id="d004.s004.t009" lemma="disponibile" pos="J">disponibile</wf>
+<wf id="d004.s004.t010" pos="X">sotto</wf>
+<wf id="d004.s004.t011" lemma="forma" pos="N">forma</wf>
+<wf id="d004.s004.t012" pos="X">di</wf>
+<wf id="d004.s004.t013" lemma="compressa" pos="N">compressa</wf>
+<wf id="d004.s004.t014" pos="X">o</wf>
+<wf id="d004.s004.t015" pos="X">di</wf>
+<wf id="d004.s004.t016" lemma="soluzione" pos="N">soluzione</wf>
+<wf id="d004.s004.t017" lemma="iniettabile" pos="J">iniettabile</wf>
+<wf id="d004.s004.t018" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s005">
+<wf id="d004.s005.t001" pos="X">Le</wf>
+<wf id="d004.s005.t002" lemma="compressa" pos="N">compresse</wf>
+<wf id="d004.s005.t003" lemma="essere" pos="V">sono</wf>
+<wf id="d004.s005.t004" pos="X">di</wf>
+<wf id="d004.s005.t005" lemma="color" pos="N">color</wf>
+<wf id="d004.s005.t006" lemma="arancione" pos="J">arancione</wf>
+<wf id="d004.s005.t007" lemma="chiaro" pos="J">chiaro</wf>
+<wf id="d004.s005.t008" pos="X">e</wf>
+<wf id="d004.s005.t009" lemma="avere" pos="V">hanno</wf>
+<wf id="d004.s005.t010" pos="X">una</wf>
+<wf id="d004.s005.t011" lemma="tacca" pos="N">tacca</wf>
+<wf id="d004.s005.t012" pos="X">su</wf>
+<wf id="d004.s005.t013" lemma="entrambi" pos="J">entrambi</wf>
+<wf id="d004.s005.t014" pos="X">i</wf>
+<wf id="d004.s005.t015" lemma="lato" pos="N">lati</wf>
+<wf id="d004.s005.t016" pos="X">,</wf>
+<wf id="d004.s005.t017" pos="X">per</wf>
+<wf id="d004.s005.t018" lemma="facilitare" pos="V">facilitarne</wf>
+<wf id="d004.s005.t019" pos="X">la</wf>
+<wf id="d004.s005.t020" lemma="divisione" pos="N">divisione</wf>
+<wf id="d004.s005.t021" pos="X">in</wf>
+<wf id="d004.s005.t022" lemma="due" pos="J">due</wf>
+<wf id="d004.s005.t023" lemma="metà" pos="N">metà</wf>
+<wf id="d004.s005.t024" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s006">
+<wf id="d004.s006.t001" lemma="ciascuno" pos="R">Ciascuna</wf>
+<wf id="d004.s006.t002" lemma="compressa" pos="N">compressa</wf>
+<wf id="d004.s006.t003" lemma="essere" pos="V">è</wf>
+<wf id="d004.s006.t004" lemma="marcare" pos="V">marcata</wf>
+<wf id="d004.s006.t005" pos="X">da</wf>
+<wf id="d004.s006.t006" pos="X">un</wf>
+<wf id="d004.s006.t007" lemma="lato" pos="N">lato</wf>
+<wf id="d004.s006.t008" pos="X">con</wf>
+<wf id="d004.s006.t009" pos="X">il</wf>
+<wf id="d004.s006.t010" lemma="logo" pos="N">logo</wf>
+<wf id="d004.s006.t011" lemma="pfizer" pos="N">Pfizer</wf>
+<wf id="d004.s006.t012" pos="X">e</wf>
+<wf id="d004.s006.t013" lemma="dall" pos="N">dall</wf>
+<wf id="d004.s006.t014" lemma="altro" pos="J">altro</wf>
+<wf id="d004.s006.t015" lemma="lato" pos="N">lato</wf>
+<wf id="d004.s006.t016" pos="X">con</wf>
+<wf id="d004.s006.t017" pos="X">le</wf>
+<wf id="d004.s006.t018" lemma="lettera" pos="N">lettere</wf>
+<wf id="d004.s006.t019" pos="X">MPT</wf>
+<wf id="d004.s006.t020" pos="X">e</wf>
+<wf id="d004.s006.t021" pos="X">con</wf>
+<wf id="d004.s006.t022" lemma="numero" pos="N">numeri</wf>
+<wf id="d004.s006.t023" pos="X">che</wf>
+<wf id="d004.s006.t024" lemma="indicare" pos="V">indicano</wf>
+<wf id="d004.s006.t025" pos="X">la</wf>
+<wf id="d004.s006.t026" lemma="quantità" pos="N">quantità</wf>
+<wf id="d004.s006.t027" pos="X">di</wf>
+<wf id="d004.s006.t028" lemma="maropitant" pos="N">maropitant</wf>
+<wf id="d004.s006.t029" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s007">
+<wf id="d004.s007.t001" pos="X">Per</wf>
+<wf id="d004.s007.t002" pos="X">che</wf>
+<wf id="d004.s007.t003" lemma="cosa" pos="N">cosa</wf>
+<wf id="d004.s007.t004" pos="X">si</wf>
+<wf id="d004.s007.t005" lemma="usare" pos="V">usa</wf>
+<wf id="d004.s007.t006" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s007.t007" pos="X">?</wf>
+</sentence>
+<sentence id="d004.s008">
+<wf id="d004.s008.t001" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s008.t002" lemma="essere" pos="V">è</wf>
+<wf id="d004.s008.t003" pos="X">un</wf>
+<wf id="d004.s008.t004" lemma="antiemetico" pos="N">antiemetico</wf>
+<wf id="d004.s008.t005" pos="X">,</wf>
+<wf id="d004.s008.t006" pos="X">ossia</wf>
+<wf id="d004.s008.t007" pos="X">un</wf>
+<wf id="d004.s008.t008" lemma="medicinale" pos="N">medicinale</wf>
+<wf id="d004.s008.t009" pos="X">che</wf>
+<wf id="d004.s008.t010" lemma="arrestare" pos="V">arresta</wf>
+<wf id="d004.s008.t011" pos="X">il</wf>
+<wf id="d004.s008.t012" lemma="vomito" pos="N">vomito</wf>
+<wf id="d004.s008.t013" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s009">
+<wf id="d004.s009.t001" lemma="essere" pos="V">È</wf>
+<wf id="d004.s009.t002" lemma="usare" pos="V">usato</wf>
+<wf id="d004.s009.t003" pos="X">nei</wf>
+<wf id="d004.s009.t004" lemma="cane" pos="N">cani</wf>
+<wf id="d004.s009.t005" pos="X">per</wf>
+<wf id="d004.s009.t006" lemma="prevenire" pos="V">prevenire</wf>
+<wf id="d004.s009.t007" pos="X">il</wf>
+<wf id="d004.s009.t008" lemma="vomito" pos="N">vomito</wf>
+<wf id="d004.s009.t009" lemma="causare" pos="V">causato</wf>
+<wf id="d004.s009.t010" pos="X">,</wf>
+<wf id="d004.s009.t011" pos="X">per</wf>
+<wf id="d004.s009.t012" lemma="esempio" pos="N">esempio</wf>
+<wf id="d004.s009.t013" pos="X">,</wf>
+<wf id="d004.s009.t014" pos="X">dalla</wf>
+<wf id="d004.s009.t015" lemma="chemioterapia" pos="N">chemioterapia</wf>
+<wf id="d004.s009.t016" pos="X">(</wf>
+<wf id="d004.s009.t017" lemma="medicinale" pos="N">medicinali</wf>
+<wf id="d004.s009.t018" lemma="usato" pos="J">usati</wf>
+<wf id="d004.s009.t019" pos="X">per</wf>
+<wf id="d004.s009.t020" pos="X">la</wf>
+<wf id="d004.s009.t021" lemma="cura" pos="N">cura</wf>
+<wf id="d004.s009.t022" pos="X">del</wf>
+<wf id="d004.s009.t023" lemma="cancro" pos="N">cancro</wf>
+<wf id="d004.s009.t024" pos="X">,</wf>
+<wf id="d004.s009.t025" pos="X">alcuni</wf>
+<wf id="d004.s009.t026" pos="X">dei</wf>
+<wf id="d004.s009.t027" lemma="quale" pos="R">quali</wf>
+<wf id="d004.s009.t028" lemma="noto" pos="J">noti</wf>
+<wf id="d004.s009.t029" pos="X">per</wf>
+<wf id="d004.s009.t030" lemma="provocare" pos="V">provocare</wf>
+<wf id="d004.s009.t031" pos="X">il</wf>
+<wf id="d004.s009.t032" lemma="vomito" pos="N">vomito</wf>
+<wf id="d004.s009.t033" pos="X">)</wf>
+<wf id="d004.s009.t034" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s010">
+<wf id="d004.s010.t001" pos="X">In</wf>
+<wf id="d004.s010.t002" lemma="combinazione" pos="N">combinazione</wf>
+<wf id="d004.s010.t003" pos="X">con</wf>
+<wf id="d004.s010.t004" pos="X">altre</wf>
+<wf id="d004.s010.t005" lemma="misura" pos="N">misure</wf>
+<wf id="d004.s010.t006" pos="X">di</wf>
+<wf id="d004.s010.t007" lemma="supporto" pos="N">supporto</wf>
+<wf id="d004.s010.t008" pos="X">,</wf>
+<wf id="d004.s010.t009" pos="X">per</wf>
+<wf id="d004.s010.t010" lemma="esempio" pos="N">esempio</wf>
+<wf id="d004.s010.t011" lemma="altro" pos="J">altre</wf>
+<wf id="d004.s010.t012" lemma="terapia" pos="N">terapie</wf>
+<wf id="d004.s010.t013" lemma="veterinario" pos="J">veterinarie</wf>
+<wf id="d004.s010.t014" pos="X">o</wf>
+<wf id="d004.s010.t015" pos="X">una</wf>
+<wf id="d004.s010.t016" lemma="dieta" pos="N">dieta</wf>
+<wf id="d004.s010.t017" lemma="speciale" pos="J">speciale</wf>
+<wf id="d004.s010.t018" pos="X">,</wf>
+<wf id="d004.s010.t019" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s010.t020" lemma="potere" pos="V">può</wf>
+<wf id="d004.s010.t021" pos="X">anche</wf>
+<wf id="d004.s010.t022" lemma="essere" pos="V">essere</wf>
+<wf id="d004.s010.t023" lemma="usare" pos="V">usato</wf>
+<wf id="d004.s010.t024" pos="X">nel</wf>
+<wf id="d004.s010.t025" lemma="trattamento" pos="N">trattamento</wf>
+<wf id="d004.s010.t026" pos="X">del</wf>
+<wf id="d004.s010.t027" lemma="vomito" pos="N">vomito</wf>
+<wf id="d004.s010.t028" pos="X">(</wf>
+<wf id="d004.s010.t029" pos="X">sia</wf>
+<wf id="d004.s010.t030" pos="X">come</wf>
+<wf id="d004.s010.t031" lemma="iniezione" pos="N">iniezione</wf>
+<wf id="d004.s010.t032" pos="X">che</wf>
+<wf id="d004.s010.t033" pos="X">come</wf>
+<wf id="d004.s010.t034" lemma="iniezione" pos="N">iniezione</wf>
+<wf id="d004.s010.t035" lemma="seguire" pos="V">seguita</wf>
+<wf id="d004.s010.t036" pos="X">da</wf>
+<wf id="d004.s010.t037" lemma="compressa" pos="N">compresse</wf>
+<wf id="d004.s010.t038" pos="X">)</wf>
+<wf id="d004.s010.t039" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s011">
+<wf id="d004.s011.t001" pos="X">Per</wf>
+<wf id="d004.s011.t002" pos="X">tali</wf>
+<wf id="d004.s011.t003" lemma="scopo" pos="N">scopi</wf>
+<wf id="d004.s011.t004" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s011.t005" lemma="potere" pos="V">può</wf>
+<wf id="d004.s011.t006" lemma="essere" pos="V">essere</wf>
+<wf id="d004.s011.t007" lemma="somministrare" pos="V">somministrato</wf>
+<wf id="d004.s011.t008" pos="X">fino</wf>
+<wf id="d004.s011.t009" pos="X">a</wf>
+<wf id="d004.s011.t010" pos="X">un</wf>
+<wf id="d004.s011.t011" lemma="massimo" pos="N">massimo</wf>
+<wf id="d004.s011.t012" pos="X">di</wf>
+<wf id="d004.s011.t013" lemma="cinque" pos="J">cinque</wf>
+<wf id="d004.s011.t014" lemma="giorno" pos="N">giorni</wf>
+<wf id="d004.s011.t015" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s012">
+<wf id="d004.s012.t001" pos="X">Come</wf>
+<wf id="d004.s012.t002" lemma="agire" pos="V">agisce</wf>
+<wf id="d004.s012.t003" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s012.t004" pos="X">?</wf>
+</sentence>
+<sentence id="d004.s013">
+<wf id="d004.s013.t001" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s013.t002" lemma="bloccare" pos="V">blocca</wf>
+<wf id="d004.s013.t003" pos="X">un</wf>
+<wf id="d004.s013.t004" lemma="recettore" pos="N">recettore</wf>
+<wf id="d004.s013.t005" pos="X">della</wf>
+<wf id="d004.s013.t006" lemma="neurochinina" pos="N">neurochinina</wf>
+<wf id="d004.s013.t007" pos="X">(</wf>
+<wf id="d004.s013.t008" lemma="nk1" pos="N">NK1</wf>
+<wf id="d004.s013.t009" pos="X">)</wf>
+<wf id="d004.s013.t010" pos="X">che</wf>
+<wf id="d004.s013.t011" lemma="agire" pos="V">agisce</wf>
+<wf id="d004.s013.t012" pos="X">a</wf>
+<wf id="d004.s013.t013" lemma="livello" pos="N">livello</wf>
+<wf id="d004.s013.t014" pos="X">del</wf>
+<wf id="d004.s013.t015" lemma="sistema" pos="N">sistema</wf>
+<wf id="d004.s013.t016" lemma="nervoso" pos="J">nervoso</wf>
+<wf id="d004.s013.t017" lemma="centrale" pos="J">centrale</wf>
+<wf id="d004.s013.t018" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s014">
+<wf id="d004.s014.t001" pos="X">Come</wf>
+<wf id="d004.s014.t002" lemma="essere" pos="V">è</wf>
+<wf id="d004.s014.t003" lemma="essere" pos="V">stata</wf>
+<wf id="d004.s014.t004" lemma="studiare" pos="V">studiata</wf>
+<wf id="d004.s014.t005" pos="X">l</wf>
+<wf id="d004.s014.t006" lemma="efficacia" pos="N">efficacia</wf>
+<wf id="d004.s014.t007" pos="X">di</wf>
+<wf id="d004.s014.t008" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s014.t009" pos="X">?</wf>
+</sentence>
+<sentence id="d004.s015">
+<wf id="d004.s015.t001" lemma="essere" pos="V">Sono</wf>
+<wf id="d004.s015.t002" lemma="essere" pos="V">stati</wf>
+<wf id="d004.s015.t003" lemma="condurre" pos="V">condotti</wf>
+<wf id="d004.s015.t004" lemma="numeroso" pos="J">numerosi</wf>
+<wf id="d004.s015.t005" lemma="studio" pos="N">studi</wf>
+<wf id="d004.s015.t006" pos="X">con</wf>
+<wf id="d004.s015.t007" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s015.t008" pos="X">,</wf>
+<wf id="d004.s015.t009" pos="X">sia</wf>
+<wf id="d004.s015.t010" pos="X">su</wf>
+<wf id="d004.s015.t011" lemma="cane" pos="N">cani</wf>
+<wf id="d004.s015.t012" pos="X">da</wf>
+<wf id="d004.s015.t013" lemma="laboratorio" pos="N">laboratorio</wf>
+<wf id="d004.s015.t014" pos="X">sia</wf>
+<wf id="d004.s015.t015" pos="X">su</wf>
+<wf id="d004.s015.t016" lemma="animale" pos="N">animali</wf>
+<wf id="d004.s015.t017" pos="X">in</wf>
+<wf id="d004.s015.t018" lemma="cura" pos="N">cura</wf>
+<wf id="d004.s015.t019" pos="X">presso</wf>
+<wf id="d004.s015.t020" lemma="studio" pos="N">studi</wf>
+<wf id="d004.s015.t021" lemma="veterinario" pos="J">veterinari</wf>
+<wf id="d004.s015.t022" pos="X">di</wf>
+<wf id="d004.s015.t023" lemma="diverso" pos="J">diversi</wf>
+<wf id="d004.s015.t024" lemma="paese" pos="N">paesi</wf>
+<wf id="d004.s015.t025" lemma="europeo" pos="J">europei</wf>
+<wf id="d004.s015.t026" pos="X">e</wf>
+<wf id="d004.s015.t027" pos="X">negli</wf>
+<wf id="d004.s015.t028" lemma="stato" pos="N">Stati</wf>
+<wf id="d004.s015.t029" lemma="unito" pos="J">Uniti</wf>
+<wf id="d004.s015.t030" pos="X">d</wf>
+<wf id="d004.s015.t031" lemma="america" pos="N">America</wf>
+<wf id="d004.s015.t032" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s016">
+<wf id="d004.s016.t001" pos="X">Quali</wf>
+<wf id="d004.s016.t002" lemma="beneficio" pos="N">benefici</wf>
+<wf id="d004.s016.t003" lemma="avere" pos="V">ha</wf>
+<wf id="d004.s016.t004" lemma="mostrare" pos="V">mostrato</wf>
+<wf id="d004.s016.t005" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s016.t006" pos="X">nel</wf>
+<wf id="d004.s016.t007" lemma="corso" pos="N">corso</wf>
+<wf id="d004.s016.t008" pos="X">degli</wf>
+<wf id="d004.s016.t009" lemma="studio" pos="N">studi</wf>
+<wf id="d004.s016.t010" pos="X">?</wf>
+</sentence>
+<sentence id="d004.s017">
+<wf id="d004.s017.t001" pos="X">Dai</wf>
+<wf id="d004.s017.t002" lemma="risultato" pos="N">risultati</wf>
+<wf id="d004.s017.t003" pos="X">degli</wf>
+<wf id="d004.s017.t004" lemma="studio" pos="N">studi</wf>
+<wf id="d004.s017.t005" lemma="essere" pos="V">è</wf>
+<wf id="d004.s017.t006" lemma="emergere" pos="V">emerso</wf>
+<wf id="d004.s017.t007" pos="X">che</wf>
+<wf id="d004.s017.t008" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s017.t009" lemma="essere" pos="V">è</wf>
+<wf id="d004.s017.t010" pos="X">più</wf>
+<wf id="d004.s017.t011" lemma="efficace" pos="J">efficace</wf>
+<wf id="d004.s017.t012" pos="X">del</wf>
+<wf id="d004.s017.t013" lemma="placebo" pos="N">placebo</wf>
+<wf id="d004.s017.t014" pos="X">:</wf>
+<wf id="d004.s017.t015" pos="X">nei</wf>
+<wf id="d004.s017.t016" lemma="cane" pos="N">cani</wf>
+<wf id="d004.s017.t017" lemma="trattare" pos="V">trattati</wf>
+<wf id="d004.s017.t018" pos="X">con</wf>
+<wf id="d004.s017.t019" pos="X">il</wf>
+<wf id="d004.s017.t020" lemma="medicinale" pos="N">medicinale</wf>
+<wf id="d004.s017.t021" pos="X">gli</wf>
+<wf id="d004.s017.t022" lemma="attacco" pos="N">attacchi</wf>
+<wf id="d004.s017.t023" pos="X">di</wf>
+<wf id="d004.s017.t024" lemma="vomito" pos="N">vomito</wf>
+<wf id="d004.s017.t025" lemma="essere" pos="V">sono</wf>
+<wf id="d004.s017.t026" lemma="essere" pos="V">stati</wf>
+<wf id="d004.s017.t027" pos="X">meno</wf>
+<wf id="d004.s017.t028" lemma="frequente" pos="J">frequenti</wf>
+<wf id="d004.s017.t029" lemma="rispetto" pos="N">rispetto</wf>
+<wf id="d004.s017.t030" pos="X">agli</wf>
+<wf id="d004.s017.t031" lemma="animale" pos="N">animali</wf>
+<wf id="d004.s017.t032" lemma="trattare" pos="V">trattati</wf>
+<wf id="d004.s017.t033" pos="X">con</wf>
+<wf id="d004.s017.t034" pos="X">il</wf>
+<wf id="d004.s017.t035" lemma="placebo" pos="N">placebo</wf>
+<wf id="d004.s017.t036" pos="X">,</wf>
+<wf id="d004.s017.t037" pos="X">sia</wf>
+<wf id="d004.s017.t038" pos="X">nel</wf>
+<wf id="d004.s017.t039" lemma="trattamento" pos="N">trattamento</wf>
+<wf id="d004.s017.t040" pos="X">che</wf>
+<wf id="d004.s017.t041" pos="X">nella</wf>
+<wf id="d004.s017.t042" lemma="prevenzione" pos="N">prevenzione</wf>
+<wf id="d004.s017.t043" pos="X">del</wf>
+<wf id="d004.s017.t044" lemma="vomito" pos="N">vomito</wf>
+<wf id="d004.s017.t045" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s018">
+<wf id="d004.s018.t001" pos="X">Il</wf>
+<wf id="d004.s018.t002" lemma="trattamento" pos="N">trattamento</wf>
+<wf id="d004.s018.t003" pos="X">di</wf>
+<wf id="d004.s018.t004" pos="X">un</wf>
+<wf id="d004.s018.t005" lemma="cane" pos="N">cane</wf>
+<wf id="d004.s018.t006" pos="X">con</wf>
+<wf id="d004.s018.t007" lemma="vomito" pos="N">vomito</wf>
+<wf id="d004.s018.t008" lemma="dovere" pos="V">deve</wf>
+<wf id="d004.s018.t009" lemma="iniziare" pos="V">iniziare</wf>
+<wf id="d004.s018.t010" pos="X">con</wf>
+<wf id="d004.s018.t011" lemma="l" pos="X">l</wf>
+<wf id="d004.s018.t012" lemma="iniezione" pos="N">iniezione</wf>
+<wf id="d004.s018.t013" pos="X">,</wf>
+<wf id="d004.s018.t014" pos="X">perché</wf>
+<wf id="d004.s018.t015" pos="X">gli</wf>
+<wf id="d004.s018.t016" lemma="animale" pos="N">animali</wf>
+<wf id="d004.s018.t017" pos="X">con</wf>
+<wf id="d004.s018.t018" lemma="attacco" pos="N">attacchi</wf>
+<wf id="d004.s018.t019" pos="X">di</wf>
+<wf id="d004.s018.t020" lemma="vomito" pos="N">vomito</wf>
+<wf id="d004.s018.t021" lemma="potere" pos="V">possono</wf>
+<wf id="d004.s018.t022" pos="X">non</wf>
+<wf id="d004.s018.t023" lemma="essere" pos="V">essere</wf>
+<wf id="d004.s018.t024" pos="X">in</wf>
+<wf id="d004.s018.t025" lemma="grado" pos="N">grado</wf>
+<wf id="d004.s018.t026" pos="X">di</wf>
+<wf id="d004.s018.t027" lemma="trattenere" pos="V">trattenere</wf>
+<wf id="d004.s018.t028" pos="X">la</wf>
+<wf id="d004.s018.t029" lemma="compressa" pos="N">compressa</wf>
+<wf id="d004.s018.t030" pos="X">nell</wf>
+<wf id="d004.s018.t031" lemma="organismo" pos="N">organismo</wf>
+<wf id="d004.s018.t032" pos="X">(</wf>
+<wf id="d004.s018.t033" pos="X">che</wf>
+<wf id="d004.s018.t034" lemma="potere" pos="V">può</wf>
+<wf id="d004.s018.t035" lemma="essere" pos="V">essere</wf>
+<wf id="d004.s018.t036" lemma="vomitare" pos="V">vomitata</wf>
+<wf id="d004.s018.t037" lemma="intatto" pos="J">intatta</wf>
+<wf id="d004.s018.t038" pos="X">)</wf>
+<wf id="d004.s018.t039" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s019">
+<wf id="d004.s019.t001" pos="X">Per</wf>
+<wf id="d004.s019.t002" pos="X">il</wf>
+<wf id="d004.s019.t003" lemma="trattamento" pos="N">trattamento</wf>
+<wf id="d004.s019.t004" pos="X">di</wf>
+<wf id="d004.s019.t005" lemma="follow-up" pos="N">follow-up</wf>
+<wf id="d004.s019.t006" pos="X">,</wf>
+<wf id="d004.s019.t007" pos="X">le</wf>
+<wf id="d004.s019.t008" lemma="compressa" pos="N">compresse</wf>
+<wf id="d004.s019.t009" lemma="potere" pos="V">possono</wf>
+<wf id="d004.s019.t010" lemma="essere" pos="V">essere</wf>
+<wf id="d004.s019.t011" lemma="somministrare" pos="V">somministrate</wf>
+<wf id="d004.s019.t012" pos="X">dal</wf>
+<wf id="d004.s019.t013" lemma="padrone" pos="N">padrone</wf>
+<wf id="d004.s019.t014" pos="X">del</wf>
+<wf id="d004.s019.t015" lemma="cane" pos="N">cane</wf>
+<wf id="d004.s019.t016" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s020">
+<wf id="d004.s020.t001" pos="X">Inoltre</wf>
+<wf id="d004.s020.t002" pos="X">,</wf>
+<wf id="d004.s020.t003" pos="X">la</wf>
+<wf id="d004.s020.t004" lemma="cura" pos="N">cura</wf>
+<wf id="d004.s020.t005" pos="X">del</wf>
+<wf id="d004.s020.t006" lemma="vomito" pos="N">vomito</wf>
+<wf id="d004.s020.t007" lemma="dovere" pos="V">deve</wf>
+<wf id="d004.s020.t008" lemma="essere" pos="V">essere</wf>
+<wf id="d004.s020.t009" lemma="associare" pos="V">associata</wf>
+<wf id="d004.s020.t010" pos="X">ad</wf>
+<wf id="d004.s020.t011" pos="X">altre</wf>
+<wf id="d004.s020.t012" lemma="misura" pos="N">misure</wf>
+<wf id="d004.s020.t013" pos="X">di</wf>
+<wf id="d004.s020.t014" lemma="supporto" pos="N">supporto</wf>
+<wf id="d004.s020.t015" pos="X">o</wf>
+<wf id="d004.s020.t016" pos="X">ad</wf>
+<wf id="d004.s020.t017" pos="X">altre</wf>
+<wf id="d004.s020.t018" lemma="terapia" pos="N">terapie</wf>
+<wf id="d004.s020.t019" lemma="veterinario" pos="J">veterinarie</wf>
+<wf id="d004.s020.t020" pos="X">che</wf>
+<wf id="d004.s020.t021" lemma="intervenire" pos="V">intervengano</wf>
+<wf id="d004.s020.t022" pos="X">sulle</wf>
+<wf id="d004.s020.t023" lemma="causa" pos="N">cause</wf>
+<wf id="d004.s020.t024" pos="X">del</wf>
+<wf id="d004.s020.t025" lemma="vomito" pos="N">vomito</wf>
+<wf id="d004.s020.t026" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s021">
+<wf id="d004.s021.t001" pos="X">Quali</wf>
+<wf id="d004.s021.t002" lemma="essere" pos="V">sono</wf>
+<wf id="d004.s021.t003" pos="X">i</wf>
+<wf id="d004.s021.t004" lemma="rischio" pos="N">rischi</wf>
+<wf id="d004.s021.t005" lemma="associare" pos="V">associati</wf>
+<wf id="d004.s021.t006" pos="X">a</wf>
+<wf id="d004.s021.t007" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s021.t008" pos="X">?</wf>
+</sentence>
+<sentence id="d004.s022">
+<wf id="d004.s022.t001" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s022.t002" lemma="essere" pos="V">è</wf>
+<wf id="d004.s022.t003" lemma="generalmente" pos="R">generalmente</wf>
+<wf id="d004.s022.t004" lemma="bene" pos="R">ben</wf>
+<wf id="d004.s022.t005" lemma="tollerare" pos="V">tollerato</wf>
+<wf id="d004.s022.t006" pos="X">se</wf>
+<wf id="d004.s022.t007" lemma="somministrare" pos="V">somministrato</wf>
+<wf id="d004.s022.t008" lemma="giornalmente" pos="R">giornalmente</wf>
+<wf id="d004.s022.t009" pos="X">con</wf>
+<wf id="d004.s022.t010" lemma="dose" pos="N">dosi</wf>
+<wf id="d004.s022.t011" pos="X">fino</wf>
+<wf id="d004.s022.t012" pos="X">a</wf>
+<wf id="d004.s022.t013" pos="X">5</wf>
+<wf id="d004.s022.t014" lemma="volta" pos="N">volte</wf>
+<wf id="d004.s022.t015" pos="X">la</wf>
+<wf id="d004.s022.t016" lemma="dose" pos="N">dose</wf>
+<wf id="d004.s022.t017" lemma="raccomandare" pos="V">raccomandata</wf>
+<wf id="d004.s022.t018" pos="X">per</wf>
+<wf id="d004.s022.t019" pos="X">un</wf>
+<wf id="d004.s022.t020" lemma="lungo" pos="J">lungo</wf>
+<wf id="d004.s022.t021" lemma="periodo" pos="N">periodo</wf>
+<wf id="d004.s022.t022" pos="X">di</wf>
+<wf id="d004.s022.t023" lemma="tempo" pos="N">tempo</wf>
+<wf id="d004.s022.t024" pos="X">(</wf>
+<wf id="d004.s022.t025" pos="X">fino</wf>
+<wf id="d004.s022.t026" pos="X">a</wf>
+<wf id="d004.s022.t027" pos="X">3</wf>
+<wf id="d004.s022.t028" lemma="volta" pos="N">volte</wf>
+<wf id="d004.s022.t029" pos="X">la</wf>
+<wf id="d004.s022.t030" lemma="durata" pos="N">durata</wf>
+<wf id="d004.s022.t031" pos="X">di</wf>
+<wf id="d004.s022.t032" lemma="trattamento" pos="N">trattamento</wf>
+<wf id="d004.s022.t033" lemma="raccomandato" pos="J">raccomandata</wf>
+<wf id="d004.s022.t034" pos="X">)</wf>
+<wf id="d004.s022.t035" pos="X">.</wf>
+</sentence>
+<sentence id="d004.s023">
+<wf id="d004.s023.t001" pos="X">Quali</wf>
+<wf id="d004.s023.t002" lemma="essere" pos="V">sono</wf>
+<wf id="d004.s023.t003" pos="X">le</wf>
+<wf id="d004.s023.t004" lemma="precauzione" pos="N">precauzioni</wf>
+<wf id="d004.s023.t005" pos="X">che</wf>
+<wf id="d004.s023.t006" lemma="dovere" pos="V">deve</wf>
+<wf id="d004.s023.t007" lemma="prendere" pos="V">prendere</wf>
+<wf id="d004.s023.t008" pos="X">la</wf>
+<wf id="d004.s023.t009" lemma="persona" pos="N">persona</wf>
+<wf id="d004.s023.t010" pos="X">che</wf>
+<wf id="d004.s023.t011" lemma="somministrare" pos="V">somministra</wf>
+<wf id="d004.s023.t012" pos="X">il</wf>
+<wf id="d004.s023.t013" lemma="medicinale" pos="N">medicinale</wf>
+<wf id="d004.s023.t014" pos="X">o</wf>
+<wf id="d004.s023.t015" lemma="entrare" pos="V">entra</wf>
+<wf id="d004.s023.t016" pos="X">in</wf>
+<wf id="d004.s023.t017" lemma="contatto" pos="N">contatto</wf>
+<wf id="d004.s023.t018" pos="X">con</wf>
+<wf id="d004.s023.t019" pos="X">l</wf>
+<wf id="d004.s023.t020" lemma="animale" pos="N">animale</wf>
+<wf id="d004.s023.t021" pos="X">?</wf>
+</sentence>
+<sentence id="d004.s024">
+<wf id="d004.s024.t001" lemma="cerenia" pos="N">Cerenia</wf>
+<wf id="d004.s024.t002" pos="X">non</wf>
+<wf id="d004.s024.t003" lemma="presentare" pos="V">presenta</wf>
+<wf id="d004.s024.t004" lemma="particolare" pos="J">particolari</wf>
+<wf id="d004.s024.t005" lemma="rischio" pos="N">rischi</wf>
+<wf id="d004.s024.t006" pos="X">per</wf>
+<wf id="d004.s024.t007" lemma="l" pos="X">l</wf>
+<wf id="d004.s024.t008" lemma="uomo" pos="N">uomo</wf>
+<wf id="d004.s024.t009" pos="X">.</wf>
+</sentence>
+</text>
+</corpus>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<corpus lang="en">
+<text id="d001">
+<sentence id="d001.s001">
+  <wf id="d001.s001.t001" lemma="the" pos="X">The</wf>
+  <wf id="d001.s001.t002" lemma="european" pos="N">European</wf>
+  <wf id="d001.s001.t003" lemma="medicine" pos="N">Medicines</wf>
+  <wf id="d001.s001.t004" lemma="agency" pos="N">Agency</wf>
+  <wf id="d001.s001.t005" lemma="(" pos="X">(</wf>
+  <wf id="d001.s001.t006" lemma="ema" pos="N">EMA</wf>
+  <wf id="d001.s001.t007" lemma=")" pos="X">)</wf>
+  <wf id="d001.s001.t008" lemma="be" pos="V">is</wf>
+  <wf id="d001.s001.t009" lemma="a" pos="X">a</wf>
+  <wf id="d001.s001.t010" lemma="european" pos="A">European</wf>
+  <wf id="d001.s001.t011" lemma="union" pos="N">Union</wf>
+  <wf id="d001.s001.t012" lemma="agency" pos="N">agency</wf>
+  <wf id="d001.s001.t013" lemma="for" pos="X">for</wf>
+  <wf id="d001.s001.t014" lemma="the" pos="X">the</wf>
+  <wf id="d001.s001.t015" lemma="evaluation" pos="N">evaluation</wf>
+  <wf id="d001.s001.t016" lemma="of" pos="X">of</wf>
+  <wf id="d001.s001.t017" lemma="medicinal" pos="A">medicinal</wf>
+  <wf id="d001.s001.t018" lemma="product" pos="N">products</wf>
+  <wf id="d001.s001.t019" lemma="." pos="X">.</wf>
+</sentence>
+</text>
+<text id="d002">
+<sentence id="d002.s001">
+  <wf id="d002.s001.t001" lemma="the" pos="X">The</wf>
+  <wf id="d002.s001.t002" lemma="minute" pos="N">minutes</wf>
+  <wf id="d002.s001.t003" lemma="of" pos="X">of</wf>
+  <wf id="d002.s001.t004" lemma="yesterday" pos="N">yesterday</wf>
+  <wf id="d002.s001.t005" lemma="be" pos="V">'s</wf>
+  <wf id="d002.s001.t006" lemma="sitting" pos="N">sitting</wf>
+  <wf id="d002.s001.t007" lemma="have" pos="V">have</wf>
+  <wf id="d002.s001.t008" lemma="be" pos="V">been</wf>
+  <wf id="d002.s001.t009" lemma="distribute" pos="V">distributed</wf>
+  <wf id="d002.s001.t010" lemma="." pos="X">.</wf>
+</sentence>
+<sentence id="d002.s002">
+  <wf id="d002.s002.t001" lemma="be" pos="V">Are</wf>
+  <wf id="d002.s002.t002" lemma="there" pos="R">there</wf>
+  <wf id="d002.s002.t003" lemma="any" pos="A">any</wf>
+  <wf id="d002.s002.t004" lemma="comment" pos="N">comments</wf>
+  <wf id="d002.s002.t005" lemma="?" pos="X">?</wf>
+</sentence>
+<sentence id="d002.s003">
+  <wf id="d002.s003.t001" lemma="it" pos="X">It</wf>
+  <wf id="d002.s003.t002" lemma="be" pos="V">is</wf>
+  <wf id="d002.s003.t003" lemma="about" pos="X">about</wf>
+  <wf id="d002.s003.t004" lemma="the" pos="X">the</wf>
+  <wf id="d002.s003.t005" lemma="minutes" pos="N">Minutes</wf>
+  <wf id="d002.s003.t006" lemma="from" pos="X">from</wf>
+  <wf id="d002.s003.t007" lemma="the" pos="X">the</wf>
+  <wf id="d002.s003.t008" lemma="day" pos="N">day</wf>
+  <wf id="d002.s003.t009" lemma="before" pos="X">before</wf>
+  <wf id="d002.s003.t010" lemma="yesterday" pos="N">yesterday</wf>
+  <wf id="d002.s003.t011" lemma="." pos="X">.</wf>
+</sentence>
+</text>
+</corpus>

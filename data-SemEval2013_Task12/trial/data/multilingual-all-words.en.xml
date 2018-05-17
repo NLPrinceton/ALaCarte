@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE corpus SYSTEM "multilingual-all-words.dtd">
+<corpus lang="en">
+<text id="d001" source="wsj_2465">
+  <sentence id="d001.s001">
+    <wf lemma="we" pos="PP">We</wf>
+    <wf lemma="do" pos="VVP">do</wf>
+    <wf lemma="n't" pos="RB">n't</wf>
+    <wf lemma="know" pos="VV">know</wf>
+    <wf lemma="who" pos="WP">who</wf>
+    <wf lemma="be" pos="VBZ">is</wf>
+    <wf lemma="win" pos="VVG">winning</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s001.t001" lemma="drug_war" pos="N">drug_war</instance>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s001.t002" lemma="latin_america" pos="N">Latin_America</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="but" pos="CC">but</wf>
+    <wf lemma="we" pos="PP">we</wf>
+    <wf lemma="know" pos="VVP">know</wf>
+    <wf lemma="who" pos="WP">who</wf>
+    <wf lemma="be" pos="VBZ">'s</wf>
+    <wf lemma="lose" pos="VVG">losing</wf>
+    <wf lemma="it" pos="PP">it</wf>
+    <wf lemma="--" pos=":">--</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s001.t003" lemma="press" pos="NN">press</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s002">
+    <wf lemma="over" pos="IN">Over</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="past" pos="JJ">past</wf>
+    <wf lemma="six" pos="CD">six</wf>
+    <instance id="d001.s002.t001" lemma="month" pos="NNS">months</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="six" pos="CD">six</wf>
+    <instance id="d001.s002.t002" lemma="journalist" pos="NNS">journalists</instance>
+    <wf lemma="have" pos="VHP">have</wf>
+    <wf lemma="be" pos="VBN">been</wf>
+    <wf lemma="kill" pos="VVN">killed</wf>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="@card@" pos="CD">10</wf>
+    <wf lemma="kidnap" pos="VVN">kidnapped</wf>
+    <wf lemma="by" pos="IN">by</wf>
+    <instance id="d001.s002.t003" lemma="drug_trafficker" pos="N">drug_traffickers</instance>
+    <wf lemma="or" pos="CC">or</wf>
+    <wf lemma="leftist" pos="JJ">leftist</wf>
+    <instance id="d001.s002.t004" lemma="guerrilla" pos="NNS">guerrillas</instance>
+    <wf lemma="--" pos=":">--</wf>
+    <wf lemma="who" pos="WP">who</wf>
+    <wf lemma="often" pos="RB">often</wf>
+    <wf lemma="be" pos="VBP">are</wf>
+    <wf lemma="one" pos="CD">one</wf>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="same" pos="JJ">same</wf>
+    <wf lemma="--" pos=":">--</wf>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s002.t005" lemma="Colombia" pos="NP">Colombia</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s003">
+    <wf lemma="over" pos="IN">Over</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="past" pos="JJ">past</wf>
+    <wf lemma="@card@" pos="CD">12</wf>
+    <instance id="d001.s003.t001" lemma="year" pos="NNS">years</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="at" pos="IN">at</wf>
+    <wf lemma="least" pos="JJS">least</wf>
+    <wf lemma="@card@" pos="CD">40</wf>
+    <instance id="d001.s003.t002" lemma="journalist" pos="NNS">journalists</instance>
+    <wf lemma="have" pos="VHP">have</wf>
+    <wf lemma="die" pos="VVN">died</wf>
+    <wf lemma="there" pos="RB">there</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s004">
+    <wf lemma="the" pos="DT">The</wf>
+    <instance id="d001.s004.t001" lemma="attack" pos="NNS">attacks</instance>
+    <wf lemma="have" pos="VHP">have</wf>
+    <wf lemma="intensify" pos="VVN">intensified</wf>
+    <wf lemma="since" pos="IN">since</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="Colombian" pos="JJ">Colombian</wf>
+    <instance id="d001.s004.t002" lemma="government" pos="NN">government</instance>
+    <wf lemma="begin" pos="VVD">began</wf>
+    <wf lemma="crack" pos="VVG">cracking</wf>
+    <wf lemma="down" pos="RP">down</wf>
+    <wf lemma="on" pos="IN">on</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s004.t003" lemma="trafficker" pos="NNS">traffickers</instance>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s004.t004" lemma="August" pos="NP">August</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="try" pos="VVG">trying</wf>
+    <wf lemma="to" pos="TO">to</wf>
+    <wf lemma="prevent" pos="VV">prevent</wf>
+    <wf lemma="their" pos="PP$">their</wf>
+    <instance id="d001.s004.t005" lemma="takeover" pos="NN">takeover</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s004.t006" lemma="country" pos="NN">country</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s005">
+    <wf lemma="the" pos="DT">The</wf>
+    <instance id="d001.s005.t001" lemma="slaughter" pos="NN">slaughter</instance>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s005.t002" lemma="Colombia" pos="NP">Colombia</instance>
+    <wf lemma="be" pos="VBD">was</wf>
+    <wf lemma="very" pos="RB">very</wf>
+    <wf lemma="much" pos="JJ">much</wf>
+    <wf lemma="on" pos="IN">on</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s005.t003" lemma="mind" pos="NNS">minds</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <wf lemma="@card@" pos="CD">450</wf>
+    <instance id="d001.s005.t004" lemma="editor" pos="NNS">editors</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <instance id="d001.s005.t005" lemma="publisher" pos="NNS">publishers</instance>
+    <wf lemma="from" pos="IN">from</wf>
+    <instance id="d001.s005.t006" lemma="latin_america" pos="N">Latin_America</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s005.t007" lemma="united_states" pos="N">United_States</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s005.t008" lemma="Caribbean" pos="NP">Caribbean</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <instance id="d001.s005.t009" lemma="Canada" pos="NP">Canada</instance>
+    <wf lemma="attend" pos="VVG">attending</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="45th" pos="JJ">45th</wf>
+    <wf lemma="general_assembly" pos="N">general_assembly</wf>
+    <wf lemma="of" pos="IN">of</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s005.t011" lemma="inter_american_press_association" pos="N">Inter-American_Press_Association</instance>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s005.t012" lemma="Monterrey" pos="NP">Monterrey</instance>
+    <wf lemma="," pos=",">,</wf>
+    <instance id="d001.s005.t013" lemma="Mexico" pos="NP">Mexico</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="this" pos="DT">this</wf>
+    <instance id="d001.s005.t014" lemma="week" pos="NN">week</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s006">
+    <wf lemma="on" pos="IN">On</wf>
+    <instance id="d001.s006.t001" lemma="Tuesday" pos="NP">Tuesday</instance>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s006.t002" lemma="conference" pos="NN">conference</instance>
+    <wf lemma="get" pos="VVD">got</wf>
+    <wf lemma="word" pos="NN">word</wf>
+    <wf lemma="of" pos="IN">of</wf>
+    <wf lemma="another" pos="DT">another</wf>
+    <instance id="d001.s006.t004" lemma="atrocity" pos="NN">atrocity</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s006.t005" lemma="assassination" pos="NN">assassination</instance>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s006.t006" lemma="Medellin" pos="NP">Medellin</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <wf lemma="two" pos="CD">two</wf>
+    <instance id="d001.s006.t007" lemma="employee" pos="NNS">employees</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <instance id="d001.s006.t008" lemma="el_espectador" pos="N">El_Espectador</instance>
+    <wf lemma="," pos=",">,</wf>
+    <instance id="d001.s006.t009" lemma="Colombia" pos="NP">Colombia</instance>
+    <wf lemma="'s" pos="POS">'s</wf>
+    <wf lemma="second-largest" pos="JJS">second-largest</wf>
+    <instance id="d001.s006.t010" lemma="newspaper" pos="NN">newspaper</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s007">
+    <wf lemma="the" pos="DT">The</wf>
+    <instance id="d001.s007.t001" lemma="paper" pos="NN">paper</instance>
+    <wf lemma="'s" pos="POS">'s</wf>
+    <wf lemma="local" pos="JJ">local</wf>
+    <instance id="d001.s007.t002" lemma="administrator" pos="NN">administrator</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="Maria" pos="NP">Maria</wf>
+    <wf lemma="Luz" pos="NP">Luz</wf>
+    <wf lemma="Lopez" pos="NP">Lopez</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="be" pos="VBD">was</wf>
+    <wf lemma="shoot" pos="VVN">shot</wf>
+    <wf lemma="dead" pos="JJ">dead</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="her" pos="PP$">her</wf>
+    <instance id="d001.s007.t004" lemma="mother" pos="NN">mother</instance>
+    <wf lemma="wound" pos="VVN">wounded</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="while" pos="IN">while</wf>
+    <wf lemma="her" pos="PP$">her</wf>
+    <instance id="d001.s007.t005" lemma="car" pos="NN">car</instance>
+    <wf lemma="be" pos="VBD">was</wf>
+    <wf lemma="stop" pos="VVN">stopped</wf>
+    <wf lemma="for" pos="IN">for</wf>
+    <wf lemma="a" pos="DT">a</wf>
+    <instance id="d001.s007.t006" lemma="red_light" pos="N">red_light</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s008">
+    <wf lemma="an" pos="DT">An</wf>
+    <instance id="d001.s008.t001" lemma="hour" pos="NN">hour</instance>
+    <wf lemma="later" pos="RBR">later</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s008.t002" lemma="paper" pos="NN">paper</instance>
+    <wf lemma="'s" pos="POS">'s</wf>
+    <instance id="d001.s008.t003" lemma="circulation" pos="NN">circulation</instance>
+    <instance id="d001.s008.t004" lemma="manager" pos="NN">manager</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="Miguel" pos="NP">Miguel</wf>
+    <wf lemma="Soler" pos="NP">Soler</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="be" pos="VBD">was</wf>
+    <wf lemma="shoot" pos="VVN">shot</wf>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="kill" pos="VVN">killed</wf>
+    <wf lemma="near" pos="IN">near</wf>
+    <wf lemma="his" pos="PP$">his</wf>
+    <instance id="d001.s008.t005" lemma="home" pos="NN">home</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s009">
+    <wf lemma="the" pos="DT">The</wf>
+    <instance id="d001.s009.t001" lemma="drug_lord" pos="N">drug_lords</instance>
+    <wf lemma="who" pos="WP">who</wf>
+    <wf lemma="claim" pos="VVD">claimed</wf>
+    <instance id="d001.s009.t002" lemma="responsibility" pos="NN">responsibility</instance>
+    <wf lemma="say" pos="VVD">said</wf>
+    <wf lemma="they" pos="PP">they</wf>
+    <wf lemma="would" pos="MD">would</wf>
+    <wf lemma="blow" pos="VV">blow</wf>
+    <wf lemma="up" pos="RP">up</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s009.t003" lemma="Bogota" pos="NP">Bogota</instance>
+    <instance id="d001.s009.t004" lemma="newspaper" pos="NN">newspaper</instance>
+    <wf lemma="'s" pos="POS">'s</wf>
+    <instance id="d001.s009.t005" lemma="office" pos="NNS">offices</instance>
+    <wf lemma="if" pos="IN">if</wf>
+    <wf lemma="it" pos="PP">it</wf>
+    <wf lemma="continue" pos="VVD">continued</wf>
+    <wf lemma="to" pos="TO">to</wf>
+    <wf lemma="distribute" pos="VV">distribute</wf>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s009.t006" lemma="Medellin" pos="NP">Medellin</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s010">
+    <wf lemma="they" pos="PP">They</wf>
+    <wf lemma="bomb" pos="VVD">bombed</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s010.t001" lemma="Bogota" pos="NP">Bogota</instance>
+    <instance id="d001.s010.t002" lemma="office" pos="NNS">offices</instance>
+    <wf lemma="last" pos="JJ">last</wf>
+    <instance id="d001.s010.t003" lemma="month" pos="NN">month</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="destroy" pos="VVG">destroying</wf>
+    <wf lemma="its" pos="PP$">its</wf>
+    <instance id="d001.s010.t004" lemma="computer" pos="NN">computer</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="cause" pos="VVG">causing</wf>
+    <wf lemma="$" pos="$">$</wf>
+    <wf lemma="@card@" pos="CD">2.5</wf>
+    <wf lemma="million" pos="CD">million</wf>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s010.t005" lemma="damage" pos="NN">damage</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s011">
+    <instance id="d001.s011.t001" lemma="el_espectador" pos="N">El_Espectador</instance>
+    <wf lemma="have" pos="VHZ">has</wf>
+    <wf lemma="be" pos="VBN">been</wf>
+    <wf lemma="a" pos="DT">a</wf>
+    <wf lemma="special" pos="JJ">special</wf>
+    <instance id="d001.s011.t002" lemma="target" pos="NN">target</instance>
+    <wf lemma="because" pos="IN">because</wf>
+    <wf lemma="of" pos="IN">of</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="extraordinary" pos="JJ">extraordinary</wf>
+    <instance id="d001.s011.t003" lemma="courage" pos="NN">courage</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <wf lemma="its" pos="PP$">its</wf>
+    <instance id="d001.s011.t004" lemma="publisher" pos="NN">publisher</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="his" pos="PP$">his</wf>
+    <instance id="d001.s011.t005" lemma="staff" pos="NN">staff</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s012">
+    <wf lemma="at" pos="IN">At</wf>
+    <instance id="d001.s012.t001" lemma="Monterrey" pos="NP">Monterrey</instance>
+    <wf lemma="," pos=",">,</wf>
+    <instance id="d001.s012.t002" lemma="publisher" pos="NN">publisher</instance>
+    <wf lemma="Luis" pos="NP">Luis</wf>
+    <wf lemma="Gabriel" pos="NP">Gabriel</wf>
+    <wf lemma="Cano" pos="NP">Cano</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="although" pos="IN">although</wf>
+    <wf lemma="shake" pos="VVN">shaken</wf>
+    <wf lemma="by" pos="IN">by</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s012.t004" lemma="murder" pos="NNS">murders</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="issue" pos="VVD">issued</wf>
+    <wf lemma="a" pos="DT">a</wf>
+    <instance id="d001.s012.t005" lemma="statement" pos="NN">statement</instance>
+    <wf lemma="say" pos="VVG">saying</wf>
+    <wf lemma=":" pos=":">:</wf>
+    <wf lemma="``" pos="``">``</wf>
+    <wf lemma="we" pos="PP">We</wf>
+    <wf lemma="will" pos="MD">will</wf>
+    <wf lemma="not" pos="RB">not</wf>
+    <wf lemma="cease" pos="VV">cease</wf>
+    <wf lemma="our" pos="PP$">our</wf>
+    <instance id="d001.s012.t006" lemma="fight" pos="NN">fight</instance>
+    <wf lemma="against" pos="IN">against</wf>
+    <instance id="d001.s012.t007" lemma="drug_trafficking" pos="N">drug_trafficking</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s013">
+    <wf lemma="they" pos="PP">They</wf>
+    <wf lemma="want" pos="VVP">want</wf>
+    <wf lemma="to" pos="TO">to</wf>
+    <wf lemma="terrify" pos="VV">terrify</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s013.t001" lemma="press" pos="NN">press</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="in" pos="IN">in</wf>
+    <wf lemma="particular" pos="JJ">particular</wf>
+    <instance id="d001.s013.t002" lemma="el_espectador" pos="N">El_Espectador</instance>
+    <wf lemma="because" pos="IN">because</wf>
+    <wf lemma="it" pos="PP">it</wf>
+    <wf lemma="have" pos="VHZ">has</wf>
+    <wf lemma="always" pos="RB">always</wf>
+    <wf lemma="be" pos="VBN">been</wf>
+    <wf lemma="a" pos="DT">a</wf>
+    <instance id="d001.s013.t003" lemma="torchbearer" pos="NN">torchbearer</instance>
+    <wf lemma="in" pos="IN">in</wf>
+    <wf lemma="this" pos="DT">this</wf>
+    <instance id="d001.s013.t004" lemma="war" pos="NN">war</instance>
+    <wf lemma="." pos="SENT">.</wf>
+    <wf lemma="''" pos="''">''</wf>
+  </sentence>
+  <sentence id="d001.s014">
+    <wf lemma="this" pos="DT">This</wf>
+    <wf lemma="come" pos="VVZ">comes</wf>
+    <wf lemma="from" pos="IN">from</wf>
+    <wf lemma="a" pos="DT">a</wf>
+    <instance id="d001.s014.t001" lemma="man" pos="NN">man</instance>
+    <wf lemma="whose" pos="WP$">whose</wf>
+    <instance id="d001.s014.t002" lemma="brother" pos="NN">brother</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="Guillermo" pos="NP">Guillermo</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="be" pos="VBD">was</wf>
+    <wf lemma="murder" pos="VVN">murdered</wf>
+    <wf lemma="in" pos="IN">in</wf>
+    <wf lemma="@card@" pos="CD">1986</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s015">
+    <wf lemma="the" pos="DT">The</wf>
+    <instance id="d001.s015.t001" lemma="publisher" pos="NNS">publishers</instance>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s015.t002" lemma="Monterrey" pos="NP">Monterrey</instance>
+    <wf lemma="command" pos="VVP">command</wf>
+    <wf lemma="no" pos="DT">no</wf>
+    <instance id="d001.s015.t003" lemma="battalion" pos="NNS">battalions</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="but" pos="CC">but</wf>
+    <wf lemma="they" pos="PP">they</wf>
+    <wf lemma="agree" pos="VVD">agreed</wf>
+    <wf lemma="to" pos="TO">to</wf>
+    <wf lemma="express" pos="VV">express</wf>
+    <wf lemma="their" pos="PP$">their</wf>
+    <instance id="d001.s015.t004" lemma="outrage" pos="NN">outrage</instance>
+    <wf lemma="with" pos="IN">with</wf>
+    <instance id="d001.s015.t005" lemma="editorial" pos="NNS">editorials</instance>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s015.t006" lemma="today" pos="NN">today</instance>
+    <wf lemma="'s" pos="POS">'s</wf>
+    <instance id="d001.s015.t007" lemma="edition" pos="NNS">editions</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s016">
+    <wf lemma="many" pos="DT">Many</wf>
+    <wf lemma="will" pos="MD">will</wf>
+    <wf lemma="use" pos="VV">use</wf>
+    <wf lemma="a" pos="DT">a</wf>
+    <wf lemma="common" pos="JJ">common</wf>
+    <instance id="d001.s016.t001" lemma="editorial" pos="NN">editorial</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s017">
+    <wf lemma="a" pos="DT">A</wf>
+    <wf lemma="final" pos="JJ">final</wf>
+    <instance id="d001.s017.t001" lemma="statement" pos="NN">statement</instance>
+    <instance id="d001.s017.t002" lemma="yesterday" pos="NN">yesterday</instance>
+    <wf lemma="say" pos="VVD">said</wf>
+    <wf lemma=":" pos=":">:</wf>
+    <wf lemma="``" pos="``">``</wf>
+    <wf lemma="while" pos="IN">While</wf>
+    <wf lemma="some" pos="DT">some</wf>
+    <instance id="d001.s017.t003" lemma="advance" pos="NNS">advances</instance>
+    <wf lemma="be" pos="VBP">are</wf>
+    <wf lemma="be" pos="VBG">being</wf>
+    <wf lemma="make" pos="VVN">made</wf>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s017.t004" lemma="nation" pos="NNS">nations</instance>
+    <wf lemma="throughout" pos="IN">throughout</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s017.t005" lemma="hemisphere" pos="NN">hemisphere</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s017.t006" lemma="state" pos="NN">state</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <instance id="d001.s017.t007" lemma="press" pos="NN">press</instance>
+    <instance id="d001.s017.t008" lemma="freedom" pos="NN">freedom</instance>
+    <wf lemma="in" pos="IN">in</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s017.t009" lemma="America" pos="NPS">Americas</instance>
+    <wf lemma="still" pos="RB">still</wf>
+    <wf lemma="must" pos="MD">must</wf>
+    <wf lemma="be" pos="VB">be</wf>
+    <wf lemma="regard" pos="VVN">regarded</wf>
+    <wf lemma="as" pos="IN">as</wf>
+    <wf lemma="grim" pos="JJ">grim</wf>
+    <wf lemma="as" pos="RB">as</wf>
+    <wf lemma="long" pos="RB">long</wf>
+    <wf lemma="as" pos="IN">as</wf>
+    <instance id="d001.s017.t010" lemma="journalist" pos="NNS">journalists</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="their" pos="PP$">their</wf>
+    <instance id="d001.s017.t011" lemma="family" pos="NNS">families</instance>
+    <wf lemma="be" pos="VBP">are</wf>
+    <wf lemma="subject" pos="JJ">subject</wf>
+    <wf lemma="to" pos="TO">to</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="crude" pos="JJS">crudest</wf>
+    <instance id="d001.s017.t012" lemma="form" pos="NN">form</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <instance id="d001.s017.t013" lemma="censorship" pos="NN">censorship</instance>
+    <wf lemma=":" pos=":">:</wf>
+    <instance id="d001.s017.t014" lemma="death" pos="NN">death</instance>
+    <wf lemma="by" pos="IN">by</wf>
+    <instance id="d001.s017.t015" lemma="assassination" pos="NN">assassination</instance>
+    <wf lemma="." pos="SENT">.</wf>
+    <wf lemma="''" pos="''">''</wf>
+  </sentence>
+  <sentence id="d001.s018">
+    <wf lemma="the" pos="DT">The</wf>
+    <instance id="d001.s018.t001" lemma="report" pos="NN">report</instance>
+    <wf lemma="charge" pos="VVD">charged</wf>
+    <wf lemma="that" pos="IN/that">that</wf>
+    <instance id="d001.s018.t002" lemma="Panama" pos="NP">Panama</instance>
+    <wf lemma="'s" pos="POS">'s</wf>
+    <instance id="d001.s018.t003" lemma="manuel_noriega" pos="N">Manuel_Noriega</instance>
+    <wf lemma="be" pos="VBZ">is</wf>
+    <wf lemma="not" pos="RB">not</wf>
+    <wf lemma="only" pos="RB">only</wf>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s018.t004" lemma="league" pos="NN">league</instance>
+    <wf lemma="with" pos="IN">with</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s018.t005" lemma="drug_trafficker" pos="N">drug_traffickers</instance>
+    <wf lemma="but" pos="CC">but</wf>
+    <wf lemma="also" pos="RB">also</wf>
+    <wf lemma="be" pos="VBZ">is</wf>
+    <wf lemma="bully" pos="VVG">bullying</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s018.t006" lemma="press" pos="NN">press</instance>
+    <wf lemma="as" pos="IN">as</wf>
+    <wf lemma="never" pos="RB">never</wf>
+    <wf lemma="before" pos="RB">before</wf>
+    <wf lemma="." pos="SENT">.</wf>
+    <wf lemma="``" pos="``">``</wf>
+    <wf lemma="Noriega" pos="NP">Noriega</wf>
+    <wf lemma="have" pos="VHZ">has</wf>
+    <wf lemma="close" pos="VVN">closed</wf>
+    <wf lemma="every" pos="DT">every</wf>
+    <wf lemma="independent" pos="JJ">independent</wf>
+    <instance id="d001.s018.t007" lemma="newspaper" pos="NN">newspaper</instance>
+    <wf lemma="," pos=",">,</wf>
+    <instance id="d001.s018.t008" lemma="radio" pos="NN">radio</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <instance id="d001.s018.t009" lemma="television_station" pos="N">television_station</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="arrest" pos="VVN">arrested</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="torture" pos="VVN">tortured</wf>
+    <wf lemma="or" pos="CC">or</wf>
+    <wf lemma="force" pos="VVN">forced</wf>
+    <wf lemma="into" pos="IN">into</wf>
+    <instance id="d001.s018.t010" lemma="exile" pos="NN">exile</instance>
+    <wf lemma="a" pos="DT">a</wf>
+    <wf lemma="long" pos="JJ">long</wf>
+    <instance id="d001.s018.t011" lemma="list" pos="NN">list</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <instance id="d001.s018.t012" lemma="reporter" pos="NNS">reporters</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="''" pos="''">''</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s018.t013" lemma="statement" pos="NN">statement</instance>
+    <wf lemma="declare" pos="VVD">declared</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s019">
+    <wf lemma="it" pos="PP">It</wf>
+    <wf lemma="add" pos="VVD">added</wf>
+    <wf lemma=":" pos=":">:</wf>
+    <wf lemma="``" pos="``">``</wf>
+    <wf lemma="in" pos="IN">In</wf>
+    <instance id="d001.s019.t001" lemma="Cuba" pos="NP">Cuba</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="public" pos="JJ">public</wf>
+    <instance id="d001.s019.t002" lemma="enemy" pos="NN">enemy</instance>
+    <wf lemma="No." pos="NN">No.</wf>
+    <wf lemma="1" pos="CD">1</wf>
+    <wf lemma="of" pos="IN">of</wf>
+    <instance id="d001.s019.t004" lemma="press" pos="NN">press</instance>
+    <instance id="d001.s019.t005" lemma="freedom" pos="NNS">freedoms</instance>
+    <wf lemma="in" pos="IN">in</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s019.t006" lemma="hemisphere" pos="NN">hemisphere</instance>
+    <wf lemma="," pos=",">,</wf>
+    <instance id="d001.s019.t007" lemma="repression" pos="NN">repression</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <instance id="d001.s019.t008" lemma="journalist" pos="NNS">journalists</instance>
+    <wf lemma="both" pos="CC">both</wf>
+    <wf lemma="Cuban" pos="JJ">Cuban</wf>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="foreign" pos="JJ">foreign</wf>
+    <wf lemma="be" pos="VBZ">is</wf>
+    <wf lemma="bad" pos="JJR">worse</wf>
+    <wf lemma="than" pos="IN">than</wf>
+    <wf lemma="ever" pos="RB">ever</wf>
+    <wf lemma="." pos="SENT">.</wf>
+    <wf lemma="''" pos="''">''</wf>
+  </sentence>
+  <sentence id="d001.s020">
+    <wf lemma="and" pos="CC">And</wf>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s020.t001" lemma="Nicaragua" pos="NP">Nicaragua</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="promise" pos="VVZ">promises</wf>
+    <wf lemma="of" pos="IN">of</wf>
+    <instance id="d001.s020.t002" lemma="press" pos="NN">press</instance>
+    <instance id="d001.s020.t003" lemma="freedom" pos="NN">freedom</instance>
+    <wf lemma="by" pos="IN">by</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="Sandinistas" pos="NPS">Sandinistas</wf>
+    <wf lemma="``" pos="``">``</wf>
+    <wf lemma="have" pos="VHP">have</wf>
+    <wf lemma="not" pos="RB">not</wf>
+    <wf lemma="materialize" pos="VVN">materialized</wf>
+    <wf lemma="." pos="SENT">.</wf>
+    <wf lemma="''" pos="''">''</wf>
+  </sentence>
+  <sentence id="d001.s021">
+    <wf lemma="as" pos="IN">As</wf>
+    <wf lemma="it" pos="PP">it</wf>
+    <wf lemma="happen" pos="VVZ">happens</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="four" pos="CD">four</wf>
+    <instance id="d001.s021.t001" lemma="country" pos="NNS">countries</instance>
+    <wf lemma="cite" pos="VVD">cited</wf>
+    <wf lemma="," pos=",">,</wf>
+    <instance id="d001.s021.t002" lemma="Colombia" pos="NP">Colombia</instance>
+    <wf lemma="," pos=",">,</wf>
+    <instance id="d001.s021.t003" lemma="Cuba" pos="NP">Cuba</instance>
+    <wf lemma="," pos=",">,</wf>
+    <instance id="d001.s021.t004" lemma="Panama" pos="NP">Panama</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <instance id="d001.s021.t005" lemma="Nicaragua" pos="NP">Nicaragua</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="be" pos="VBP">are</wf>
+    <wf lemma="not" pos="RB">not</wf>
+    <wf lemma="only" pos="RB">only</wf>
+    <wf lemma="where" pos="WRB">where</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s021.t006" lemma="press" pos="NN">press</instance>
+    <wf lemma="be" pos="VBZ">is</wf>
+    <wf lemma="under" pos="IN">under</wf>
+    <wf lemma="great" pos="JJS">greatest</wf>
+    <instance id="d001.s021.t007" lemma="attack" pos="NN">attack</instance>
+    <wf lemma="but" pos="CC">but</wf>
+    <wf lemma="also" pos="RB">also</wf>
+    <wf lemma="be" pos="VBP">are</wf>
+    <wf lemma="link" pos="VVN">linked</wf>
+    <wf lemma="by" pos="IN">by</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s021.t008" lemma="drug" pos="NN">drug</instance>
+    <instance id="d001.s021.t009" lemma="trade" pos="NN">trade</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="left-wing" pos="JJ">left-wing</wf>
+    <instance id="d001.s021.t010" lemma="politics" pos="NNS">politics</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s022">
+    <wf lemma="Noriega" pos="NP">Noriega</wf>
+    <wf lemma="be" pos="VBZ">is</wf>
+    <wf lemma="close" pos="JJ">close</wf>
+    <wf lemma="to" pos="TO">to</wf>
+    <instance id="d001.s022.t001" lemma="Castro" pos="NP">Castro</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="may" pos="MD">may</wf>
+    <wf lemma="once" pos="RB">once</wf>
+    <wf lemma="have" pos="VH">have</wf>
+    <wf lemma="be" pos="VBN">been</wf>
+    <wf lemma="his" pos="PP$">his</wf>
+    <instance id="d001.s022.t002" lemma="agent" pos="NN">agent</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s023">
+    <wf lemma="Sandinistas" pos="NP">Sandinistas</wf>
+    <instance id="d001.s023.t001" lemma="thomas_borge" pos="N">Thomas_Borge</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s023.t002" lemma="Ortega" pos="NP">Ortega</instance>
+    <instance id="d001.s023.t003" lemma="brother" pos="NNS">brothers</instance>
+    <wf lemma="be" pos="VBP">are</wf>
+    <instance id="d001.s023.t004" lemma="Castro" pos="NP">Castro</instance>
+    <instance id="d001.s023.t005" lemma="protege" pos="NNS">proteges</instance>
+    <wf lemma=";" pos=":">;</wf>
+    <wf lemma="he" pos="PP">he</wf>
+    <wf lemma="back" pos="VVD">backed</wf>
+    <wf lemma="their" pos="PP$">their</wf>
+    <instance id="d001.s023.t006" lemma="takeover" pos="NN">takeover</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <instance id="d001.s023.t007" lemma="Nicaragua" pos="NP">Nicaragua</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s024">
+    <wf lemma="in" pos="IN">In</wf>
+    <instance id="d001.s024.t001" lemma="Colombia" pos="NP">Colombia</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="drug-financed" pos="JJ">drug-financed</wf>
+    <instance id="d001.s024.t002" lemma="guerrilla" pos="NNS">guerrillas</instance>
+    <wf lemma="try" pos="VVG">trying</wf>
+    <wf lemma="to" pos="TO">to</wf>
+    <wf lemma="seize" pos="VV">seize</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s024.t003" lemma="country" pos="NN">country</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="destroy" pos="VV">destroy</wf>
+    <instance id="d001.s024.t004" lemma="democracy" pos="NN">democracy</instance>
+    <wf lemma="include" pos="VVP">include</wf>
+    <wf lemma="M-19" pos="NP">M-19</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="which" pos="WDT">which</wf>
+    <instance id="d001.s024.t005" lemma="Castro" pos="NP">Castro</instance>
+    <wf lemma="have" pos="VHZ">has</wf>
+    <wf lemma="clearly" pos="RB">clearly</wf>
+    <wf lemma="back" pos="VVN">backed</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s025">
+    <wf lemma="Robert" pos="NP">Robert</wf>
+    <wf lemma="Merkel" pos="NP">Merkel</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="a" pos="DT">a</wf>
+    <wf lemma="former" pos="JJ">former</wf>
+    <instance id="d001.s025.t002" lemma="U.S." pos="NP">U.S.</instance>
+    <instance id="d001.s025.t003" lemma="attorney" pos="NN">attorney</instance>
+    <wf lemma="handle" pos="VVG">handling</wf>
+    <instance id="d001.s025.t004" lemma="drug" pos="NN">drug</instance>
+    <instance id="d001.s025.t005" lemma="indictment" pos="NNS">indictments</instance>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s025.t006" lemma="Florida" pos="NP">Florida</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="do" pos="VVZ">does</wf>
+    <wf lemma="n't" pos="RB">n't</wf>
+    <wf lemma="think" pos="VV">think</wf>
+    <wf lemma="for" pos="IN">for</wf>
+    <wf lemma="a" pos="DT">a</wf>
+    <instance id="d001.s025.t007" lemma="minute" pos="NN">minute</instance>
+    <wf lemma="that" pos="IN/that">that</wf>
+    <instance id="d001.s025.t008" lemma="Castro" pos="NP">Castro</instance>
+    <wf lemma="'s" pos="POS">'s</wf>
+    <wf lemma="much" pos="JJ">much</wf>
+    <wf lemma="publicized" pos="JJ">publicized</wf>
+    <instance id="d001.s025.t009" lemma="trial" pos="NNS">trials</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <wf lemma="high" pos="JJ">high</wf>
+    <instance id="d001.s025.t010" lemma="official" pos="NNS">officials</instance>
+    <wf lemma="engage" pos="VVN">engaged</wf>
+    <wf lemma="in" pos="IN">in</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s025.t011" lemma="drug" pos="NN">drug</instance>
+    <instance id="d001.s025.t012" lemma="trade" pos="NN">trade</instance>
+    <wf lemma="mean" pos="VVP">mean</wf>
+    <wf lemma="he" pos="PP">he</wf>
+    <wf lemma="have" pos="VHZ">has</wf>
+    <wf lemma="break" pos="VVN">broken</wf>
+    <wf lemma="off" pos="RP">off</wf>
+    <wf lemma="with" pos="IN">with</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s025.t013" lemma="Medellin" pos="NP">Medellin</instance>
+    <instance id="d001.s025.t014" lemma="drug_cartel" pos="N">drug_cartel</instance>
+    <wf lemma="." pos="SENT">.</wf>
+    <wf lemma="``" pos="``">``</wf>
+    <wf lemma="if" pos="IN">If</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s025.t015" lemma="cartel" pos="NN">cartel</instance>
+    <wf lemma="succeed" pos="VVZ">succeeds</wf>
+    <wf lemma="in" pos="IN">in</wf>
+    <wf lemma="blackmail" pos="VVG">blackmailing</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="Colombian" pos="JJ">Colombian</wf>
+    <instance id="d001.s025.t016" lemma="authority" pos="NNS">authorities</instance>
+    <wf lemma="into" pos="IN">into</wf>
+    <instance id="d001.s025.t017" lemma="negotiation" pos="NNS">negotiations</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s025.t018" lemma="cartel" pos="NN">cartel</instance>
+    <wf lemma="will" pos="MD">will</wf>
+    <wf lemma="be" pos="VB">be</wf>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s025.t019" lemma="control" pos="NN">control</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="Fidel" pos="NP">Fidel</wf>
+    <wf lemma="can" pos="MD">can</wf>
+    <wf lemma="exploit" pos="VV">exploit</wf>
+    <wf lemma="his" pos="PP$">his</wf>
+    <wf lemma="past" pos="JJ">past</wf>
+    <instance id="d001.s025.t020" lemma="relationship" pos="NNS">relationships</instance>
+    <wf lemma="with" pos="IN">with</wf>
+    <wf lemma="them" pos="PP">them</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="''" pos="''">''</wf>
+    <wf lemma="he" pos="PP">he</wf>
+    <wf lemma="tell" pos="VVD">told</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="Journal" pos="NP">Journal</wf>
+    <wf lemma="'s" pos="POS">'s</wf>
+    <instance id="d001.s025.t022" lemma="david_asman" pos="N">David_Asman</instance>
+    <wf lemma="recently" pos="RB">recently</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s026">
+    <wf lemma="the" pos="DT">The</wf>
+    <instance id="d001.s026.t001" lemma="struggle" pos="NN">struggle</instance>
+    <wf lemma="against" pos="IN">against</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s026.t002" lemma="drug_lord" pos="N">drug_lords</instance>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s026.t003" lemma="Colombia" pos="NP">Colombia</instance>
+    <wf lemma="will" pos="MD">will</wf>
+    <wf lemma="be" pos="VB">be</wf>
+    <wf lemma="a" pos="DT">a</wf>
+    <instance id="d001.s026.t004" lemma="near_thing" pos="N">near_thing</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s027">
+    <wf lemma="this" pos="DT">This</wf>
+    <instance id="d001.s027.t001" lemma="week" pos="NN">week</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s027.t002" lemma="government" pos="NN">government</instance>
+    <wf lemma="arrest" pos="VVN">arrested</wf>
+    <instance id="d001.s027.t003" lemma="jose_abello_silva" pos="N">Jose_Abello_Silva</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="say" pos="VVD">said</wf>
+    <wf lemma="to" pos="TO">to</wf>
+    <wf lemma="be" pos="VB">be</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="fourth-ranking" pos="JJ">fourth-ranking</wf>
+    <instance id="d001.s027.t004" lemma="cartel" pos="NN">cartel</instance>
+    <instance id="d001.s027.t005" lemma="leader" pos="NN">leader</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s028">
+    <wf lemma="he" pos="PP">He</wf>
+    <wf lemma="will" pos="MD">will</wf>
+    <wf lemma="probably" pos="RB">probably</wf>
+    <wf lemma="be" pos="VB">be</wf>
+    <wf lemma="extradite" pos="VVN">extradited</wf>
+    <wf lemma="to" pos="TO">to</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s028.t001" lemma="U.S." pos="NP">U.S.</instance>
+    <wf lemma="for" pos="IN">for</wf>
+    <instance id="d001.s028.t002" lemma="trial" pos="NN">trial</instance>
+    <wf lemma="under" pos="IN">under</wf>
+    <wf lemma="an" pos="DT">an</wf>
+    <instance id="d001.s028.t003" lemma="extradition" pos="NN">extradition</instance>
+    <instance id="d001.s028.t004" lemma="treaty" pos="NN">treaty</instance>
+    <instance id="d001.s028.t005" lemma="President" pos="NP">President</instance>
+    <wf lemma="Virgilia" pos="NP">Virgilia</wf>
+    <wf lemma="Barco" pos="NP">Barco</wf>
+    <wf lemma="have" pos="VHZ">has</wf>
+    <wf lemma="revive" pos="VVN">revived</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s029">
+    <wf lemma="Later" pos="RBR">Later</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="another" pos="DT">another</wf>
+    <wf lemma="high-ranking" pos="JJ">high-ranking</wf>
+    <instance id="d001.s029.t001" lemma="trafficker" pos="NN">trafficker</instance>
+    <wf lemma="," pos=",">,</wf>
+    <instance id="d001.s029.t002" lemma="leonidas_vargas" pos="N">Leonidas_Vargas</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="be" pos="VBD">was</wf>
+    <wf lemma="arrest" pos="VVN">arrested</wf>
+    <wf lemma="and" pos="CC">and</wf>
+    <wf lemma="@card@" pos="CD">1,000</wf>
+    <instance id="d001.s029.t003" lemma="pound" pos="NNS">pounds</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <instance id="d001.s029.t004" lemma="dynamite" pos="NN">dynamite</instance>
+    <wf lemma="seize" pos="VVD">seized</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s030">
+    <wf lemma="Mr." pos="NN">Mr.</wf>
+    <wf lemma="Barco" pos="NP">Barco</wf>
+    <wf lemma="have" pos="VHZ">has</wf>
+    <wf lemma="refuse" pos="VVN">refused</wf>
+    <instance id="d001.s030.t002" lemma="U.S." pos="NP">U.S.</instance>
+    <instance id="d001.s030.t003" lemma="troop" pos="NNS">troops</instance>
+    <wf lemma="or" pos="CC">or</wf>
+    <instance id="d001.s030.t004" lemma="adviser" pos="NNS">advisers</instance>
+    <wf lemma="but" pos="CC">but</wf>
+    <wf lemma="have" pos="VHZ">has</wf>
+    <wf lemma="accept" pos="VVN">accepted</wf>
+    <instance id="d001.s030.t005" lemma="U.S." pos="NP">U.S.</instance>
+    <wf lemma="military" pos="JJ">military</wf>
+    <instance id="d001.s030.t006" lemma="aid" pos="NN">aid</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s031">
+    <instance id="d001.s031.t001" lemma="president_bush" pos="N">President_Bush</instance>
+    <wf lemma="have" pos="VHZ">has</wf>
+    <wf lemma="agree" pos="VVN">agreed</wf>
+    <wf lemma="to" pos="TO">to</wf>
+    <wf lemma="meet" pos="VV">meet</wf>
+    <wf lemma="within" pos="IN">within</wf>
+    <wf lemma="@card@" pos="CD">90</wf>
+    <instance id="d001.s031.t002" lemma="day" pos="NNS">days</instance>
+    <wf lemma="with" pos="IN">with</wf>
+    <wf lemma="Mr." pos="NP">Mr.</wf>
+    <wf lemma="Barco" pos="NP">Barco</wf>
+    <wf lemma="," pos=",">,</wf>
+    <instance id="d001.s031.t004" lemma="President" pos="NP">President</instance>
+    <instance id="d001.s031.t005" lemma="alan_garcia" pos="N">Alan_Garcia</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <instance id="d001.s031.t006" lemma="Peru" pos="NP">Peru</instance>
+    <wf lemma="and" pos="CC">and</wf>
+    <instance id="d001.s031.t007" lemma="President" pos="NP">President</instance>
+    <instance id="d001.s031.t008" lemma="jaime_paz_zamora" pos="N">Jaime_Paz_Zamora</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <instance id="d001.s031.t009" lemma="Bolivia" pos="NP">Bolivia</instance>
+    <wf lemma="to" pos="TO">to</wf>
+    <wf lemma="discuss" pos="VV">discuss</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s031.t010" lemma="drug" pos="NN">drug</instance>
+    <instance id="d001.s031.t011" lemma="problem" pos="NN">problem</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s032">
+    <wf lemma="it" pos="PP">It</wf>
+    <wf lemma="might" pos="MD">might</wf>
+    <wf lemma="not" pos="RB">not</wf>
+    <wf lemma="be" pos="VB">be</wf>
+    <wf lemma="a" pos="DT">a</wf>
+    <wf lemma="bad" pos="JJ">bad</wf>
+    <instance id="d001.s032.t001" lemma="idea" pos="NN">idea</instance>
+    <wf lemma="to" pos="TO">to</wf>
+    <wf lemma="do" pos="VV">do</wf>
+    <wf lemma="that" pos="IN/that">that</wf>
+    <wf lemma="sooner" pos="RBR">sooner</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="rather" pos="RB">rather</wf>
+    <wf lemma="than" pos="IN">than</wf>
+    <wf lemma="later" pos="RBR">later</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s033">
+    <wf lemma="after" pos="IN">After</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <instance id="d001.s033.t001" lemma="Panama" pos="NP">Panama</instance>
+    <instance id="d001.s033.t002" lemma="fiasco" pos="NN">fiasco</instance>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="they" pos="PP">they</wf>
+    <wf lemma="will" pos="MD">will</wf>
+    <wf lemma="need" pos="VV">need</wf>
+    <wf lemma="some" pos="DT">some</wf>
+    <instance id="d001.s033.t003" lemma="reassurance" pos="NN">reassurance</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s034">
+    <wf lemma="certainly" pos="RB">Certainly</wf>
+    <wf lemma="," pos=",">,</wf>
+    <wf lemma="the" pos="DT">the</wf>
+    <wf lemma="Colombian" pos="JJ">Colombian</wf>
+    <instance id="d001.s034.t001" lemma="press" pos="NN">press</instance>
+    <wf lemma="be" pos="VBZ">is</wf>
+    <wf lemma="much" pos="JJ">much</wf>
+    <wf lemma="in" pos="IN">in</wf>
+    <instance id="d001.s034.t002" lemma="need" pos="NN">need</instance>
+    <wf lemma="of" pos="IN">of</wf>
+    <wf lemma="that" pos="DT">that</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+</text>
+</corpus>

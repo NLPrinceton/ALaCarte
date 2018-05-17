@@ -1,0 +1,310 @@
+
+SENSEVAL SCORING DOCUMENTATION
+==============================
+
+COMPILATION
+-----------
+
+  gcc -o scorer2 scorer2.c
+
+EXECUTION
+---------
+
+  scorer2 answer_file key_file [sense_map_file] [-g coarse|mixed] [-m] [-v]
+
+where
+  answer_file    is the file of formatted answers output by a system
+  key_file       is the answer key
+  sense_map_file maps every sense to its parents in a subsumption hierarchy
+  -g             specifies coarse or mixed grained scoring, fine is the default
+  -m             causes exclusion of instances tagged with multiple tags in key
+  -v             causes line-by-line scoring calculations to be printed
+
+If no sense_map_file is given, then only fine-grained scoring is
+available, and illformed sense ids in the answer will lower the
+precision rather than the recall (that is, they will count as mistakes
+instead of missed answers).
+
+The answer format is specified in the file answer-format.txt
+
+Each line of the key_file has the format
+  'ref_id ref_num senseid+'
+
+Each line of the sense_map_file has the format 
+  'senseid_0 [b_1 senseid_1 b_2 senseid_2 ...]' 
+where senseid_N is the parent of senseid_(N-1) with branching factor b_N.
+
+NOTE
+----
+It is important that all files provided to the scorer2 program are sorted
+in alphabetical ascending order.
+
+
+EXAMPLE
+-------
+
+scorer2 system.sampletask.answers sampletask.key sampletask.senses
+
+
+HOW IT WORKS
+------------
+
+Let { 1, 2, 3, 1.1, 1.2, 2.1, 2.2, 2.3, 2.4, 2.5 } be the exhaustive
+set of codes of sense tags for a word in the evaluation task. If a
+sense code contains a ".", it is considered a "subsense" code;
+otherwise it is a "main sense" code. Sense tags corresponding to
+subsense codes will be called subsense tags, and those corresponding
+to mainsense codes will be called main sense tags.
+
+The column labeled "key" represents the code(s) corresponding to the
+manually annotated tag(s) for an instance of this word, and the column
+labeled "guess" represents the code(s) corresponding to the response
+given by a participating system for the same instance. Probabilities
+for each tag given in the response are enclosed in parentheses after
+the tag's code.
+
+The subsequent columns indicate the score that would be assigned to
+the system under various scoring policies, all based on the scoring
+proposal made by Melamed and Resnik (see scorescheme.txt).
+
+The column labeled "F" corresponds to a "fine-grained" policy (do not
+count main sense tags as subsuming subsense tags).
+
+The column labeled "C" corresponds to a "coarse-grained" policy (count
+"subsense" tags in both the key and the system responses as if they
+were the corresponding main sense tags).
+
+The column labeled "M" corresponds to a "mixed-grained" policy (count
+main sense tags as subsuming subsense tags, awarding full credit to a
+response tag which is subsumed by a tag in the key, and partial credit
+to a response tag which subsumes a tag in the key, depending on how
+many other sense tags the response tag also subsumes, in accordance
+with the Melamed-Resnik proposal).
+
+The "minimal" scoring for each of these policies is obtained by
+disregarding the rows which have multiple answers in the key. These
+rows are marked with "*".
+
+           key               guess           F      C      M
+           ---               -----          ---    ---    ---
+   (1)        1                 1(1.0)      1.0    1.0    1.0  
+
+*  (2)     1, 3                 1(1.0)      1.0    1.0    1.0
+
+   (3)        1                 2(1.0)      0.0    0.0    0.0
+
+*  (4)     1, 2                 2(1.0)      1.0    1.0    1.0
+
+*  (5)     1, 3                 2(1.0)      0.0    0.0    0.0
+
+   (6)      1.1               1.1(1.0)      1.0    1.0    1.0
+
+*  (7)   1.1, 3               1.1(1.0)      1.0    1.0    1.0
+
+   (8)      1.1               1.2(1.0)      0.0    1.0    0.0
+
+*  (9)   1.1, 3               1.2(1.0)      0.0    1.0    0.0
+
+  (10)        1               1.1(1.0)      0.0    1.0    1.0
+
+  (11)      1.1                 1(1.0)      0.0    1.0    0.5
+
+  (12)      2.1                 2(1.0)      0.0    1.0    0.2
+
+* (13) 1.1, 1.2               1.1(1.0)      1.0    1.0    1.0
+
+* (14) 1.1, 1.2                 1(1.0)      0.0    1.0    1.0
+
+* (15) 2.1, 2.2                 2(1.0)      0.0    1.0    0.4
+
+  (16)        1         1(0.6), 2(0.4)      0.6    0.6    0.6  
+
+  (17)        2         1(0.6), 2(0.4)      0.4    0.4    0.4  
+
+  (18)        1       1.1(0.6), 2(0.4)      0.0    0.6    0.3
+
+  (19)        1     1.1(0.6), 1.2(0.4)      0.0    1.0    1.0
+
+  (20)      1.1         1(0.6), 2(0.4)      0.6    0.6    0.6
+
+* (21)     1, 3         1(0.6), 2(0.4)      0.6    0.6    0.6  
+
+* (22)     1, 2         1(0.6), 2(0.4)      1.0    1.0    1.0
+
+For each policy, the precision of a system is computed by summing the
+scores over all instances that the system handles, and dividing by the
+number of handled instances. Recall is computed by summing the
+system's scores over all instances (counting unhandled instances as a
+zero score), and dividing by the total number of instances in the
+evaluation dataset. (These measures may be viewed in some sense as the
+expected precision and recall of a related traditional simple testing
+situation in which the system may return only one answer for each
+question, and in which each answer either matches the key exactly or
+does not match it at all; the probabilities given are interpreted as
+determining what the system's responses would be on a given trial of
+the simple test, modulo some additional straightforward assumptions
+for the mixed-grained scoring policy to probabilistically reduce
+inexact matching to exact matching.)
+
+Precision and recall measures can be relativized to a subset of the
+evaluation data in one of two ways, namely, by filtering on instances
+or by filtering on sense tags. In the first case, the evaluation
+dataset is pruned of all instances that don't appear on a filter list
+of instance identifiers. Likewise the system responses for instances
+that don't appear on the list are ignored. Scores are then computed as
+before on the subset. "Minimal" scoring is an instance of this kind of
+filtering.
+
+For filtering on sense tags, the answer key is modified by deleting
+all sense tags that don't appear on a filter list of relevant sense
+tags. If as a result some instances are left without an answer in the
+answer key, these instances and the system's responses for them are
+ignored. Scoring is then done as before on the remaining instances
+with the modified answer key.  
+
+For example, if the answer key for a particular instance is as
+indicated in row 15 above, and a sense-tag filter is being applied
+with only senses 1.1 and 2.2 appearing on the filter list, the answer
+for this instance would be modified to read 2.2 (that is, the tag 2.1
+would be deleted). The instance would then be scored as if 2.2 were
+the only correct answer.
+
+Notice that all the above scoring policies make the assumption (due to
+Melamed and Resnik) that there is exactly one correct answer for each
+instance. This is so even though provision is made for multiple
+answers in the answer key, because these answers are viewed
+disjunctively, that is, the interpretation is that any of them could
+be the correct answer, not that the correct answer is comprised of all
+of them.
+
+A consequence of this assumption is that there may be no scoring
+distinction between a system which returns all the answers given by
+the key for an instance with multiple answers, and a system which
+returns only some of them. This can be seen by comparing the scoring
+for rows 4 and 22 in the above table. If however the correct sense
+tags in these rows are viewed conjunctively, so that a system which
+misses any of them is failing to provide a full answer, it is clear
+that the system response given in row 22 should count for more than
+the one in row 4.
+
+One possible way to remedy this would be to discount the system's
+score on an instance depending on how thorough the system's coverage
+of the correct answer set is. Without additional information it is
+reasonable to assume that each sense tag in a multiple answer in the
+key is equally important, so that the coverage of the system could be
+the simple fraction of correct sense tags that it returns. This would
+result in the following amended scoring of row 4:
+
+          key               guess            F      C      M
+          ---               -----           ---    ---    ---
+*  (4)     1, 2                 2(1.0)      0.5    0.5    0.5
+
+Rows 2 and 13 would also be scored like row 4, while rows 9 and 21
+would look like this:
+
+          key               guess            F      C      M
+          ---               -----           ---    ---    ---
+*  (9)   1.1, 3               1.2(1.0)      0.0    0.5    0.0
+
+* (21)     1, 3         1(0.6), 2(0.4)      0.3    0.3    0.3  
+
+The rows without multiple sense tags in the key would of course
+still be scored exactly as they had been before.
+
+This revised policy seems unsatisfactory however insofar as there is
+still an underlying assumption (consistent with the first, and again
+due to Melamed and Resnik) that a system is only allowed a single
+guess for any instance. This must be so because it is assumed that
+there is a probability distribution on multiple system responses. Such
+a distribution only makes sense if the system underlyingly is only
+allowed one guess, and the probabilities associated with each tag are
+the chances the system will guess that tag as opposed to any other
+one. Then the probabilities in row 22 for example represent the
+chances that the system will guess 1 as opposed to 2, but regardless
+of which tag it guesses, it will still not achieve full coverage of
+the set of correct answers. (However, the probabilities in row 21
+still make sense, since there is a 0.6 chance that the system will
+guess a single answer for which it will then get half credit, and a
+0.4 chance that it will guess a completely wrong answer, so that the
+expected credit is indeed 0.3.)
+
+If the multiple tags in the key are in fact to be viewed conjunctively
+(discarding the first assumption of Melamed and Resnik, namely, that
+multiple tags are disjunctive), then it is necessary to allow the
+system to return multiple tags as well (discarding the second
+assumption of Melamed and Resnik), otherwise no system will ever get
+full credit on instances with multiple answer tags. Therefore the
+probability distribution over tags must be dispensed with. It might
+reasonably be replaced with a probability of appearance for each tag,
+that is, the chance that the system will return this tag among the
+tags in its response. This would still give a system which functions
+probabilistically the latitude to express its differential confidence
+in the correctness of the tags it returns. Non-probabilistic systems
+could be treated as if they assigned a 1.0 probability of appearance
+to all the tags they return.
+
+Under this scoring policy, then, a system would get partial credit for
+returning some, but not all, of the answer key's sense tags for an
+instance. What though should happen if it returns more tags than the
+answer key lists for a given instance? It isn't reasonable to just
+ignore spurious tags, because then a system could get a perfect score
+simply by returning every tag for every instance.
+
+One possible solution would be to view each sense tag in the answer
+key as a separate testable item unto itself, regardless of whether it
+is the only tag given as an answer for an instance (like 1 in row 3),
+or whether there are other tags that it co-occurs with (like 1 in row
+4). Instances with multiple sense tags in the answer key would
+essentially be treated as if they were multiple test items, and a
+system's score for such an instance would be the sum of its scores on
+each sense tag that is listed as a correct answer for that instance.
+Here is an example of this scoring policy, with the parenthetical
+numbers after each sense tag in the "guess" column now referring to
+the sense tags' probability of appearance:
+
+           key               guess           F      C      M
+           ---               -----          ---    ---    ---
+   (1)        1                 1(1.0)      1.0    1.0    1.0  
+
+   (2)     1, 3                 1(1.0)      1.0    1.0    1.0
+
+   (3)     1, 3         1(1.0), 3(1.0)      2.0    2.0    2.0
+
+   (4)        3         1(1.0), 3(1.0)      1.0    1.0    1.0
+
+   (5)        1                 1(0.6)      0.6    0.6    0.6  
+
+   (6)     1, 3                 1(0.6)      0.6    0.6    0.6
+
+   (7)     1, 3         1(0.6), 3(0.6)      1.2    1.2    1.2
+
+   (8)     1, 3         1(0.6), 3(0.2)      0.8    0.8    0.8
+
+   (9)        3         1(0.6), 3(0.5)      0.5    0.5    0.5
+
+The assignment of partial credit under the mixed-grained scoring
+policy would be unaffected.
+
+To derive a precision measure from these scores, sum all the scores
+over all instances and divide by the expected number of sense tags
+returned (eg, 1 for row 1, 2 for row 4, 1.1 for row 9). A recall
+measure is given by summing the scores over all instances and dividing
+by the total number of sense tags in the key (eg, 1 for rows 1, 4, 5
+and 9, 2 for the other rows). A system which returns every tag for
+every instance will have a perfect recall but will be heavily
+penalized in the precision measure. (These measures again correspond
+to expected precision and recall over multiple trials in a simpler
+testing situation.)
+
+If any of the participants in this evaluation were making the
+assumption that the multiple answers in the key were to be interpreted
+conjunctively, and that multiple responses given by their system were
+not probabilistically mutually exclusive (contra the assumptions of
+Melamed and Resnik, which are implicitly adopted in the scoring
+protocols on the website), I will undertake to score their results in
+the way outlined above, or in some other better way that does justice
+to these alternative assumptions, if anyone can propose one.
+
+
+
+

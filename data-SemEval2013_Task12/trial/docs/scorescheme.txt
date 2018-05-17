@@ -1,0 +1,148 @@
+
+
+Proposal for Senseval Scoring Scheme
+I. Dan Melamed & Philip Resnik
+----------------------------------------------
+
+
+1.  A principled evaluation metric can be derived by assigning
+    probabilities over sense tags output by WSD algorithms.
+    Algorithms that output multiple tags but do not assign
+    probabilities can be treated as assigning uniform probabilities
+    over the tags that they output.  E.g. an algorithm that considers
+    senses A and B as possible, but eliminates senses C, D and E for a
+    word with 5 senses in the reference inventory is really saying:
+
+    sense     prob.
+    -----     -----
+      A	       .5
+      B	       .5
+      C	       0
+      E	       0
+      D	       0
+
+2.  Given a probability distribution over sense tags and a single
+    known correct tag, the algorithm's score should be the probability
+    that the algorithm assigns to the correct tag.  Note that the
+    exact-match criterion falls out as a special case of this metric,
+    where the algorithm selects exactly one sense, which is equivalent
+    to assigning 100% of the probability mass to it.
+
+
+3.  Given multiple possible correct tags for a given word token, the
+    algorithm's score should be the sum of ALL probabilities that it
+    assigns to ANY of the correct tags.  The premise here is that it
+    is impossible to tell whether a multi-sense annotation was
+    intended as disjunctive or conjunctive, so algorithms should be
+    given the benefit of the doubt.  E.g. annotator tags a word with
+    senses A and B:
+
+    algorithm's output		score
+    ------------------		-----
+    A				1
+    .5 A; .5 B			1
+    .3 A; .7 C			.3
+    .3 A; .4 B; .3 C		.7
+    A, B, C			2/3
+
+
+4.  The probabilistic treatment of sense tags can be extended to
+    handle tree-structured tagsets, such as HECTOR, if the structure
+    is interpreted as an IS-A hierarchy.  E.g., if sense 3.2 is a
+    sub-sense of sense 3, then any word token of sense 3.2 *also* IS-A
+    token of sense 3.  (Further extensions exist for more general
+    DAGs, such as WordNet, but they don't concern us here.)
+
+    The same scoring criterion can be used for structured tagsets as
+    for unstructured ones: What's the probability that the algorithm
+    assigns to any of the correct tags?  The complication for
+    structured tagsets is that it is not obvious how to compare tags
+    that are in a parent-child relationship.  This problem can be
+    solved by defining two kinds of probability distributions:
+    Pr(occurrence of parent sense | occurrence of child sense) and
+    Pr(occurrence of child sense | occurrence of parent sense).  The
+    first one is easy: In a tree-structured IS-A hierarchy,
+    Pr(occurrence of parent node | occurrence of child node) = 1.  The
+    second one is harder, unfortunately; in general, these
+    ("downward") probabilities are unknown.  In the absence of prior
+    knowledge about sense distributions over particular sense-tree
+    branches, the maximum entropy principle dictates that we assign a
+    uniform distribution over Pr(occurrence of child sense |
+    occurrence of parent sense) for each sense.  Fortunately, this is
+    not such a bad assumption.  It will be false in most individual
+    cases, but if we evaluate WSD algorithms by averaging performance
+    over many different word types, most of the biases should come out
+    in the wash.
+
+    Now, how do we use these conditional probabilities for scoring?
+    Treat each non-leaf sense-tag as underspecified.  E.g. if sense 3
+    has just the two subsenses 3.1 and 3.2, then tagging a word with
+    sense 3 is equivalent to giving it a probability of one half of
+    being sense 3.1 and one half of being sense 3.2, given our
+    assumption of uniform downward probabilities.  This applies both
+    to the tags in the output of WSD algorithms and to the manual
+    (correct, reference) annotations.
+
+    Example:
+
+    Suppose our sense-tree for a given word has senses 1 and 2, which
+    are not subdivided in any way.  It has sense 3 divided into 3.1
+    and 3.2, as above.  In addition 3.1 is subdivided into 3.1a and
+    3.1b.  There is also a sense 4, which is split into 4.1, 4.2 and
+    4.3.
+
+    Under our assumption of uniform downward probabilities, we start
+    by deducing:
+
+    Pr(3.1 | 3) = .5
+    Pr(3.1a | 3.1) = .5
+    (and so) Pr(3.1a | 3) = .25
+
+    Pr(4.2 | 4) = 1/3, etc.
+
+    If any of the conditionals above are reversed, then the
+    probability is always 1.  E.g. Pr(3 | 3.1a) = 1.
+
+    Next, we apply these probabilities to find Pr(any correct sense |
+    algorithm's assigned senses) as in the following example
+    cases:
+
+    manual annotation	algorithm`s output	score
+    -----------------	------------------	-----
+    
+	2			3		  0
+	3			3		  1
+	3			3.1		  1
+	3			3.1b		  1
+	3.1			3		  .5
+	3.1 & 3.2		3		  .5 + .5* = 1
+	3.1a			3		  .25
+	3.1a & 4.2		4		  1/3 (= Pr(4.2 | 4))
+	3.1a & 4.2		3.1		  .5
+	3.1a & 4.2		3.1 & 4.2	  .5*.5 + .5*1 = .75
+	3.1a & 4.2		3.1 & 4		  .5*.5 + .5*.333 = .41666
+
+
+5.  This scoring scheme depends only on the tree structure of the
+    hierarchy, and not on the types of nodes in it.  In particular,
+    questions of whether part-of-speech and other syntactic
+    distinctions should be part of the sense inventory are orthogonal
+    to the issue addressed here.
+
+==========================================================
+
+References: 
+
+This proposal incorporates some ideas from section 3.1 of
+
+Philip Resnik and David Yarowsky, "A perspective on word sense
+    disambiguation methods and their evaluation", position paper
+    presented at the ACL SIGLEX Workshop on Tagging Text with Lexical
+    Semantics: Why, What, and How?, held April 4-5, 1997 in
+    Washington, D.C., USA in conjunction with ANLP-97.
+
+available from 
+http://www.umiacs.umd.edu/~resnik/papers/siglex97_perspective.ps
+
+
+

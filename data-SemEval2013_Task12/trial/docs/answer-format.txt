@@ -1,0 +1,71 @@
+
+Format specification for SENSEVAL-3 results
+
+The results of a system's processing should be reported in a single
+file corresponding to the evaluation data file, with one line for each
+test instance in the evaluation data.  The lines in this results file
+do not have to be in any particular order.
+
+Each line should include the following items, in the specified order:
+
+1. reference id for the lexical item
+2. a single space
+3. reference number for test instance
+4. a single space
+5. list of sense tags with or without weights
+6. an optional comment
+
+In a lexical sample task, the reference id is from the 'lexelt' tag in
+the XML data and the reference number is the 'instance_id'.  In an
+all-words task, the reference id is 'text_id' and the reference number
+is the 'head_id'.
+
+If the list of sense tags is weighted, the weights (given as integers
+or real numbers, and separated by a "/" from the sense tag) will be
+normalised.  That is, they will be treated as probabilities.  If any
+of the sense tags are missing weights, then none of the weights will
+be used.  When there are no weights, a uniform distribution is used.
+
+In case the results file contains two or more lines for the same
+reference number for the same reference id, the first such line
+will be counted as the system's answer and the subsequent lines will
+be disregarded.
+
+---------------------------------------------------------------------
+
+Examples of well-formed lines:
+
+brother.n 00001 501566
+brother.n 00002 501566     999997     !!
+brother.n 00006 501566/0.5 501573/0.4 503751/0.1
+brother.n 00015 503751/94  999999/87             !! comment . . .
+
+where 'brother.n' is an example of a lexelt field, '00001' is an example of
+an instance_id, and '501566' is an example of a sense_tag.  Actual values
+will depend on the data for the particular task.
+---------------------------------------------------------------------
+
+If you're into BNF, here's a precise definition:
+
+lexical_sample_answer
+   ::= lexelt instance_id sense_tag+ [!! comment]
+
+all_words_answer
+   ::= text_id head_id sense_tag+ [!! comment]
+
+lexelt ::= lexical element (as defined in the lex-sample evaluation data)
+instance_id ::= instance id (as defined in the lex-sample evaluaiton data)
+text_id ::= text id (as defined in the all-words evaluation data)
+head_id ::= head id (as defined in the all-words evaluation data)
+
+sense_tag ::= senseid[/weight]
+senseid ::= senseid from the lexicon for the task
+weight ::= integer or positive real number
+comment ::= text string
+
+-----------------------------------------------------------------------
+Note: Answer format adapted from the Senseval-2 scoring guidelines
+
+
+
+

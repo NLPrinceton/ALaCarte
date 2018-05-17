@@ -1,0 +1,705 @@
+#This is the definitional data from Wikipedia for *training* Nonce2Vec.
+#Each line consists of a word, followed by its definition. Slots (___)
+#indicate where the word appears in the sentence.
+#The data had been tokenised, with punctuation removed.
+
+pride	___ is an inwardly directed emotion that carries two common meanings 
+waxing	___ is a form of semi permanent hair removal which removes the hair from the root 
+beech	___ fagus is a genus of deciduous trees in the family fagaceae native to temperate europe asia and north america 
+lettuce	___ lactuca sativa is an annual plant of the daisy family asteraceae 
+scattering	___ is a general physical process where some forms of radiation such as light sound or moving particles are forced to deviate from a straight trajectory by one or more paths due to localized non uniformities in the medium through which they pass 
+chico	___ means small boy or child in the spanish language 
+cusco	___ often spelled cuzco spanish cuzco quechua qusqu or qosqo is a city in southeastern peru near the urubamba valley of the andes mountain range 
+legislation	 ___ or statutory law is law which has been promulgated or enacted by a legislature or other governing body or the process of making it 
+pembrokeshire	___ or welsh sir benfro is a county in the south west of wales 
+needlework	___ is a broad term for the handicrafts of decorative sewing and textile arts 
+napster	___ was the name given to two music focused online services 
+propulsion	___ is a means of creating force leading to movement 
+heaven	___ the ___ or seven ___ is a common religious cosmological or transcendent place where ___ beings such as gods angels jinn saints or venerated ancestors originate are enthroned or live 
+param	___ is a series of supercomputers designed and assembled by the centre for development of advanced computing c dac in pune india 
+rotterdam	___ is the second largest city in the netherlands and one of the largest ports in the world 
+glasgow	___ or scots glesca scottish gaelic glaschu is the largest city in scotland and the fourth largest in the united kingdom 
+irish	___ may refer to something of from or related to ireland an island situated off the north western coast of continental europe including cosmicomics
+kew	___ is a suburban district in the london borough of richmond upon thames 15 mi north east of richmond and 71 mi west by south west of charing cross its population at the 2011 census was 11436 
+holyrood	___ is an anglicisation of the scots haly ruid holy cross 
+testosterone	___ is a steroid hormone from the androgen group and is found in humans and other vertebrates 
+lausanne	___ italian losanna romansh losanna is a city in romandy the french speaking part of switzerland it is the capital of the canton of vaud 
+barnsley	___ locally is a town in south yorkshire england 
+surbiton	___ is a suburban area of south west london within the royal borough of kingston upon thames 
+winchester	___ is a city and the county town of hampshire 
+cucumber	___ cucumis sativus is a widely cultivated plant in the gourd family cucurbitaceae 
+nylon	___ is a generic designation for a family of synthetic polymers known generically as aliphatic polyamides first produced on february 28 1935 by wallace carothers at dupont s research facility at the dupont experimental station 
+jellyfish	___ or jellies are the major non polyp form of individuals of the phylum cnidaria 
+knitting	___ is a method by which thread or yarn is manipulated to create cloth 
+incense	___ is aromatic biotic material which releases fragrant smoke when burned 
+indigo	___ is a color that is traditionally regarded as a color on the visible spectrum as well as one of the seven colors of the rainbow the color between blue and violet 
+italy	___ italian italia officially the italian republic italian repubblica italiana is a unitary parliamentary republic in europe 
+citigroup	___ inc or citi is an american multinational banking and financial services corporation headquartered in manhattan new york city 
+industrialisation	___ in british english or industrialization in american english is the period of social and economic change that transforms a human group from an agrarian society into an industrial one 
+maastricht	___ limburgish mestreech french maestricht spanish mastrique is a town and a municipality in the southeast of the european country the netherlands 
+oxford	___ is a city in southern england and the county town of ___ 
+ironbridge	___ is a settlement on the river severn at the heart of the ___ gorge in shropshire england 
+refraction	 ___ is the change in direction of propagation of a wave due to a change in its transmission medium 
+papyrus	___ is a thin paper like material made from the pith of the ___ plant cyperus ___ a wetland sedge that was once abundant in the sudd of southern sudan along with the nile delta of egypt 
+shorts	 ___ are a garment worn by both men and women over their pelvic area circling the waist and splitting to cover the upper part of the legs sometimes extending down to knee but not covering the entire length of the leg 
+portsmouth	___ is the second largest city in the ceremonial county of hampshire on the south coast of england 
+utility	___ or usefulness is the perceived ability of something to satisfy needs or wants 
+paypal	___ is an american international digital wallet based e commerce business allowing payments and money transfers to be made through the internet 
+clinton	___ is an irish and english family name indicating one s ancestors came from english places called glympton or glinton 
+spoons	___ also known as pig or tongue is a fast paced game of matching and occasional bluffing 
+inverclyde	___ scottish gaelic inbhir chluaidh mouth of the clyde is one of 32 council areas used for local government in scotland 
+evangelism	___ is the preaching of the gospel or the practice of giving information about a particular doctrine or set of beliefs to others with the intention of converting or conversion of others to the christian faith 
+blight	 ___ refers to a specific symptom affecting plants in response to infection by a pathogenic organism 
+streatham	___ is a district in south london england mostly in the london borough of lambeth 
+hawaii	___ ___ is the 50th and most recent us state to join the united states having joined the union on august 21 1959 
+genocide	___ is the systematic destruction of all or a significant part of a racial ethnic religious or national group 
+cornish	___ is the adjective and demonym associated with cornwall the most southwesterly part of the united kingdom 
+enniskillen	___ from inis ceithleann meaning ceithlenn s island is a town and civil parish in county fermanagh northern ireland 
+capoeira	___ is a brazilian martial art that combines elements of dance acrobatics and music and is sometimes referred to as a game 
+dodge	___ is an american brand of automobiles minivans and sport utility vehicles manufactured by fca us llc formerly known as chrysler group llc based in auburn hills michigan and formerly known as the ___ division of chrysler corporation 
+wickham	___ formerly spelled wykeham is a small historic village and civil parish in hampshire southern england located about three miles north of fareham 
+disinformation	___ is intentionally false or inaccurate information that is spread deliberately 
+incest	___ is sexual activity between family members or close relatives 
+ikea	___ is a multinational group of companies that designs and sells ready toassemble furniture such as beds chairs and desks appliances small motor vehicles and home accessories 
+fascism	___ is a form of radical authoritarian nationalism that came to prominence in early 20th century europe 
+ascii	___ abbreviated from american standard code for information interchange is a character encoding scheme 
+bedford	___ is the county town of ___ in the east of england 
+world	___ is a common name for the whole of human civilization specifically human experience history or the human condition in general ___ ie anywhere on earth or pertaining to anywhere on earth 
+candy	 ___ also called sweets or lollies is a confection that features sugar as a principal ingredient 
+wandsworth	___ is a district of south west london within the london borough of ___ 
+sheffield	___ is a city and metropolitan borough in south yorkshire england 
+duty	___ from due meaning that which is owing old french deu did past participle of devoir latin debere debitum whence debt is a term that conveys a sense of moral commitment or obligation to someone or something 
+holland	___ is a region and former province on the western coast of the netherlands 
+saturday	___ or is the day of the week following friday and preceding sunday 
+mayday	___ is an emergency procedure word used internationally as a distress signal in voice procedure radio communications 
+freemasonry	___ is a fraternal organisation that traces its origins to the local fraternities of stonemasons which from the end of the fourteenth century regulated the qualifications of masons and their interaction with authorities and clients 
+cookstown	___ is a town and townland in county tyrone northern ireland 
+paranormal	___ events are phenomena described in popular culture folklore and other non scientific bodies of knowledge whose existence within these contexts is described to lie beyond normal experience or scientific explanation 
+iodine	___ is a chemical element with symbol i and atomic number 53 
+fossil	___ is a standard protocol for allowing serial communication for telecommunications programs under the dos operating system 
+accounting	___ or accountancy is the measurement processing and communication of financial information about economic entities 
+magnus	___ meaning great in latin was sometimes used as a first name among romans but was not particularly common among them 
+flour	___ is a powder which is made by grinding cereal grains beans or other seeds or roots like cassava 
+chemotherapy	___ often abbreviated to chemo and sometimes ctx or ctx is a category of cancer treatment that uses chemical substances especially one or more anti cancer drugs chemotherapeutic agents that are given as part of a standardized ___ regimen 
+octane	___ is a hydrocarbon and an alkane with the chemical formula c8h18 and the condensed structural formula ch3ch26ch3 
+remarkable	___ incorporated as ___ pencils ltd is a uk company that makes stationery products out of recycled products 
+marl	___ or ___ is a calcium carbonate or lime rich mud or mudstone which contains variable amounts of clays and silt 
+adware	___ or advertising supported software is any software package which automatically renders advertisements in order to generate revenue for its author 
+peat	___ turf is an accumulation of partially decayed vegetation or organic matter that is unique to natural areas called ___ or mires 
+dominoes	___ or dominos is a game played with rectangular domino tiles 
+pong	___ marketed as ___ is one of the earliest arcade video games it is a tennis sports game featuring simple two dimensional graphics 
+endoscopy	___ means looking inside and typically refers to looking inside the body for medical reasons using an endoscope an instrument used to examine the interior of a hollow organ or cavity of the body 
+soil	___ is the mixture of minerals organic matter gases liquids and myriad organisms that together support plant life 
+sardinia	___ italian sardegna ___ sardigna sardinnia french sardaigne is the second largest island in the mediterranean sea after sicily and before cyprus and an autonomous region of italy 
+biogas	___ typically refers to a mixture of different gases produced by the breakdown of organic matter in the absence of oxygen 
+conservatism	 ___ as a political and social philosophy promotes retaining traditional social institutions in the context of the culture and civilization 
+chesterfield	 ___ is a market town and a borough of derbyshire united kingdom 
+biosafety	___ is the prevention of large scale loss of biological integrity focusing both on ecology and human health 
+abergavenny	___ welsh y fenni meaning mouth of the river gavenny is a market town in monmouthshire wales 
+mosaic	___ is the art of creating images with an assemblage of small pieces of colored glass stone or other materials 
+wet	___ ___ ___ are a scottish soft rock band that formed in 1982 
+serendipity	 ___ means a fortunate happenstance or pleasant surprise 
+adenocarcinoma	___ plural ___ or ___ is a type of cancerous tumor that can occur in several parts of the body 
+lagos	___ is the most populous city in nigeria the second fastest growing city in africa and the seventh in the world 
+turmeric	___ curcuma longa is a rhizomatous herbaceous perennial plant of the ginger family zingiberaceae 
+shit	___ is an english word that is usually considered vulgar and profane in modern english 
+wetherby	___ is a market town and civil parish within the city of leeds metropolitan borough in west yorkshire england 
+linen	___ is a textile made from the fibers of the flax plant linum usitatissimum 
+assyria	___ was a major mesopotamian east semitic kingdom and empire of the ancient near east existing as an independent state for a period of approximately nineteen centuries from c 2500 bc to 605 bc spanning the early bronze age through to the late iron age 
+dill	___ anethum graveolens is an annual herb in the celery family apiaceae 
+deer	___ singular and plural are the ruminant mammals forming the family cervidae 
+mongolian	___ primarily means of or pertaining mongolia a landlocked country in east and central asia that borders russia to the north and people s republic of china to the south east and west 
+fuerteventura	 ___ loosely translated as strong winds or a corruption of the french term for great adventure is one of the canary islands in the atlantic ocean off the coast of africa politically part of spain 
+manhattan	___ is the most densely populated of the five boroughs of new york city 
+towcester	___ the roman town of lactodorum is a small town in south northamptonshire england 
+height	___ is the measurement of vertical distance but has two meanings in common use 
+ethics	___ sometimes known as moral philosophy is a branch of philosophy that involves systematizing defending and recommending concepts of right and wrong conduct 
+andorra	___ officially the principality of ___ catalan principat d___ also called the principality of the valleys of ___ catalan principat de les valls d___ is a sovereign landlocked microstate in southwestern europe located in the eastern pyrenees mountains and bordered by spain and france 
+cyberspace	___ is the notional environment in which communication over computer networks occurs 
+epsom	___ is a market town in the borough of ___ and ewell in surrey england 
+improvisation	___ is the process of devising a solution to a requirement by making do despite absence of resources that might be expected to produce a solution 
+homicide	___ is the act of a human being causing the death of another human being 
+lighting	___ or illumination is the deliberate use of light to achieve a practical or aesthetic effect 
+slang	___ consists of a lexicon of non standard words and phrases in a given language 
+parlour	___ or parlor is a name used for a variety of different reception rooms and public spaces in different historical periods 
+flax	 ___ also known as common ___ or linseed with the binomial name linum usitatissimum is a member of the genus linum in the family linaceae 
+tripos	___ trivial portable operating system is a computer operating system 
+charles	___ is a masculine given name from the french form ___ of a germanic name karl 
+ain	___ arpitan en is a department named after the ___ river on the eastern edge of france 
+fedex	___ corporation is an american global courier delivery services company headquartered in memphis tennessee 
+donnelly	___ is an irish surname coming from the irish odonnghaile meaning male descendant of donnghal 
+audi	___ ag is a german automobile manufacturer that designs engineers produces markets and distributes luxury automobiles 
+ontology	___ is the philosophical study of the nature of being becoming existence or reality as well as the basic categories of being and their relations 
+oa	 ___ is a fictional planet that lies at the center of the dc comics universe 
+dictatorship	___ is a form of government where political authority is monopolized by a single person or political entity and exercised through various mechanisms to ensure the entity s power remains strong 
+walking	___ also known as ambulation is one of the main gaits of locomotion among legged animals and is typically slower than running and other gaits 
+roasting	___ is a cooking method that uses dry heat whether an open flame oven or other heat source 
+blues	___ is a genre and musical form that originated in african american communities in the deep south of the united states around the end of the 19th century 
+insurance	___ is the equitable transfer of the risk of a loss from one entity to another in exchange for payment 
+sanitation	___ is the hygienic means of promoting health through prevention of human contact with the hazards of wastes as well as the treatment and proper disposal of sewage or wastewater 
+inoculation	___ also known as variolation was a historical method for the prevention of smallpox by deliberate introduction into the skin of material from smallpox pustules 
+west	___ is a noun adjective or adverb indicating direction or geography 
+bermuda	___ also referred to in legal documents as the ___ or somers isles is a british overseas territory in the north atlantic ocean located off the east coast of north america 
+graffiti	___ is writing or drawings that have been scribbled scratched or sprayed illicitly on a wall or other surface often in a public place 
+ici	___ or ___ may mean ___ is also an abbreviation which may mean imperial chemical industries imperial chemical industries ___ was a british chemical company and was for much of its history the largest manufacturer in britain 
+sturgeon	___ is the common name used for some 25 species of fish in the family acipenseridae including the genera acipenser huso scaphirhynchus and pseudoscaphirhynchus 
+stilt	___ is a common name for several species of birds in the family recurvirostridae which also includes those known as avocets 
+sydenham	___ is a suburban district of south east london in the london boroughs of lewisham bromley and southwark 
+icq	___ is an instant messaging computer program that was first developed and popularized by the israeli company mirabilis 
+monsoon	___ is traditionally defined as a seasonal reversing wind accompanied by corresponding changes in precipitation but is now used to describe seasonal changes in atmospheric circulation and precipitation associated with the asymmetric heating of land and sea 
+patagonia	___ is a sparsely populated region located at the southern end of south america shared by argentina and chile 
+coagulation	___ also known as clotting is the process by which blood changes from a liquid to a gel 
+idolatry	___ is the worship of an idol or a physical object as a representation of a god 
+jargon	___ technical terminology or term of art is the technical terminology or characteristic idiom of a special activity or group 
+sed	___ stream editor is a unix utility that parses and transforms text using a simple compact programming language 
+highbury	___ is a district in the london borough of islington 
+wicca	___ is a modern pagan witchcraft religion 
+punctuation	___ is the use of spacing conventional signs and certain typographical devices as aids to the understanding and correct reading both silently and aloud of handwritten and printed texts 
+craps	___ is a dice game in which the players make wagers on the outcome of the roll or a series of rolls of a pair of dice 
+porridge	___ also spelled porage porrige parritch etc is a dish made by boiling ground crushed or chopped cereal in water milk or both with optional flavourings usually served hot in a bowl or dish 
+coldplay	___ are a british rock band formed in 1996 by lead vocalist chris martin and lead guitarist jonny buckland at university college london ucl 
+adjudication	___ is the legal process by which an arbiter or judge reviews evidence and argumentation including legal reasoning set forth by opposing parties or litigants to come to a decision which determines rights and obligations between the parties involved 
+october	___ is the tenth month of the year in the julian and gregorian calendars and one of seven months with a length of 31 days 
+wantage	___ is a market town and civil parish in the vale of the white horse oxfordshire england 
+poultry	___ are domesticated birds kept by humans for the eggs they produce their meat their feathers or sometimes as pets 
+rust	___ is an iron oxide usually red oxide formed by the redox reaction of iron and oxygen in the presence of water or air moisture 
+standardization	___ or standardisation is the process of developing and implementing technical standards 
+amber	___ is fossilized tree resin not sap which has been appreciated for its color and natural beauty since neolithic times 
+eurostar	___ is a high speed railway service connecting london with paris and brussels 
+nebraska	___ is a state that lies in both the great plains and the midwestern united states 
+carbon	___ from latin carbo coal is a chemical element with symbol c and atomic number 6 
+leyton	___ is a district of east london and part of the london borough of waltham forest located 62 mi north east of charing cross in the united kingdom 
+falconry	___ is the hunting of wild quarry in its natural state and habitat by means of a trained bird of prey 
+worksop	___ is the largest town in the bassetlaw district of nottinghamshire england on the river ryton at the northern edge of sherwood forest 
+shoreditch	___ is an inner city district in the historic east end of london and modern central london within the london borough of hackney lying immediately to the north of the city of london 
+vbscript	___ visual basic scripting edition is an active scripting language developed by microsoft that is modeled on visual basic 
+morality	___ from the latin moralitas manner character proper behavior is the differentiation of intentions decisions and actions between those that are good or right and those that are bad or wrong 
+shetland	___ scottish gaelic sealtainn also called the ___ islands is a subarctic archipelago of scotland that lies north east of the island of great britain and forms part of the united kingdom 
+monmouth	___ welsh trefynwy meaning town on the monnow is a traditional county town in ___ wales 
+burgundy	___ french bourgogne is an administrative and historical region of east central france 
+syntax	___ is linguistic structure above the word level most commonly dealing with how sentences are formed 
+lille	___ dutch rijsel is a city in the north of france 
+jurisdiction	___ from the latin ius meaning law and meaning to speak is the practical authority granted to a formally constituted legal body or to a political leader to deal with and make pronouncements on legal matters and by implication to administer justice within a defined area of responsibility 
+initiation	___ is a rite of passage marking entrance or acceptance into a group or society 
+esso	___ is an international trade name for exxonmobil and its related companies 
+calais	 ___ traditionally dutch kales is a town and major ferry port in northern france in the department of pas de___ of which it is a sub prefecture 
+sparc	___ from scalable processor architecture is a risc instruction set architecture isa developed by sun microsystems and introduced in mid1987 
+johannesburg	___ also known as jozi joburg egoli and joeys and abbreviated as jhb is the largest city in south africa 
+waveney	___ is a local government district in suffolk england named after the river ___ that forms its north west border 
+formaldehyde	___ is a naturally occurring organic compound with the formula ch2o or hcho
+feltham	___ is a suburban town in the london borough of hounslow west london 135 mi west south west of central london and 2 mi south of heathrow airport 
+venus	___ is the second planet from the sun orbiting it every 2247 earth days 
+truetype	___ is an outline font standard developed by apple and microsoft in the late 1980s as a competitor to adobe s type 1 fonts used in postscript 
+resin	___ in the most specific meaning of the term is a hydrocarbon secretion of many plants particularly coniferous trees 
+bodmin	___ cornish bosvena is a civil parish and major town in cornwall england united kingdom 
+arbroath	___ or aberbrothock scottish gaelic is a former royal burgh and the largest town in the council area of angus in scotland and has a population of 22785 
+wizardry	___ is a series of role playing video games developed by sir tech which were highly influential in the evolution of modern console and computer role playing games 
+aspartame	___ apm or is an artificial non saccharide sweetener used as a sugar substitute in some foods and beverages 
+nuneaton	___ is the largest town in the borough of ___ and bedworth and in the english county of warwickshire 
+libido	___ and colloquially sex drive is a person s overall sexual drive or desire for sexual activity 
+stuttering	___ alalia syllabaris also known as stammering alalia literalis or anarthria literalis is a speech disorder in which the flow of speech is disrupted by involuntary repetitions and prolongations of sounds syllables words or phrases as well as involuntary silent pauses or blocks in which the person who stutters is unable to produce sounds 
+spinach	___ spinacia oleracea is an edible flowering plant in the family of amaranthaceae 
+musk	___ is a class of aromatic substances commonly used as base notes in perfumery 
+croats	___ croatian hrvati are a nation and south slavic ethnic group at the crossroads of central europe southeast europe and the mediterranean 
+metallica	___ is an american heavy metal band formed in los angeles california 
+gift	___ internet file transfer ___ is a computer software daemon that allows several file sharing protocols to be used with a simple client having a graphical user interface gui 
+headphones	___ or head phones in the early days of telephony and radio are a pair of small loudspeakers that are designed to be held in place close to a user s ears 
+ordination	___ is the process by which individuals are consecrated that is set apart as clergy to perform various religious rites and ceremonies 
+sugar	___ is the generalized name for sweet short chain soluble carbohydrates many of which are used in food 
+borneo	___ is the third largest island in the world and the largest island of asia 
+fear	 ___ is an emotion induced by a threat perceived by living entities which causes a change in brain and organ function and ultimately a change in behavior such as running away hiding or freezing from traumatic events 
+august	___ is the eighth month of the year between july and september in the julian and gregorian calendars and one of seven months with a length of 31 days 
+cormac	___ is a masculine given name in the irish and english languages 
+lewes	___ is the county town of the administrative county of east sussex england and historically of all of sussex 
+telephony	___ is the field of technology involving the development application and deployment of telecommunication services for the purpose of electronic transmission of voice fax or data between distant parties 
+braunston	___ is a village and civil parish in the county of northamptonshire england 
+reason	___ is the capacity for consciously making sense of things applying logic establishing and verifying facts and changing or justifying practices institutions and beliefs based on new or existing information 
+curling	___ is a sport in which players slide stones on a sheet of ice towards a target area which is segmented into four concentric circles 
+devolution	___ is the statutory granting of powers from the central government of a sovereign state to government at a subnational level such as a regional local or state level 
+alchemy	___ is an influential tradition whose practitioners have from antiquity claimed it to be the precursor to profound powers 
+runcorn	___ is an industrial town and cargo port in halton cheshire 
+dover	___ french douvres is a town and major ferry port in the home county of kent in south east england 
+anthropology	___ is the scientific study of humans past and present that draws and builds upon knowledge from the social sciences life sciences and humanities 
+whitechapel	___ is a district in east london england in the london borough of tower hamlets 
+haworth	___ is a historic village in the ___ cross roads and stanbury civil parish and the city of bradford metropolitan borough of west yorkshire england 
+navigation	___ is a field of study that focuses on the process of monitoring and controlling the movement of a craft or vehicle from one place to another 
+war	___ is a state of armed conflict between autonomous organizations such as states and non state actors or coalitions of such organizations 
+cadw	___ welsh to keepto protect is the historic environment service of the welsh government part of the housing regeneration and heritage department 
+conception	___ or a concept is an abstract idea or a mental symbol 
+airedale	___ is a geographic area in yorkshire england corresponding to the river valley of the river aire pronounced air 
+evesham	___ is a market town and a civil parish in the local authority district of wychavon in the county of worcestershire england with a population of 23576 according to the 2011 census 
+hay	___ is grass legumes or other herbaceous plants that have been cut dried and stored for use as animal fodder particularly for grazing livestock such as cattle horses goats and sheep 
+bonn	___ officially the federal city of ___ is a city on the banks of the rhine in the german state of north rhine westphalia with a population of 311287 within its administrative limits 
+crystallography	 ___ is the experimental science of determining the arrangement of atoms in the crystalline solids see crystal structure 
+cambridgeshire	___ or abbreviated cambs is an east anglian county in england bordering lincolnshire to the north norfolk to the north east suffolk to the east essex and hertfordshire to the south and bedfordshire and northamptonshire to the west 
+aerospace	___ is the human effort in science engineering and business to fly in the atmosphere of earth aeronautics and surrounding space astronautics 
+oldham	___ is a large town in greater manchester england 
+cyan	 ___ or is a greenish blue color and is one of the three primary colors of the subtractive cmyk color model 
+customs	___ is an authority or agency in a country responsible for collecting ___ duties and for controlling the flow of goods including animals transports personal effects and hazardous items into and out of a country 
+montserrat	___ is a british overseas territory located in the caribbean 
+stout	___ is a dark beer made using roasted malt or roasted barley hops water and yeast 
+cher	___ born ___ sarkisian may 20 1946 is an american singer songwriter actress model fashion designer television host comedian dancer businesswoman philanthropist author film producer director and record producer 
+hansard	___ is the traditional name of the transcripts of parliamentary debates in britain and many commonwealth countries 
+dorset	___ or archaically ___ is a county in south west england on the english channel coast 
+excellency	___ is an honorific style given to certain members of an organisation or state 
+amputation	___ is the removal of a body extremity by trauma prolonged constriction or surgery 
+crucifixion	___ is a form of slow and painful execution in which the victim is tied or nailed to a large wooden cross and left to hang until dead 
+pyrotechnics	___ is the science of using materials capable of undergoing self contained and self sustained exothermic chemical reactions for the production of heat light gas smoke andor sound 
+herring	___ are forage fish mostly belonging to the family clupeidae 
+typesetting	___ is the composition of text by means of arranging physical types or the digital equivalents 
+netscape	___ communications formerly known as ___ communications corporation and commonly known as ___ is an american computer services company best known for ___ navigator its web browser 
+basf	___ se is the largest chemical producer in the world and is headquartered in ludwigshafen germany ___ originally stood for badische anilin und soda fabrik english baden aniline and soda factory 
+ruislip	___ is a suburban area of northwest london centred on an old village in greater london and is part of the london borough of hillingdon 
+motorola	___ inc was a multinational telecommunications company based in schaumburg illinois united states us 
+recoil	___ often called knockback kickback or simply kick is the backward momentum of a gun when it is discharged 
+pressure	___ symbol p or p is the force applied perpendicular to the surface of an object per unit area over which that force is distributed 
+alabama	___ is a state located in the southeastern region of the united states 
+minerva	___ etruscan menrva was the roman goddess of wisdom and sponsor of arts trade and strategy 
+virginia	 ___ officially the commonwealth of ___ is a us state located in the south atlantic region of the united states 
+opera	___ english plural ___ italian plural opere is an art form in which singers and musicians perform a dramatic work combining text called a libretto and musical score usually in a theatrical setting 
+retinopathy	___ is due to persistent or acute damage to the retina of the eye 
+column	___ or pillar in architecture and structural engineering is a structural element that transmits through compression the weight of the structure above to other structural elements below 
+siemens	___ ag is a german multinational conglomerate company headquartered in berlin and munich 
+poor	___ is an adjective related to a state of poverty low quality or pity 
+folkestone	___ is a port town located on the english channel in kent south east england 
+canola	___ refers to both an edible oil also known as ___ oil produced from the seed of any of several varieties of the rape plant and to those plants namely a cultivar of either rapeseed brassica napus l or field mustardturnip rape brassica rapa subsp oleifera syn b campestris l 
+shaftesbury	 ___ is a town and civil parish in dorset england 
+competition	 ___ in biology ecology and sociology is a contest between organisms animals individuals groups etc for territory a niche or nation of resources for resources and goods mates for prestige recognition awards or group or social status for more likes on their instagram selfie leadership 
+agriculture	___ is the cultivation of animals plants fungi and other life forms for food fiber biofuel medicinals and other products used to sustain and enhance human life 
+lowestoft	___ or is a town in the english county of suffolk 
+ridicule	___ is a 1996 french film set in the 18th century at the decadent court of versailles where social status can rise and fall based on one s ability to mete out witty insults and avoid ___ oneself 
+exploration	___ is the act of searching for the purpose of discovery of information or resources 
+mathematica	___ is a computational software program used in many scientific engineering ___ and computing fields based on symbolic mathematics 
+bermondsey	___ is a district in south london and a part of the london borough of southwark 
+crux	___ located in the deep southern sky is the smallest yet one of the most distinctive of the 88 modern constellations 
+nes	 ___ is an abbreviation for nintendo entertainment system an 8bit video game console released by nintendo in 1985 
+terrestrial	___ refers to things related to land or the planet earth 
+landing	___ is the last part of a flight where a flying animal aircraft or spacecraft returns to the ground 
+tuberculosis	___ mtb or tb short for tubercle bacillus in the past also called phthisis phthisis pulmonalis or consumption is a widespread and in many cases fatal infectious disease caused by various strains of mycobacteria usually mycobacterium ___ 
+taipei	___ literally means north of taiwan officially known as ___ city is the capital city and a special municipality of taiwan 
+gloucester	___ is a city district and county town of ___ in the south west region of england 
+chennai	___ also known as madras is the capital city of the indian state of tamil nadu 
+fashion	___ is a popular style or practice especially in clothing footwear accessories makeup body piercing or furniture 
+bingley	 ___ is a market town in the metropolitan borough of the city of bradford in west yorkshire england 
+engraving	___ is the practice of incising a design onto a hard usually flat surface by cutting grooves into it 
+torquay	___ is a seaside town in devon england part of the unitary authority area of torbay 
+host	___ masculine and ___ feminine most often refer to a person responsible for guests at an event andor providing hospitality during it or to an event s presenter or master or mistress of ceremonies 
+houston	___ is the most populous city in texas and the fourth most populous city in the united states 
+irrigation	___ is the artificial application of water to the land or soil 
+mackerel	___ is a common name applied to a number of different species of pelagic fish mostly but not exclusively from the family scombridae 
+migraine	___ is a chronic neurological disease characterized by recurrent moderate to severe headaches often in association with a number of autonomic nervous system symptoms 
+dopamine	___ contracted from 34dihydroxyphenethylamine is a hormone and neurotransmitter of the catecholamine and phenethylamine families that plays a number of important roles in the human brain and body 
+conjunctivitis	___ also called pink eye in north america or madras eye in india is inflammation of the conjunctiva the outermost layer of the eye and the inner surface of the eyelids 
+padstow	___ cornish lannwedhenek is a town civil parish and fishing port on the north coast of cornwall england united kingdom 
+camouflage	 ___ is the use of any combination of materials coloration or illumination for concealment either by making animals or objects hard to see crypsis or by disguising them as something else mimesis 
+fertilisation	___ or fertilization also known as conception fecundation and syngamy is the fusion of gametes to initiate the development of a new individual organism 
+compost	___ or is organic matter that has been decomposed and recycled as a fertilizer and soil amendment 
+theology	___ is the systematic and rational study of concepts of god and of the nature of religious ideas or the learned profession acquired by completing specialized training in religious studies usually at a university seminary or school of divinity 
+permaculture	___ is a branch of ecological design ecological engineering environmental design construction and integrated water resources management that develops sustainable architecture regenerative and self maintained habitat and agricultural systems modeled from natural ecosystems 
+moldova	___ officially the republic of ___ romanian republica ___ also known as moldavia is a landlocked country in eastern europe located between romania to its west and ukraine to its north east and south 
+trespass	___ is an area of criminal law or tort law broadly divided into three groups ___ to the person ___ to chattels and ___ to land 
+mirc	___ is an internet relay chat irc client for windows created in 1995 and developed by khaled mardam bey 
+bexleyheath	___ is a suburban district of south east london england in the london borough of bexley 
+torbay	___ is a borough in devon england administered by the unitary authority of ___ council 
+brentford	___ is a town in west london england and part of the london borough of hounslow at the confluence of the river brent and the thames 8 mi west bysouthwest of charing cross 
+brine	___ is a solution of salt usually sodium chloride in water 
+gastroenterology	___ mesh heading is the branch of medicine focused on the digestive system and its disorders 
+meditation	___ is a practice in which an individual trains the mind or induces a mode of consciousness either to realize some benefit or for the mind to simply acknowledge its content without becoming identified with that content or as an end in itself 
+fulham	___ is an area in the london borough of hammersmith and ___ sw6 in southwest london 
+trout	___ is the name for a number of species of freshwater fish belonging to the genera oncorhynchus salmo and salvelinus all of the subfamily salmoninae of the family salmonidae 
+cognac	___ named after the town of ___ in france is a variety of brandy 
+humiliation	___ is the abasement of pride which creates mortification or leads to a state of being humbled or reduced to lowliness or submission 
+induction	___ is a feature for declaring an inductive type and a family of types that depends on the inductive type 
+measurement	___ from old french mesurement is the assignment of numbers to objects or events 
+bracken	___ pteridium is a genus of large coarse ferns in the family dennstaedtiaceae 
+keighley	___ is a town and civil parish within the metropolitan borough of the city of bradford in west yorkshire england 
+opium	___ poppy tears lachryma papaveris is the dried latex obtained from the ___ poppy papaver somniferum 
+patchwork	___ or pieced work is a form of needlework that involves sewing together pieces of fabric into a larger design 
+selenium	___ is a chemical element with symbol se and atomic number
+fowl	___ are birds belonging to one of two biological orders namely the game___ or land___ galliformes and the water___ anseriformes 
+columbus	___ is a latinized version of the italian surname colombo 
+denmark	___ danish danmark is a country in northern europe 
+nationality	___ is the legal relationship between a person and a country 
+tights	___ are a kind of cloth garment most often sheathing the body from the waist to the toe tips with a tight fit hence the name 
+ghent	___ dutch gent french gand is a city and a municipality located in the flemish region of belgium 
+wymondham	___ is an historic market town and civil parish in the english county of norfolk 
+conscription	___ or drafting is the compulsory enlistment of people in a national service most often a military service 
+panzer	___ is a german language word that means either tank the military vehicle or armour 
+walthamstow	___ or is a large suburban district of north east london england and the administrative headquarters of the london borough of waltham forest 
+manufacturing	___ is the production of merchandise for use or sale using labour and machines tools chemical and biological processing or formulation 
+trotskyism	___ is the theory of marxism as advocated by leon trotsky 
+twinkling	___ or scintillation is a generic term for variations in apparent brightness or position of a distant luminous object viewed through a medium 
+coda	___ can denote any concluding event summation or section 
+somerset	___ or is a county in south west england which borders gloucestershire to the north wiltshire to the east dorset to the south east and devon to the south west 
+frankfurt	___ am main is the largest city in the german state of hesse and the fifth largest city in germany with a population of 701350 2013 within its administrative boundaries 
+zinc	___ in commerce also spelter is a chemical element with symbol zn and atomic number 30 
+gravel	___ is composed of unconsolidated rock fragments that have a general particle size range and include size classes from granule to boulder sized fragments 
+thurrock	___ is a unitary authority area with borough status in the english ceremonial county of essex 
+looting	___ also referred to as sacking plundering despoiling despoliation and pillaging is the indiscriminate taking of goods by force as part of a military or political victory or during a catastrophe such as war natural disaster or rioting 
+batley	___ is a town in the metropolitan borough of kirklees west yorkshire england 
+popcorn	___ also known as popping corn is a type of corn maize zea mays var everta that expands from the kernel and puffs up when heated 
+dust	___ consists of particles in the atmosphere that come from various sources such as soil ___ lifted by weather an aeolian process volcanic eruptions and pollution 
+asparagus	___ or garden ___ scientific name ___ officinalis is a spring vegetable a flowering perennial plant species in the genus ___ 
+ericsson	___ telefonaktiebolaget l m ___ is a swedish multinational provider of communications technology and services 
+elegance	 ___ is a synonym for beauty that has come to acquire the additional connotations of unusual effectiveness and simplicity 
+cbs	___ corporate name ___ broadcasting inc is an american commercial broadcast television network which started as a radio network it continues to operate a radio network and a portfolio of television and radio stations in large and mid sized markets 
+stephenson	___ is a medieval patronymic surname meaning son of stephen 
+stromness	___ is the second most populated town in orkney scotland 
+nature	 ___ in the broadest sense is equivalent to the natural physical or material world or universe 
+athlon	___ is the brand name applied to a series of x86compatible microprocessors designed and manufactured by advanced micro devices amd 
+peregrine	___ latin peregrinus is a name originally meaning one from abroad that is a foreigner traveller or pilgrim 
+proquest	___ llc is an ann arbor michigan based global information content and technology company founded in 1938 as university microfilms 
+missouri	___ see pronunciations is a state located in the midwestern united states 
+burma	___ officially the republic of the union of myanmar commonly shortened to myanmar or is a sovereign state in southeast asia bordered by bangladesh india china laos and thailand 
+ketchup	___ or or catsup is a table sauce 
+caernarfon	___ is a royal town community and port in gwynedd wales with a population of 9615 this figure does not include nearby bontnewydd or caeathro as they are in separate communities 
+finance	___ is a field that deals with the allocation of assets and liabilities over time under conditions of certainty and uncertainty 
+extradition	___ is the official process whereby one country transfers a suspected or convicted criminal to another country 
+ethanol	___ also commonly called alcohol spirits ethyl alcohol and drinking alcohol is the principal type of alcohol found in alcoholic beverages produced by the fermentation of sugars by yeasts 
+cleveland	___ is a city in the state of ohio and is the county seat of cuyahoga county the most populous county in the state 
+flanders	___ dutch vlaanderen french flandre today normally refers to the dutch speaking northern portion of belgium 
+perfume	___ or parfum is a mixture of fragrant essential oils or aroma compounds fixatives and solvents used to give the human body animals food objects and living spaces a pleasant scent 
+art	___ is a diverse range of human activities and the products of those activities usually involving imaginative or technical skill 
+tungsten	 ___ also known as wolfram is a chemical element with symbol w and atomic number 74 
+spectroscopy	 ___ is the study of the interaction between matter and radiated energy 
+texaco	___ the texas company is the name of an american oil retail brand 
+aspirin	___ ban usan also known as acetylsalicylic acid asa is a salicylate drug often used as an analgesic to relieve minor aches and pains as an antipyretic to reduce fever and as an anti inflammatory medication 
+nemo	___ is a latin word meaning no man or no one 
+peckham	___ is a district in south east london within the london borough of southwark 
+consumerism	___ is a social and economic order and ideology that encourages the acquisition of goods and services in ever greater amounts 
+merseyside	___ is a metropolitan county in north west england with a population of 138 million 
+dissipation	___ is the result of an irreversible process that takes place in inhomogeneous thermodynamic systems 
+fresco	___ plural ___ or ___ is a technique of mural painting executed upon freshly laid or wet lime plaster 
+filtration	___ is commonly the mechanical or physical operation which is used for the separation of solids from fluids liquids or gases by interposing a medium through which only the fluid can pass 
+health	___ is the level of functional or metabolic efficiency of a living organism 
+paddington	___ is an area within the city of westminster in central london 
+hogmanay	___ scots scottish english is the scots word for the last day of the year and is synonymous with the celebration of the new year gregorian calendar in the scottish manner 
+poaching	___ has traditionally been defined as the illegal hunting killing or capturing of wild animals usually associated with land use rights 
+prefect	___ from the latin praefectus perfect passive participle of praeficere make in front ie put in charge is a magisterial title of varying definition but which basically refers to the leader of an administrative area 
+light	___ usually refers to visible ___ which is electromagnetic radiation that is visible to the human eye and is responsible for the sense of sight 
+colonel	___ abbreviated col col or col is a senior military officer rank below the general officer ranks 
+modesty	___ is a mode of dress and deportment intended to avoid encouraging sexual attraction in others actual standards vary widely 
+weber	___ or german is a surname of german origin derived from the noun meaning weaver 
+optometry	___ is a healthcare profession concerned with the eyes and related structures as well as vision visual systems and vision information processing in humans 
+politeness	___ is the practical application of good manners or etiquette 
+parenting	___ or child rearing is the process of promoting and supporting the physical emotional social financial and intellectual development of a child from infancy to adulthood 
+pink	___ is a pale red color which takes its name from the flower of the same name 
+romford	___ is a large urban area in northeast london united kingdom and the administrative headquarters of the london borough of havering 
+northamptonshire	___ or abbreviated northants is a county in the east midlands of england 
+tobacco	___ is a plant within the genus nicotiana of the solanaceae nightshade family 
+hereford	___ is a cathedral city civil parish and county town of ___ england 
+pimlico	___ is a small area of central london in the city of westminster 
+haggis	___ is a savoury pudding containing sheep s pluck heart liver and lungs minced with onion oatmeal suet spices and salt mixed with stock traditionally encased in the animal s stomach and nowadays often in an artificial casing 
+lima	 ___ is the capital and the largest city of peru 
+radiography	___ is an imaging technique that uses electromagnetic radiation other than visible light especially x rays to view the internal structure of a non uniformly composed and opaque object ie a non transparent object of varying density and composition such as the human body 
+triple	___ a doublet of treble or threefold from latin triplus ___ cf double from duplus is used in several contexts teletubbies teletubbies is a british bbc children s television series targeted at pre school viewers and produced from 31 march 1997 to 16 february 2001 by ragdoll productions 
+bideford	___ is a historic port town on the estuary of the river torridge in north devon south west england 
+nigeria	___ officially the federal republic of ___ is a federal constitutional republic comprising 36 states and its federal capital territory abuja 
+insulin	 ___ from the latin insula meaning island is a peptide hormone produced by beta cells in the pancreas 
+tallow	___ is a rendered form of beef or mutton fat processed from suet 
+scratching	___ sometimes referred to as scrubbing is a dj and turntablist technique used to produce distinctive sounds by moving a vinyl record back and forth on a turntable while optionally manipulating the crossfader on a dj mixer 
+postgresql	___ often simply postgres is an object relational database management system ordbms with an emphasis on extensibility and standards compliance 
+republicanism	___ is the ideology of governing a society or state as a republic la res publica where the head of state is a representative of the people who hold popular sovereignty rather than the people being subjects of the head of state 
+harlequin	___ italian arlecchino french arlequin is the most well known of the zanni or comic servant characters from the italian commedia dellarte 
+traffic	___ on roads may consist of pedestrians ridden or herded animals vehicles streetcars buses and other conveyances either singly or together while using the public way for purposes of travel 
+wakefield	___ is a city and the main settlement and administrative centre of the city of ___ a metropolitan district of west yorkshire england 
+appetite	___ is the desire to eat food felt as hunger 
+cheltenham	___ also known as ___ spa is a large spa town and borough in gloucestershire england located on the edge of the cotswolds 
+atlanta	 ___ locally is the capital of and the most populous city in the us state of georgia with an estimated 2013 population of 447841 
+vi	___ is a screen oriented text editor originally created for the unix operating system 
+east	___ is a noun adjective or adverb indicating direction or geography 
+vortigern	___ welsh gwrtheyrn old english wyrtgeorn breton guorthigern irish foirtchern also spelled vortiger and vortigen was a 5th century warlord in britain a leading ruler among the britons 
+judgement	 ___ or judgment is the evaluation of evidence to make a decision 
+stratigraphy	___ is a branch of geology which studies rock layers strata and layering stratification 
+capacitance	___ is the ability of a body to store an electrical charge 
+castleford	___ is the largest of the five towns in the metropolitan borough of the city of wakefield in west yorkshire england near the m62 motorway 
+chlorophyll	___ also chlorophyl is a term used for several closely related green pigments found in cyanobacteria and the chloroplasts of algae and plants 
+suede	___ is a type of leather with a napped finish commonly used for jackets shoes shirts purses furniture and other items 
+ulysses	___ is derived from ulixes the latin name for odysseus a character in ancient greek literature 
+mclaren	___ racing limited trading as ___ honda is a british formula one team based at the ___ technology centre woking surrey england 
+deforestation	___ clearance or clearing is the removal of a forest or stand of trees where the land is thereafter converted to a non forest use 
+botswana	___ officially the republic of ___ tswana lefatshe la ___ is a landlocked country located in southern africa 
+limerick	___ or irish luimneach is a city in ireland 
+islington	___ is a district in greater london england and part of the london borough of ___ 
+surrey	___ is a british county in the south east of england and one of the home counties 
+forgetting	___ retention loss refers to apparent loss or modification of information already encoded and stored in an individual s long term memory 
+breakfast	___ is the first meal taken after rising from a night s sleep most often eaten in the early morning before undertaking the day s work 
+scrapie	___ is a fatal degenerative disease that affects the nervous systems of sheep and goats 
+southwark	___ is a district of central london and part of the london borough of ___ 
+karst	___ topography is a landscape formed from the dissolution of soluble rocks such as limestone dolomite and gypsum 
+battersea	___ is a largely residential inner city district of south london in the london borough of wandsworth england 
+premier	___ is a title for the head of government in some countries states and sub national governments 
+bullshit	___ also bullcrap is a common english expletive which may be shortened to the euphemism bull or the initialism bs
+cream	___ is a dairy product that is composed of the higher butterfat layer skimmed from the top of milk before homogenization 
+stepney	___ is a district of the london borough of tower hamlets in london s east end that grew out of a medieval village around st dunstan s church and the 15th century ribbon development of mile end road 
+guildford	___ is the county town of surrey england and the seat of the borough of ___ 
+hove	___ is a town on the south coast of england immediately to the west of its larger neighbour brighton with which it forms the unitary authority brighton and ___ 
+granada	___ is a city and the capital of the province of ___ in the autonomous community of andalusia spain 
+oscillation	___ is the repetitive variation typically in time of some measure about a central value often a point of equilibrium or between two or more different states 
+lumber	___ american english or timber british english hiberno english new zealand english and australian english is wood that has been processed into beams and planks a stage in the process of wood production 
+evangelicalism	___ or evangelical protestantism is a worldwide transdenominational movement within protestantism maintaining that the essence of the gospel consists in the doctrine of salvation by grace through faith in jesus christ s atonement 
+totnes	 ___ or is a market town and civil parish at the head of the estuary of the river dart in devon england within the south devon area of outstanding natural beauty 
+kenya	___ or officially the republic of ___ is a country in africa 
+scouting	___ or the scout movement is a movement that aims to support older people in their physical mental and spiritual development that they may play constructive roles in society with a strong focus on the outdoors and survival skills 
+silt	___ is granular material of a size somewhere between sand and clay whose mineral origin is quartz and feldspar 
+rockabilly	___ is one of the earliest styles of rock and roll music dating to the early 1950s in the united states especially the south 
+hysteria	___ in its colloquial use describes unmanageable emotional excesses 
+plains	___ is the plural of plain a geographical feature that is flat or gently rolling 
+fax	___ short for facsimile sometimes called telecopying or tele___ is the telephonic transmission of scanned printed material both text and images normally to a telephone number connected to a printer or other output device 
+utilitarianism	___ is a theory in normative ethics holding that the moral action is the one that maximizes utility 
+television	___ tv is a telecommunication medium that is used for transmitting and receiving moving images and sound 
+perjury	___ also known as forswearing is the intentional act of swearing a false oath or of falsifying an affirmation to tell the truth whether spoken or in writing concerning matters material to an official proceeding 
+clothing	___ is fiber and textile material worn on the body 
+atari	___ from a japanese verb meaning to hit the target is a corporate and brand name owned by several entities since its inception in 1972 currently by ___ interactive a subsidiary of the french publisher ___ sa asa 
+anatomy	___ is the branch of biology concerned with the study of the structure of organisms and their parts it is mainly divided into zootomy and phytotomy 
+sorting	___ is any process of arranging items according to a certain sequence or in different sets and therefore it has two common yet distinct meanings ___ information or data 
+northumberland	___ pronounced is a county in north east england 
+being	___ is an extremely broad concept encompassing objective and subjective features of reality and existence 
+haiku	___ haikai verse plural same or ___ is a very short form of japanese poetry 
+cyrus	___ is an english transliteration of the persian name kourosh 
+stride	___ can stand for a period of locomotion defined by the complete cycle of a reference limb see gait 
+cumin	 ___ or sometimes spelled cummin ___ cyminum also known as zeera is a flowering plant in the family apiaceae native from the east mediterranean to india 
+glycogen	___ is a multibranched polysaccharide of glucose that serves as a form of energy storage in animals and fungi 
+time	___ is a measure in which events can be ordered from the past through the present into the future and also the measure of durations of events and the intervals between them 
+finchley	___ is an area of north london england in the london borough of barnet 
+sirius	___ is the brightest star in fact a star system in the earth s night sky 
+forgery	___ is the process of making adapting or imitating objects statistics or documents with the intent to deceive or earn profit by selling the forged item 
+zenith	___ refers to an imaginary point directly above a particular location on the imaginary celestial sphere above means in the vertical direction opposite to the apparent gravitational force at that location 
+surrealism	___ is a cultural movement that began in the early 1920s and is best known for its visual artworks and writings 
+koi	___ or more specifically nishikigoi literally brocaded carp are a group of fish that are ornamental varieties of domesticated common carp cyprinus carpio that are kept for decorative purposes in outdoor ___ ponds or water gardens 
+comics	___ is a medium used to express ideas via images often combined with text or other visual information 
+huntingdonshire	___ or abbreviated hunts is a non metropolitan district of cambridgeshire as well as a historic county of england 
+bahia	___ is one of the 26 states of brazil and is located in the eastern part of the country on the atlantic coast 
+pleasure	___ describes the broad class of mental states that humans and other animals experience as positive enjoyable or worth seeking 
+behavior	___ or behaviour see spelling differences is the range of actions and mannerisms made by individuals organisms systems or artificial entities in conjunction with themselves or their environment which includes the other systems or organisms around as well as the inanimate physical environment 
+wellington	___ is the capital city and second most populous urban area of new zealand with 393600 residents 
+webmail	___ or web based email is any email client implemented as a web application running on a web server 
+bronze	___ is an alloy consisting primarily of copper and other metals 
+cheerleading	___ ranges from yelling to intense physical activity for sports team motivation audience entertainment or competition based upon organized routines 
+surveying	___ or land ___ is the technique profession and science of accurately determining the terrestrial or three dimensional position of points and the distances and angles between them commonly practiced by surveyors and members of various engineering professions 
+folklore	___ or lore consists of legends music oral history proverbs jokes popular beliefs fairy tales stories tall tales and customs included in the traditions of a culture subculture or group 
+xenophobia	___ is the unreasoned fear of that which is perceived to be foreign or strange 
+brisbane	___ is the capital and most populous city in the australian state of queensland and the third most populous city in australia 
+aldeburgh	___ is a coastal town in the english county of suffolk 
+vanity	___ is the excessive belief in one s own abilities or attractiveness to others 
+msn	___ originally the microsoft network stylized as ___ is a collection of internet websites and services provided by microsoft 
+stewardship	___ is an ethic that embodies the responsible planning and management of resources 
+dakar	___ is the capital and largest city of senegal 
+normandy	___ french normandie pronounced norman nourmaundie from old french normanz plural of normant originally from the word for northman in several scandinavian languages is a geographical region of france corresponding to the former duchy of ___ 
+itn	___ independent television news is a british based news and content provider 
+leprosy	___ also known as hansen s disease hd is a chronic infection caused by the bacteria 
+walkman	___ is a sony brand tradename originally used for portable audio cassette players and now used to market sony s portable audio and video players as well as a line of former sony ericsson mobile phones 
+adsorption	___ is the adhesion of atoms ions or molecules from a gas liquid or dissolved solid to a surface 
+spice	___ simulation program with integrated circuit emphasis is a general purpose open source analog electronic circuit simulator 
+dose	___ means quantity in the fields of nutrition medicine and toxicology 
+vertigo	___ is the sensation of spinning or having the room spin about you 
+intercity	___ or inter city means between cities 
+emotion	___ one s state of mind and instinctive responses is often intertwined with mood temperament personality disposition and motivation 
+spyware	___ is software that aids in gathering information about a person or organization without their knowledge and that may send such information to another entity without the consumer s consent or that asserts control over a computer without the consumer s knowledge ___ is mostly classified into four types system monitors trojans adware and tracking cookies 
+wool	___ is the textile fiber obtained from sheep and certain other animals including cashmere from goats mohair from goats qiviut from muskoxen angora from rabbits and other types of ___ from camelids 
+colonization	___ or colonisation occurs whenever there is a large scale migration of any one or more groups of people to a colonial area 
+commonwealth	___ is a traditional english term for a political community founded for the common good 
+wisbech	___ is a market town inland port and civil parish with a population of 31573 in the fens of cambridgeshire england 
+psychosis	 ___ refers to an abnormal condition of the mind and is a generic psychiatric term for a mental state often described as involving a loss of contact with reality 
+chelmsford	___ is the principal settlement of the city of ___ and the county town of essex in the east of england 
+carp	___ are various species of oily freshwater fish of the family cyprinidae a very large group of fish native to europe and asia 
+corporal	___ is a military rank in use in some form by most militaries and by some police forces or other uniformed organizations 
+philology	___ is the study of language in written historical sources it is a combination of literary criticism history and linguistics 
+norfolk	___ is a low lying county in the east of england 
+heartburn	___ also known as pyrosis cardialgia or acid indigestion is a burning sensation in the chest just behind the breastbone or in the epigastrium the upper central abdomen 
+quorn	___ is a major meat substitute product within the uk and ireland 
+hue	 ___ is one of the main properties of a color defined technically in the ciecam02 model as the degree to which a stimulus can be described as similar to or different from stimuli that are described as red green blue and yellow the unique ___ 
+aviation	___ is the practical aspect or art of aeronautics being the design development production operation and use of aircraft especially heavier thanair aircraft 
+prejudice	___ is prejudgment or forming an opinion before becoming aware of the relevant facts of a case 
+florence	___ italian firenze alternative obsolete form fiorenza latin florentia is the capital city of the italian region of tuscany and of the province of ___ 
+penicillin	___ sometimes abbreviated pcn or pen is a group of antibiotics derived from penicillium fungi including ___ g intravenous use ___ v oral use procaine ___ and benzathine ___ intramuscular use 
+holyhead	___ welsh caergybi cybi s fort is the largest town in the county of anglesey in wales 
+marshalls	___ inc is a chain of american off price department stores owned by tjx companies 
+thx	___ limited ___ ltd is a high fidelity audiovisual reproduction standard for movie theaters screening rooms home theaters computer speakers gaming consoles and car audio systems 
+dessert	___ is a typically sweet course that concludes an evening meal 
+indonesia	___ or officially the republic of ___ ___ republik ___ is a sovereign state in southeast asia and oceania 
+nortel	___ networks corporation formerly known as northern telecom limited and sometimes known simply as ___ was a multinational telecommunications and data networking equipment manufacturer headquartered in mississauga ontario canada 
+flamenco	___ is a form of spanish folk music and dance from the region of andalusia in southern spain 
+cholera	___ is an infection of the small intestine caused by the bacterium vibrio ___ 
+mining	___ is the extraction of valuable minerals or other geological materials from the earth from an orebody lode vein seam or reef which forms the mineralized package of economic interest to the miner 
+barbecue	___ also barbeque bbq and barbybarbies is a cooking method and apparatus 
+vaio	___ corporation standing for visual audio intelligent organizer is a manufacturer of personal computers 
+margarine	___ or is an imitation butter spread used for spreading baking and cooking 
+banbury	___ is a market town and civil parish on the river cherwell in the cherwell district of oxfordshire 
+faith	___ is defined as confidence or trust in a being object living organism deity view or in the doctrines or teachings of a religion 
+xxxx	___ pronounced fourex is a brand of australian beer brewed in milton brisbane by queensland brewers castlemaine perkins now a division of the japanese owned company lion nathan 
+cannabis	___ is a genus of flowering plants that includes three different species ___ sativa ___ indica and ___ ruderalis 
+discourse	 ___ from discursus meaning running to and from denotes written and spoken communications such as 
+snow	___ is precipitation in the form of flakes of crystalline water ice that falls from clouds 
+dollar	___ often represented by the peso and ___ sign is the name of several currencies including those of australia belize brunei canada hong kong namibia new zealand singapore suriname taiwan the united states and previously zimbabwe 
+tanzania	___ officially the united republic of ___ swahili jamhuri ya muungano wa ___ is a country in east africa within the african great lakes region 
+gynaecology	___ or gynecology is the medical practice dealing with the health of the female reproductive systems vagina uterus and ovaries and the breasts 
+heraldry	___ is the profession study or art of creating granting and blazoning arms and ruling on questions of rank or protocol as exercised by an officer of arms ___ comes from anglo norman herald from the germanic compound harja waldaz army commander 
+rye	___ secale cereale is a grass grown extensively as a grain a cover crop and as a forage crop 
+eindhoven	___ is a municipality and a city located in the province of north brabant in the south of the netherlands originally at the confluence of the dommel and gender streams 
+dada	___ or ___ was an art movement of the european avant garde in the early 20th century 
+mumbai	___ also known as bombay is the capital city of the indian state of maharashtra 
+airport	___ is the name given to a series of products by apple inc using the wi fi protocols 80211b 80211g 80211n and 80211ac 
+dunkirk	___ french dunkerque dutch duinkerken is a commune in the nord department in northern france 
+medicine	___ uk english us english is the science or practice of the diagnosis treatment and prevention of disease 
+jewellery	___ or jewelry is small decorative items worn for personal adornment such as brooches rings necklaces earrings and bracelets 
+vast	___ is an american alternative rock band based in seattle washington 
+wisconsin	___ is a us state located in the north central united states in the midwest and great lakes regions 
+pudding	___ is usually a dessert but it can also be a savory dish 
+artemis	___ was one of the most widely venerated of the ancient greek deities 
+barrie	___ is a city in central ontario canada on the western shore of lake simcoe 
+peacekeeping	___ refers to activities that tend to create conditions that favor lasting peace 
+diffraction	___ refers to various phenomena which occur when a wave encounters an obstacle or a slit 
+secularism	___ is the principle of the separation of government institutions and persons mandated to represent the state from religious institutions and religious dignitaries 
+leadership	___ has been described as a process of social influence in which a person can enlist the aid and support of others in the accomplishment of a common task 
+worcestershire	___ or abbreviated worcs or in some older sources wigorn is a non metropolitan county in the west midlands region of england 
+poliomyelitis	___ often called polio or infantile paralysis is an infectious disease caused by the poliovirus 
+shellfish	___ is a culinary and fisheries term for exoskeleton bearing aquatic invertebrates used as food including various species of molluscs crustaceans and echinoderms 
+blackadder	___ is the name that encompasses four series of a bbc 1 period british sitcom along with several one off instalments 
+alaska	___ is a us state situated in the northwest extremity of the north american continent 
+cinnamon	___ is a spice obtained from the inner bark of several trees from the genus cinnamomum that is used in both sweet and savoury foods 
+rca	___ corporation founded as the radio corporation of america was an american electronics company in existence from 1919 to 1986 when general electric took over the company in 1985 and split it up the following year 
+ecotourism	___ is a form of tourism involving visiting fragile pristine and relatively undisturbed natural areas intended as a low impact and often small scale alternative to standard commercial mass tourism 
+categorization	___ is the process in which ideas and objects are recognized differentiated and understood 
+acetate	___ is a negative ion or anion typically found in aqueous solution 
+putney	 ___ is a district in south west london england in the london borough of wandsworth 
+jupiter	___ is the fifth planet from the sun and the largest planet in the solar system 
+insomnia	___ or sleeplessness is a sleep disorder in which there is an inability to fall asleep or to stay asleep as long as desired 
+charmed	___ is an american television series created by constance m burge and produced by aaron spelling and his production company spelling television with brad kern serving as showrunner 
+matlab	___ matrix laboratory is a multi paradigm numerical computing environment and fourth generation programming language 
+uxbridge	___ is a town in west london england and the administrative headquarters of the london borough of hillingdon 
+hollywood	___ is a district in the central region of los angeles california in the united states 
+scalability	___ is the ability of a system network or process to handle a growing amount of work in a capable manner or its ability to be enlarged to accommodate that growth 
+midlothian	___ scots midlowden scottish gaelic meadhan lodainn is one of the 32 council areas of scotland 
+kenton	___ is an area in northwest london england partly in the london borough of harrow and partly in the london borough of brent 
+astrology	___ consists of several pseudoscientific systems of divination based on the premise that there is a relationship between astronomical phenomena and events in the human world 
+deception	___ beguilement deceit bluff mystification and subterfuge are acts to propagate beliefs of things that are not true or not the whole truth as in half truths or omission 
+ceredigion	___ is a county in mid wales 
+railtrack	___ was a group of companies that owned the track signalling tunnels bridges level crossings and all but a handful of the stations of the british railway system from 1994 until 2002 
+highgate	___ or is a suburban area of north london at the north eastern corner of hampstead heath 45 mi north north west of charing cross 
+curry	___ plural curries is a dish whose origins are in south and southeast asian cuisines 
+plankton	___ singular plankter are a diverse group of organisms that live in the water column and can not swim against a current 
+kentucky	___ officially the commonwealth of ___ is a state located in the east south central region of the united states 
+frodsham	___ is a market town and civil parish in the unitary authority of cheshire west and chester and the ceremonial county of cheshire england 
+divorce	 ___ or the dissolution of marriage is the termination of a marital union the canceling andor reorganizing of the legal duties and responsibilities of marriage thus dissolving the bonds of matrimony between a married couple under the rule of law of the particular country andor state 
+paintball	___ is a sport in which players compete in teams or individually to eliminate opponents by tagging them with capsules containing water soluble dye and featuring a gelatin outer shell referred to as ___ propelled from a device called a ___ marker commonly referred to as a ___ gun 
+chester	___ is a city in cheshire england 
+spirituality	___ is a process of personal transformation either in accordance with traditional religious ideals or increasingly oriented on subjective experience and psychological growth independently of any specific religious context 
+automation	___ or automatic control is the use of various control systems for operating equipment such as machinery processes in factories boilers and heat treating ovens switching in telephone networks steering and stabilization of ships aircraft and other applications with minimal or reduced human intervention 
+whitehall	___ is a road in the city of westminster in central london which forms the first part of the a3212 road from trafalgar square to chelsea 
+acupuncture	___ from latin acus needle punctura to puncture is the stimulation of specific ___ points along the skin of the body using thin needles 
+quito	___ formally san francisco de ___ is the capital city of ecuador and at an elevation of 9350 feet 2800 meters above sea level it is the highest official capital city in the world 
+logistics	___ is the management of the flow of goods between the point of origin and the point of consumption in order to meet some requirements of customers or corporations 
+dieting	___ is the practice of eating food in a regulated and supervised fashion to decrease maintain or increase body weight 
+mons	___ dutch bergen mountains picard mont is a belgian city and municipality and the capital of the province of hainaut 
+ontario	 ___ is one of the ten provinces of canada located in east central canada 
+economics	___ is the social science that studies economic activity to gain an understanding of the processes that govern the production distribution and consumption of goods and services in an economy 
+glass	___ is an amorphous non crystalline solid material which is often transparent and has widespread practical technological and decorative usage in things like window panes tableware and optoelectronics 
+huddersfield	___ is a large market town and is the largest settlement in the metropolitan borough of kirklees west yorkshire england 
+fandom	___ consisting of fan fanatic plus the suffix dom as in kingdom is a term used to refer to a subculture composed of fans characterized by a feeling of empathy and camaraderie with others who share a common interest 
+perthshire	___ officially the county of perth scottish gaelic siorrachd pheairt is a registration county in central scotland 
+whitby	___ is a seaside town port and civil parish in the borough of scarborough and english county of north yorkshire 
+grilling	___ is a form of cooking that involves dry heat applied to the surface of food commonly from above or below as in north america 
+central	___ is an adjective usually referring to being in the center 
+irix	___ is the operating system developed by silicon graphics inc sgi to run natively on their mips workstations and servers 
+borland	___ software corporation is a software company that facilitates software deployment projects 
+damnation	___ from latin damnatio is the concept of divine punishment and torment in an afterlife for actions committed on earth 
+space	___ is the boundless three dimensional extent in which objects and events have relative position and direction 
+santiago	___ also ___ de chile is the capital and largest city of chile 
+radiohead	___ are an english rock band from abingdon oxfordshire formed in 1985 
+chromium	___ is a chemical element with symbol cr and atomic number 24 
+serotonin	___ or 5hydroxytryptamine 5ht is a monoamine neurotransmitter 
+biosecurity	___ has multiple meanings and is defined differently according to various disciplines 
+cardiff	___ welsh is the capital and largest city in wales and the tenth largest city in the united kingdom 
+divination	___ from latin divinare to foresee to be inspired by a god related to divinus divine is the attempt to gain insight into a question or situation by way of an occultic standardized process or ritual 
+snooker	___ or is a cue sport that is typically played on a table covered with a green cloth or baize with pockets at each of the four corners and in the middle of each of the long side cushions 
+midi	___ short for musical instrument digital interface is a technical standard that describes a protocol digital interface and connectors and allows a wide variety of electronic musical instruments computers and other related devices to connect and communicate with one another 
+corrosion	___ is the gradual destruction of materials usually metals by chemical reaction with their environment 
+arabidopsis	___ rockcress is a genus in the family brassicaceae 
+internment	___ is the imprisonment or confinement of people commonly in large groups without trial 
+uttoxeter	___ or sometimes locally is a market town in staffordshire england 
+sadness	___ is emotional pain associated with or characterized by feelings of disadvantage loss despair helplessness and sorrow 
+grouse	 ___ are a group of birds from the order galliformes in the family phasianidae 
+bilbao	 ___ basque bilbo is one of the 25 boroughs in the greater ___ comarca in northern spain 
+pepsi	___ stylized in lowercase as ___ formerly stylized in uppercase as ___ is a carbonated soft drink that is produced and manufactured by ___ 
+kirkcudbright	___ scottish gaelic cille chuithbeirt is a town and parish in ___ of which it is traditionally the county town within the dumfries and galloway region of scotland 
+malaria	___ is a mosquito borne infectious disease of humans and other animals caused by parasitic protozoans a group of single celled microorganism belonging to the genus plasmodium 
+multimedia	___ refers to content that uses a combination of different content forms 
+econometrics	___ is the application of mathematics statistical methods and computer science to economic data and is described as the branch of economics that aims to give empirical content to economic relations 
+ulverston	___ is a market town and civil parish in the south lakeland district of cumbria in north west england 
+autumn	___ interchangeably known as fall in north america is one of the four temperate seasons 
+kansas	___ is a us state located in the midwestern united states 
+cromarty	 ___ cromba in gaelic is a town civil parish and former royal burgh in ross and ___ in the highland area of scotland 
+paracetamol	___ or also known as acetaminophen or apap chemically named n acetylpaminophenol is a widely used over thecounter analgesic pain reliever and antipyretic fever reducer 
+spades	___ is a trick taking card game devised in the united states in the 1930s 
+bournemouth	 ___ is a large coastal resort town on the south coast of england directly to the east of the jurassic coast a 95 mi world heritage site 
+luton	___ is a large town borough and unitary authority area of bedfordshire england 30 mi north of london 
+toronto	___ is the most populous city in canada and the provincial capital of ontario 
+lycos	___ inc is a search engine and web portal established in 1994 
+newquay	___ cornish tewynblustri is a town civil parish seaside resort and fishing port in cornwall england 
+spelling	___ according to coulmas 1996 477 is the conventions which determine how the graphemes of a writing system are used to write a language 
+poverty	___ is general scarcity or or the state of one who lacks a certain amount of material possessions or money 
+dagenham	___ is a large suburb of east london england 
+masculinity	___ also called manliness or manhood is a set of attributes behaviors and roles generally associated with boys and men 
+digestion	___ is the breakdown of food into smaller components that can be more easily absorbed and assimilated by the body 
+obstetrics	___ from the latin obstare to stand by is the health profession or medical specialty that deals with pregnancy childbirth and postpartum period including care of the newborn 
+yule	___ or ___ ___ time is a religious festival observed by the historical germanic peoples later undergoing christianised reformulation resulting in the now better known christmastide 
+etiquette	___ or is a code of behavior that delineates expectations for social behavior according to contemporary conventional norms within a society social class or group 
+harwich	___ is a town in essex england and one of the haven ports located on the coast with the north sea to the east 
+excalibur	___ or caliburn is the legendary sword of king arthur sometimes attributed with magical powers or associated with the rightful sovereignty of great britain 
+roehampton	___ is a suburban district in south west london forming the western end of the london borough of wandsworth 
+wine	___ is an alcoholic beverage made from fermented grapes or other fruits 
+starfish	___ or sea stars are star shaped echinoderms belonging to the class asteroidea 
+granite	___ is a common type of felsic intrusive igneous rock which is granular and phaneritic in texture 
+enthalpy	___ is a defined thermodynamic potential designated by the letter h that consists of the internal energy of the system u plus the product of pressure p and volume v of the system since u p and v are all functions of the state of the thermodynamic system ___ is a state function 
+wapping	___ is a district in east london england in the london borough of tower hamlets 
+commando	___ is a soldier or operative of an elite light infantry or special operations force often specializing in amphibious landings parachuting or abseiling 
+propane	___ is a three carbon alkane with the molecular formula c3h8 normally a gas but compressible to a transportable liquid 
+sunset	___ or sundown is the daily disappearance of the sun below the western horizon as a result of earth s rotation 
+exxon	___ is a brand of motor fuel and related products by ___ 
+dance	___ is the art of movement of the body usually rhythmically and to music using prescribed or improvised steps and gestures 
+parallax	___ is a displacement or difference in the apparent position of an object viewed along two different lines of sight and is measured by the angle or semi angle of inclination between those two lines 
+regeneration	___ is renewal through the internal processes of a body or system 
+metastasis	___ or metastatic disease is the spread of a cancer or disease from one organ or part to another not directly connected with it 
+fluorescence	___ is the emission of light by a substance that has absorbed light or other electromagnetic radiation 
+tolerance	___ or toleration to tolerate or put up with conditionally also to suggest a fair objective and permissive attitude toward those whose opinions practices race religion nationality etc 
+plymouth	___ is a city and unitary authority area on the south coast of devon england about 37 mi south west of exeter and about 190 mi south west of london 
+manganese	___ is a chemical element with symbol mn and atomic number 25 
+bison	___ sometimes erroneously called buffalo are large even toed ungulates in the genus ___ within the subfamily bovinae 
+skiing	___ is a recreational activity and competitive winter sport in which the participant uses skis to glide on snow 
+mead	___ archaic and dialectal medd from old english meodu is an alcoholic beverage created by fermenting honey with water and in adulterated form with various fruits spices grains or hops 
+limehouse	___ is a district in east london england in the london borough of tower hamlets 
+anthrax	___ is an acute disease caused by the bacterium bacillus anthracis 
+arson	___ is the crime of intentionally and maliciously setting fire to buildings wildland areas vehicles or other property with the intent to cause damage 
+graphite	___ is made almost entirely of carbon atoms and as with diamond is a semimetal native element mineral and an allotrope of carbon 
+mist	___ is a phenomenon caused by small droplets of water suspended in air 
+ealing	___ is a major suburban district of west london england and the administrative centre of the london borough of ___ 
+brampton	___ or is a canadian city in southern ontario canada 
+crayford	___ is a town and electoral ward in south east london england within the london borough of bexley 
+molasses	___ american vernacular or black treacle british for human consumption known as ___ otherwise is a viscous by product of the refining of sugarcane or sugar beets into sugar 
+astronomy	___ is a natural science which is the study of celestial objects such as stars galaxies planets moons asteroids comets and nebulae the physics chemistry and evolution of such objects and phenomena that originate outside the atmosphere of earth including supernovae explosions gamma ray bursts and cosmic microwave background radiation 
+broadcasting	___ is the distribution of audio andor video content to a dispersed audience via any electronic mass communications medium but typically one using the electromagnetic spectrum radio waves in a one tomany model 
+topography	___ is a field of geoscience and planetary science comprising the study of surface shape and features of the earth and other observable astronomical objects including planets moons and asteroids 
+stationery	___ has historically pertained to a wide gamut of materials paper and office supplies writing implements greeting cards glue pencil cases and other similar items 
+sonar	___ originally an acronym for sound navigation and ranging is a technique that uses sound propagation usually underwater as in submarine navigation to navigate communicate with or detect objects on or under the surface of the water such as other vessels 
+recursion	 ___ is the process of repeating items in a self similar way 
+bean	 ___ is a common name for large plant seeds of several genera of the family fabaceae alternately leguminosae which are used for human or animal food 
+bavarian	___ is the adjective form of the german state of bavaria and refers to people of ancestry from bavaria 
+cheers	___ is an american sitcom television series that ran for eleven seasons between 1982 and 1993 
+chamomile	___ or camomile or is the common name for several daisy like plants of the family asteraceae that are commonly used to make herb infusion to serve various medicinal purposes 
+binoculars	___ field glasses or binocular telescopes are a pair of identical or mirror symmetrical telescopes mounted side byside and aligned to point accurately in the same direction allowing the viewer to use both eyes binocular vision when viewing distant objects 
+buckingham	___ is a town in north ___ england close to the borders of northamptonshire and oxfordshire 
+disco	 ___ is a genre of music containing elements of funk soul pop salsa and psychedelic that was most popular in the 1970s though it has since enjoyed brief resurgences 
+baccarat	___ german burgambach is a french commune in the meurthe etmoselle department in the lorraine region of north eastern france 
+sabah	___ is malaysia s easternmost state one of two malaysian states on the island of borneo 
+llangollen	___ is a small town and community in denbighshire north east wales situated on the river dee and on the edge of the berwyn mountains 
+rounders	___ irish cluiche corr is a bat andball game played between two teams 
+perversion	___ is a type of human behavior that deviates from that which is understood to be orthodox or normal 
+microsoft	___ corporation or is an american multinational corporation headquartered in redmond washington that develops manufactures licenses supports and sells computer software consumer electronics and personal computers and services 
+catford	___ is a district of south east london within the london borough of lewisham 
+hammersmith	___ is a district in west london england located in the london borough of ___ and fulham 
+darlington	___ is a market town in county durham in the north east of england 
+humility	___ adjectival form humble is variously seen as the act or posture of lowering oneself in relation to others or conversely having a clear perspective and respect for one s place in context 
+hypnotherapy	___ is a form of psychotherapy used to create subconscious change in a patient in the form of new responses thoughts attitudes behaviors or feelings 
+avionics	___ are the electronic systems used on aircraft artificial satellites and spacecraft 
+secession	___ derived from the latin term secessio is the act of withdrawing from an organization union military alliance or especially a political entity 

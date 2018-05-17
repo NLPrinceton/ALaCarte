@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE corpus SYSTEM "multilingual-all-words.dtd">
+<corpus lang="fr">
+<text id="d001" source="wsj_2465">
+  <sentence id="d001.s001">
+    <wf lemma="nous" pos="PRO:PER">Nous</wf>
+    <wf lemma="ne" pos="ADV">ne</wf>
+    <wf lemma="savoir" pos="VER:pres">savons</wf>
+    <wf lemma="pas" pos="ADV">pas</wf>
+    <wf lemma="qui" pos="PRO:REL">qui</wf>
+    <wf lemma="gagner" pos="VER:futu">gagnera</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s001.t001" lemma="guerre_contre_la_drogue" pos="N">guerre_contre_la_drogue</instance>
+    <wf lemma="en" pos="PRP">en</wf>
+    <instance id="d001.s001.t002" lemma="Amérique_Latine" pos="N">Amérique_Latine</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="mais" pos="KON">mais</wf>
+    <wf lemma="nous" pos="PRO:PER">nous</wf>
+    <wf lemma="savoir" pos="VER:pres">savons</wf>
+    <wf lemma="qui" pos="PRO:REL">qui</wf>
+    <wf lemma="être" pos="VER:pres">est</wf>
+    <wf lemma="en" pos="PRP">en</wf>
+    <wf lemma="train" pos="NOM">train</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="la" pos="PRO:PER">la</wf>
+    <wf lemma="perdre" pos="VER:infi">perdre</wf>
+    <wf lemma="-" pos="PUN">-</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s001.t003" lemma="presse" pos="NOM">presse</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s002">
+    <wf lemma="au" pos="PRP:det">Au</wf>
+    <wf lemma="cour|cours" pos="NOM">cours</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <wf lemma="six" pos="NUM">six</wf>
+    <wf lemma="dernier" pos="ADJ">derniers</wf>
+    <instance id="d001.s002.t001" lemma="mois" pos="NOM">mois</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="six" pos="NUM">six</wf>
+    <instance id="d001.s002.t002" lemma="journaliste" pos="NOM">journalistes</instance>
+    <wf lemma="avoir" pos="VER:pres">ont</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="tuer" pos="VER:pper">tués</wf>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="@card@" pos="NUM">10</wf>
+    <wf lemma="avoir" pos="VER:pres">ont</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="enlever" pos="VER:pper">enlevés</wf>
+    <wf lemma="par" pos="PRP">par</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <instance id="d001.s002.t003" lemma="trafiquant_de_drogue" pos="N">trafiquants_de_drogue</instance>
+    <wf lemma="ou" pos="KON">ou</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <instance id="d001.s002.t004" lemma="guérillero" pos="NOM">guérilleros</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s002.t005" lemma="gauche" pos="NOM">gauche</instance>
+    <wf lemma="-" pos="PUN">-</wf>
+    <wf lemma="souvent" pos="ADV">souvent</wf>
+    <wf lemma="il" pos="PRO:PER">il</wf>
+    <wf lemma="s" pos="VER:futu">s</wf>
+    <wf lemma="’" pos="PUN:cit">’</wf>
+    <wf lemma="agir" pos="VER:pres">agit</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <wf lemma="même" pos="ADJ">mêmes</wf>
+    <instance id="d001.s002.t006" lemma="personne" pos="NOM">personnes</instance>
+    <wf lemma="-" pos="PUN">-</wf>
+    <wf lemma="en" pos="PRP">en</wf>
+    <instance id="d001.s002.t007" lemma="Colombie" pos="NAM">Colombie</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s003">
+    <wf lemma="au" pos="PRP:det">Au</wf>
+    <wf lemma="cour|cours" pos="NOM">cours</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <wf lemma="@card@" pos="NUM">12</wf>
+    <wf lemma="dernier" pos="ADJ">dernières</wf>
+    <instance id="d001.s003.t001" lemma="année" pos="NOM">années</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="au" pos="PRP:det">au</wf>
+    <wf lemma="moins" pos="ADV">moins</wf>
+    <wf lemma="@card@" pos="NUM">40</wf>
+    <instance id="d001.s003.t002" lemma="journaliste" pos="NOM">journalistes</instance>
+    <wf lemma="être" pos="VER:pres">sont</wf>
+    <wf lemma="mourir" pos="VER:pper">morts</wf>
+    <wf lemma="là-bas" pos="ADV">là-bas</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s004">
+    <wf lemma="le" pos="DET:ART">Les</wf>
+    <instance id="d001.s004.t001" lemma="attaque" pos="NOM">attaques</instance>
+    <wf lemma="se" pos="PRO:PER">se</wf>
+    <wf lemma="être" pos="VER:pres">sont</wf>
+    <wf lemma="intensifier" pos="VER:pper">intensifiées</wf>
+    <wf lemma="dès" pos="PRP">dès</wf>
+    <wf lemma="que" pos="KON">que</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s004.t002" lemma="gouvernement" pos="NOM">gouvernement</instance>
+    <wf lemma="colombien" pos="ADJ">colombien</wf>
+    <wf lemma="à" pos="PRP">à</wf>
+    <wf lemma="commencer" pos="VER:pper">commencé</wf>
+    <wf lemma="un" pos="DET:ART">une</wf>
+    <instance id="d001.s004.t003" lemma="répression" pos="NOM">répression</instance>
+    <wf lemma="muscler" pos="VER:pper">musclée</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <instance id="d001.s004.t004" lemma="trafiquant" pos="NOM">trafiquants</instance>
+    <wf lemma="en" pos="PRP">en</wf>
+    <instance id="d001.s004.t005" lemma="août" pos="NOM">août</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="pour" pos="PRP">pour</wf>
+    <wf lemma="tenter" pos="VER:infi">tenter</wf>
+    <wf lemma="de" pos="PRP">d'</wf>
+    <wf lemma="empêcher" pos="VER:infi">empêcher</wf>
+    <wf lemma="qu" pos="VER:pper">qu</wf>
+    <wf lemma="’" pos="PUN:cit">’</wf>
+    <wf lemma="il" pos="PRO:PER">ils</wf>
+    <wf lemma="prendre" pos="VER:pres">prennent</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s004.t006" lemma="contrôle" pos="NOM">contrôle</instance>
+    <wf lemma="du" pos="PRP:det">du</wf>
+    <instance id="d001.s004.t007" lemma="pays" pos="NOM">pays</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s005">
+    <wf lemma="le" pos="DET:ART">Le</wf>
+    <instance id="d001.s005.t001" lemma="massacre" pos="NOM">massacre</instance>
+    <wf lemma="en" pos="PRP">en</wf>
+    <instance id="d001.s005.t002" lemma="Colombie" pos="NAM">Colombie</instance>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="discuter" pos="VER:pper">discuté</wf>
+    <wf lemma="par" pos="PRP">par</wf>
+    <wf lemma="@card@" pos="NUM">450</wf>
+    <instance id="d001.s005.t003" lemma="rédacteur" pos="NOM">rédacteurs</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <instance id="d001.s005.t004" lemma="éditeur" pos="NOM">éditeurs</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">l'</wf>
+    <instance id="d001.s005.t005" lemma="Amérique_Latine" pos="NAM">Amérique_Latine</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <instance id="d001.s005.t006" lemma="Etats-Unis" pos="NAM">Etats-Unis</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <instance id="d001.s005.t007" lemma="Caraïbes" pos="NAM">Caraïbes</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="du" pos="PRP:det">du</wf>
+    <instance id="d001.s005.t008" lemma="Canada" pos="NAM">Canada</instance>
+    <wf lemma="qui" pos="PRO:REL">qui</wf>
+    <wf lemma="avoir" pos="VER:pres">ont</wf>
+    <wf lemma="participer" pos="VER:pper">participé</wf>
+    <wf lemma="à" pos="PRP">à</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <wf lemma="45ème" pos="ADJ">45ème</wf>
+    <wf lemma="assemblée" pos="NOM">Assemblée</wf>
+    <wf lemma="général" pos="ADJ">générale</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">l'</wf>
+    <wf lemma="association" pos="NOM">Association</wf>
+    <wf lemma="interaméricaine" pos="ADJ">interaméricaine</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s005.t009" lemma="presse" pos="NOM">presse</instance>
+    <wf lemma="à" pos="PRP">à</wf>
+    <instance id="d001.s005.t010" lemma="Monterrey" pos="NAM">Monterrey</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="au" pos="PRP:det">au</wf>
+    <instance id="d001.s005.t011" lemma="Mexique" pos="NAM">Mexique</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="ce" pos="PRO:DEM">cette</wf>
+    <wf lemma="semaine" pos="NOM">semaine</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s006">
+    <wf lemma="le" pos="DET:ART">Le</wf>
+    <instance id="d001.s006.t001" lemma="mardi" pos="NOM">mardi</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s006.t002" lemma="participant" pos="NOM">participants</instance>
+    <wf lemma="à" pos="PRP">à</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s006.t003" lemma="conférence" pos="NOM">conférence</instance>
+    <wf lemma="avoir" pos="VER:pres">ont</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="informer" pos="VER:pper">informés</wf>
+    <wf lemma="de" pos="PRP">d'</wf>
+    <wf lemma="un" pos="DET:ART">une</wf>
+    <wf lemma="autre" pos="ADJ">autre</wf>
+    <wf lemma="atrocité" pos="NOM">atrocité</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">l'</wf>
+    <instance id="d001.s006.t004" lemma="assassinat" pos="NOM">assassinat</instance>
+    <wf lemma="à" pos="PRP">à</wf>
+    <instance id="d001.s006.t005" lemma="Medellin" pos="NAM">Medellin</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="deux" pos="NUM">deux</wf>
+    <instance id="d001.s006.t006" lemma="employé" pos="NOM">employés</instance>
+    <wf lemma="de" pos="PRP">d'</wf>
+    <instance id="d001.s006.t007" lemma="El_Espectador" pos="NAM">El_Espectador</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <wf lemma="deuxième" pos="NUM">deuxième</wf>
+    <wf lemma="plus" pos="ADV">plus</wf>
+    <wf lemma="grand" pos="ADJ">grand</wf>
+    <instance id="d001.s006.t008" lemma="journal" pos="NOM">journal</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s006.t009" lemma="Colombie" pos="NAM">Colombie</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s007">
+    <wf lemma="L" pos="NUM">L</wf>
+    <wf lemma="’" pos="PUN:cit">’</wf>
+    <wf lemma="administrateur" pos="NOM">administrateur</wf>
+    <wf lemma="local" pos="ADJ">local</wf>
+    <wf lemma="du" pos="PRP:det">du</wf>
+    <instance id="d001.s007.t001" lemma="journal" pos="NOM">journal</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="Luz" pos="NAM">Luz</wf>
+    <wf lemma="Maria" pos="NAM">Maria</wf>
+    <wf lemma="Lopez" pos="NAM">Lopez</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="abattre" pos="VER:pper">abattue</wf>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="son" pos="DET:POS">sa</wf>
+    <instance id="d001.s007.t002" lemma="mère" pos="NOM">mère</instance>
+    <wf lemma="blessé" pos="ADJ">blessée</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="tandis" pos="KON">tandis</wf>
+    <wf lemma="que" pos="KON">que</wf>
+    <wf lemma="son" pos="DET:POS">sa</wf>
+    <instance id="d001.s007.t003" lemma="voiture" pos="NOM">voiture</instance>
+    <wf lemma="être" pos="VER:impf">était</wf>
+    <wf lemma="arrêter" pos="VER:pper">arrêtée</wf>
+    <wf lemma="à" pos="PRP">à</wf>
+    <wf lemma="un" pos="DET:ART">un</wf>
+    <instance id="d001.s007.t004" lemma="feu_rouge" pos="N">feu_rouge</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s008">
+    <wf lemma="un" pos="DET:ART">Une</wf>
+    <instance id="d001.s008.t001" lemma="heure" pos="NOM">heure</instance>
+    <wf lemma="plus" pos="ADV">plus</wf>
+    <wf lemma="tard" pos="ADV">tard</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s008.t002" lemma="directeur" pos="NOM">directeur</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <wf lemma="diffusion" pos="NOM">diffusion</wf>
+    <wf lemma="du" pos="PRP:det">du</wf>
+    <instance id="d001.s008.t003" lemma="journal" pos="NOM">journal</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="Miguel" pos="NAM">Miguel</wf>
+    <wf lemma="Soler" pos="NAM">Soler</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="abattre" pos="VER:pper">abattu</wf>
+    <wf lemma="près" pos="ADV">près</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="son" pos="DET:POS">son</wf>
+    <instance id="d001.s008.t004" lemma="domicile" pos="NOM">domicile</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s009">
+    <wf lemma="le" pos="DET:ART">Les</wf>
+    <instance id="d001.s009.t001" lemma="seigneur_de_la_drogue" pos="NOM">seigneurs_de_la_drogue</instance>
+    <wf lemma="qui" pos="PRO:REL">qui</wf>
+    <wf lemma="avoir" pos="VER:pres">ont</wf>
+    <wf lemma="revendiquer" pos="VER:pper">revendiqué</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <wf lemma="responsabilité" pos="NOM">responsabilité</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <instance id="d001.s009.t002" lemma="assassinat" pos="NOM">assassinats</instance>
+    <wf lemma="avoir" pos="VER:pres">ont</wf>
+    <wf lemma="affirmer" pos="VER:pper">affirmé</wf>
+    <wf lemma="que" pos="KON">qu'</wf>
+    <wf lemma="il" pos="PRO:PER">ils</wf>
+    <wf lemma="aller" pos="VER:impf">allait</wf>
+    <wf lemma="faire" pos="VER:infi">faire</wf>
+    <wf lemma="exploser" pos="VER:infi">exploser</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s009.t003" lemma="bureau" pos="NOM">bureaux</instance>
+    <wf lemma="du" pos="PRP:det">du</wf>
+    <instance id="d001.s009.t004" lemma="journal" pos="NOM">journal</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s009.t005" lemma="Bogota" pos="NAM">Bogota</instance>
+    <wf lemma="si" pos="KON">si</wf>
+    <wf lemma="on" pos="PRO:PER">on</wf>
+    <wf lemma="continuer" pos="VER:cond">continuerait</wf>
+    <wf lemma="à" pos="PRP">à</wf>
+    <wf lemma="le" pos="PRO:PER">le</wf>
+    <wf lemma="distribuer" pos="VER:infi">distribuer</wf>
+    <wf lemma="à" pos="PRP">à</wf>
+    <instance id="d001.s009.t006" lemma="Medellin" pos="NAM">Medellin</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s010">
+    <wf lemma="il" pos="PRO:PER">Ils</wf>
+    <wf lemma="avoir" pos="VER:pres">ont</wf>
+    <wf lemma="bombarder" pos="VER:pper">bombardé</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s010.t001" lemma="bureau" pos="NOM">bureaux</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s010.t002" lemma="Bogota" pos="NAM">Bogota</instance>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s010.t003" lemma="mois" pos="NOM">mois</instance>
+    <wf lemma="dernier" pos="ADJ">dernier</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="détruire" pos="VER:ppre">détruisant</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s010.t004" lemma="ordinateur" pos="NAM">ordinateurs</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="causer" pos="VER:ppre">causant</wf>
+    <wf lemma="@card@" pos="NUM">2,5</wf>
+    <instance id="d001.s010.t005" lemma="million" pos="NOM">millions</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s010.t006" lemma="dollar" pos="NOM">dollars</instance>
+    <wf lemma="en" pos="PRP">en</wf>
+    <wf lemma="dommage" pos="NOM">dommages</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s011">
+    <instance id="d001.s011.t001" lemma="el_espectador" pos="NAM">El_Espectador</instance>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="un" pos="DET:ART">une</wf>
+    <instance id="d001.s011.t002" lemma="cible" pos="NOM">cible</instance>
+    <wf lemma="particulier" pos="ADJ">particulière</wf>
+    <wf lemma="en" pos="PRP">en</wf>
+    <wf lemma="raison" pos="NOM">raison</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">l'</wf>
+    <wf lemma="extraordinaire" pos="ADJ">extraordinaire</wf>
+    <instance id="d001.s011.t003" lemma="courage" pos="NOM">courage</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="son" pos="DET:POS">son</wf>
+    <instance id="d001.s011.t004" lemma="éditeur" pos="NOM">éditeur</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="son" pos="DET:POS">son</wf>
+    <instance id="d001.s011.t005" lemma="personnel" pos="NOM">personnel</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s012">
+    <wf lemma="à" pos="PRP">À</wf>
+    <instance id="d001.s012.t001" lemma="Monterrey" pos="NAM">Monterrey</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">l'</wf>
+    <instance id="d001.s012.t002" lemma="éditeur" pos="NOM">éditeur</instance>
+    <wf lemma="Luis" pos="NAM">Luis</wf>
+    <wf lemma="Gabriel" pos="NAM">Gabriel</wf>
+    <wf lemma="Cano" pos="NAM">Cano</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="bien" pos="ADV">bien</wf>
+    <wf lemma="que" pos="KON">que</wf>
+    <wf lemma="secouer" pos="VER:pper">secoué</wf>
+    <wf lemma="par" pos="PRP">par</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s012.t003" lemma="meurtre" pos="NOM">meurtres</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="publier" pos="VER:pper">publié</wf>
+    <wf lemma="un" pos="DET:ART">une</wf>
+    <instance id="d001.s012.t004" lemma="déclaration" pos="NOM">déclaration</instance>
+    <wf lemma="dire" pos="VER:ppre">disant</wf>
+    <wf lemma=":" pos="PUN">:</wf>
+    <wf lemma="``" pos="PUN:cit">``</wf>
+    <wf lemma="nous" pos="PRO:PER">Nous</wf>
+    <wf lemma="ne" pos="ADV">ne</wf>
+    <wf lemma="cesser" pos="VER:futu">cesserons</wf>
+    <wf lemma="pas" pos="ADV">pas</wf>
+    <wf lemma="notre" pos="DET:POS">notre</wf>
+    <instance id="d001.s012.t005" lemma="lutte" pos="NOM">lutte</instance>
+    <wf lemma="contre" pos="PRP">contre</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s012.t006" lemma="narcotrafic" pos="NOM">narcotrafic</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s013">
+    <wf lemma="il" pos="PRO:PER">Ils</wf>
+    <wf lemma="vouloir" pos="VER:pres">veulent</wf>
+    <wf lemma="terroriser" pos="VER:infi">terroriser</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s013.t001" lemma="presse" pos="NOM">presse</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="notamment" pos="ADV">notamment</wf>
+    <instance id="d001.s013.t002" lemma="el_spectador" pos="NAM">El_Espectador</instance>
+    <wf lemma="parce" pos="KON">parce</wf>
+    <wf lemma="que" pos="PRO:REL">qu'</wf>
+    <wf lemma="il" pos="PRO:PER">il</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="toujours" pos="ADV">toujours</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="en" pos="PRP">en</wf>
+    <wf lemma="premier" pos="NUM">première</wf>
+    <wf lemma="ligne" pos="NOM">ligne</wf>
+    <wf lemma="dans" pos="PRP">dans</wf>
+    <wf lemma="ce" pos="PRO:DEM">cette</wf>
+    <wf lemma="guerre" pos="NOM">guerre</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s014">
+    <wf lemma="cela" pos="PRO:DEM">Cela</wf>
+    <wf lemma="venir" pos="VER:pres">vient</wf>
+    <wf lemma="de" pos="PRP">d'</wf>
+    <wf lemma="un" pos="DET:ART">un</wf>
+    <instance id="d001.s014.t001" lemma="homme" pos="NOM">homme</instance>
+    <wf lemma="dont" pos="PRO:REL">dont</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s014.t002" lemma="frère" pos="NOM">frère</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="Guillermo" pos="NAM">Guillermo</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="assassiner" pos="VER:pper">assassiné</wf>
+    <wf lemma="en" pos="PRP">en</wf>
+    <wf lemma="@card@" pos="NUM">1986</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s015">
+    <wf lemma="le" pos="DET:ART">Les</wf>
+    <instance id="d001.s015.t001" lemma="éditeur" pos="NOM">éditeurs</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s015.t002" lemma="Monterrey" pos="NAM">Monterrey</instance>
+    <wf lemma="ne" pos="ADV">ne</wf>
+    <wf lemma="commander" pos="VER:pres">commandent</wf>
+    <wf lemma="pas" pos="ADV">pas</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s015.t003" lemma="bataillon" pos="NOM">bataillons</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="mais" pos="KON">mais</wf>
+    <wf lemma="il" pos="PRO:PER">ils</wf>
+    <wf lemma="avoir" pos="VER:pres">ont</wf>
+    <wf lemma="convenir" pos="VER:pper">convenu</wf>
+    <wf lemma="de" pos="PRP">d'</wf>
+    <wf lemma="exprimer" pos="VER:infi">exprimer</wf>
+    <wf lemma="leur" pos="DET:POS">leur</wf>
+    <instance id="d001.s015.t004" lemma="indignation" pos="NOM">indignation</instance>
+    <wf lemma="dans" pos="PRP">dans</wf>
+    <wf lemma="leur" pos="DET:POS">leurs</wf>
+    <wf lemma="éditorial" pos="NAM">éditoriaux</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <wf lemma="édition" pos="NOM">éditions</wf>
+    <wf lemma="de" pos="PRP">d'</wf>
+    <wf lemma="aujourd'" pos="NOM">aujourd'</wf>
+    <wf lemma="hui" pos="VER:pper">hui</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s016">
+    <wf lemma="beaucoup" pos="ADV">Beaucoup</wf>
+    <wf lemma="utiliser" pos="VER:futu">utiliseront</wf>
+    <wf lemma="un" pos="DET:ART">un</wf>
+    <instance id="d001.s016.t001" lemma="éditorial" pos="NOM">éditorial</instance>
+    <wf lemma="commun" pos="ADJ">commun</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s017">
+    <wf lemma="un" pos="DET:ART">Une</wf>
+    <instance id="d001.s017.t001" lemma="déclaration" pos="NOM">déclaration</instance>
+    <wf lemma="final" pos="ADJ">finale</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s017.t002" lemma="hier" pos="NOM">hier</instance>
+    <wf lemma="dire" pos="VER:impf">disait</wf>
+    <wf lemma=":" pos="PUN">:</wf>
+    <wf lemma="«" pos="PUN:cit">«</wf>
+    <wf lemma="Bien" pos="NAM">Bien</wf>
+    <wf lemma="que" pos="KON">que</wf>
+    <wf lemma="certain" pos="PRO:IND">certains</wf>
+    <instance id="d001.s017.t003" lemma="progrès" pos="NOM">progrès</instance>
+    <wf lemma="avoir" pos="VER:subp">aient</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="réaliser" pos="VER:pper">réalisés</wf>
+    <wf lemma="dans" pos="PRP">dans</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s017.t004" lemma="pays" pos="NOM">pays</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">l'</wf>
+    <instance id="d001.s017.t005" lemma="hémisphère" pos="NOM">hémisphère</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">l'</wf>
+    <instance id="d001.s017.t006" lemma="état" pos="NOM">état</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s017.t007" lemma="liberté" pos="NOM">liberté</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s017.t008" lemma="presse" pos="NOM">presse</instance>
+    <wf lemma="dans" pos="PRP">dans</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s017.t009" lemma="Amériques" pos="NAM">Amériques</instance>
+    <wf lemma="devoir" pos="VER:pres">doit</wf>
+    <wf lemma="encore" pos="ADV">encore</wf>
+    <wf lemma="être" pos="VER:infi">être</wf>
+    <wf lemma="considérer" pos="VER:pper">considéré</wf>
+    <wf lemma="comme" pos="ADV">comme</wf>
+    <wf lemma="sombrer" pos="VER:pres">sombre</wf>
+    <wf lemma="aussi" pos="ADV">aussi</wf>
+    <wf lemma="longtemps" pos="ADV">longtemps</wf>
+    <wf lemma="que" pos="KON">que</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s017.t010" lemma="journaliste" pos="NOM">journalistes</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="leur" pos="DET:POS">leurs</wf>
+    <instance id="d001.s017.t011" lemma="famille" pos="NOM">familles</instance>
+    <wf lemma="être" pos="VER:pres">sont</wf>
+    <wf lemma="soumettre" pos="VER:pper">soumis</wf>
+    <wf lemma="à" pos="PRP">à</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <wf lemma="plus" pos="ADV">plus</wf>
+    <wf lemma="grossier" pos="ADJ">grossière</wf>
+    <instance id="d001.s017.t012" lemma="forme" pos="NOM">forme</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s017.t013" lemma="censure" pos="NOM">censure</instance>
+    <wf lemma=":" pos="PUN">:</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s017.t014" lemma="mort" pos="NOM">mort</instance>
+    <wf lemma="par" pos="PRP">par</wf>
+    <wf lemma="le" pos="DET:ART">l'</wf>
+    <instance id="d001.s017.t015" lemma="assassinat" pos="NOM">assassinat</instance>
+    <wf lemma="." pos="SENT">.</wf>
+    <wf lemma="''" pos="PUN:cit">''</wf>
+  </sentence>
+  <sentence id="d001.s018">
+    <wf lemma="le" pos="DET:ART">Le</wf>
+    <instance id="d001.s018.t001" lemma="rapport" pos="NOM">rapport</instance>
+    <wf lemma="accuser" pos="VER:pres">accuse</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s018.t002" lemma="Panama" pos="NAM">Panama</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s018.t003" lemma="manuel_noriega" pos="NAM">Manuel_Noriega</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="connivence" pos="NOM">connivence</wf>
+    <wf lemma="avec" pos="PRP">avec</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s018.t004" lemma="trafiquant_de_drogue" pos="NOM">trafiquant_de_drogue</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="aussi" pos="ADV">aussi</wf>
+    <wf lemma="d" pos="VER:pper">d</wf>
+    <wf lemma="’" pos="PUN:cit">’</wf>
+    <wf lemma="intimider" pos="VER:infi">intimider</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s018.t005" lemma="presse" pos="NOM">presse</instance>
+    <wf lemma="comme" pos="ADV">comme</wf>
+    <wf lemma="jamais" pos="ADV">jamais</wf>
+    <wf lemma="auparavant" pos="ADV">auparavant</wf>
+    <wf lemma="." pos="SENT">.</wf>
+    <wf lemma="''" pos="PUN:cit">''</wf>
+  </sentence>
+  <sentence id="d001.s019">
+    <wf lemma="Noriega" pos="NAM">Noriega</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="fermer" pos="VER:pper">fermé</wf>
+    <wf lemma="tout" pos="PRO:IND">tous</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s019.t001" lemma="journal" pos="NOM">journaux</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="tout" pos="PRO:IND">toutes</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s019.t002" lemma="station" pos="NOM">stations</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s019.t003" lemma="radio" pos="NOM">radio</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s019.t004" lemma="télévision" pos="NOM">télévision</instance>
+    <wf lemma="indépendant" pos="ADJ">indépendantes</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="il" pos="PRO:PER">il</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="faire" pos="VER:pper">fait</wf>
+    <wf lemma="arrêter" pos="VER:infi">arrêter</wf>
+    <wf lemma="ou" pos="KON">ou</wf>
+    <wf lemma="torturer" pos="VER:infi">torturer</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="ou" pos="KON">ou</wf>
+    <wf lemma="bien" pos="ADV">bien</wf>
+    <wf lemma="il" pos="PRO:PER">il</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="contraindre" pos="VER:pper">contraint</wf>
+    <wf lemma="à" pos="PRP">à</wf>
+    <wf lemma="le" pos="DET:ART">l'</wf>
+    <instance id="d001.s019.t005" lemma="exil" pos="NOM">exil</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="un" pos="DET:ART">une</wf>
+    <wf lemma="longue" pos="ADJ">longue</wf>
+    <instance id="d001.s019.t006" lemma="liste" pos="NOM">liste</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s019.t007" lemma="journaliste" pos="NOM">journalistes</instance>
+    <wf lemma="''" pos="PUN:cit">''</wf>
+    <wf lemma="affirmer" pos="VER:pres">affirme</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s019.t008" lemma="déclaration" pos="NOM">déclaration</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s020">
+    <wf lemma="et" pos="KON">Et</wf>
+    <wf lemma="on" pos="PRO:PER">on</wf>
+    <wf lemma="ajouter" pos="VER:pres">ajoute</wf>
+    <wf lemma=":" pos="PUN">:</wf>
+    <wf lemma="''" pos="PUN:cit">''</wf>
+    <wf lemma="à" pos="PRP">A</wf>
+    <instance id="d001.s020.t001" lemma="Cuba" pos="NAM">Cuba</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s020.t002" lemma="pays" pos="NOM">pays</instance>
+    <wf lemma="ennemi" pos="ADJ">ennemi</wf>
+    <wf lemma="public" pos="ADJ">public</wf>
+    <wf lemma="numéro" pos="NOM">numéro</wf>
+    <wf lemma="@card@" pos="NUM">1</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s020.t003" lemma="liberté" pos="NOM">liberté</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s020.t004" lemma="presse" pos="NOM">presse</instance>
+    <wf lemma="dans" pos="PRP">dans</wf>
+    <wf lemma="le" pos="DET:ART">l'</wf>
+    <instance id="d001.s020.t005" lemma="hémisphère" pos="NOM">hémisphère</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s020.t006" lemma="répression" pos="NOM">répression</instance>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <instance id="d001.s020.t007" lemma="journaliste" pos="NOM">journalistes</instance>
+    <wf lemma="cubain" pos="ADJ">cubains</wf>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="étranger" pos="ADJ">étrangers</wf>
+    <wf lemma="être" pos="VER:pres">est</wf>
+    <wf lemma="encore" pos="ADV">encore</wf>
+    <wf lemma="pire" pos="ADJ">pire</wf>
+    <wf lemma="qu" pos="NOM">qu</wf>
+    <wf lemma="’" pos="PUN:cit">’</wf>
+    <wf lemma="avant" pos="ADV">avant</wf>
+    <wf lemma="." pos="SENT">.</wf>
+    <wf lemma="''" pos="PUN:cit">''</wf>
+  </sentence>
+  <sentence id="d001.s021">
+    <wf lemma="au" pos="PRP:det">Au</wf>
+    <instance id="d001.s021.t001" lemma="Nicaragua" pos="NAM">Nicaragua</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <wf lemma="promesse" pos="NOM">promesses</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s021.t002" lemma="liberté" pos="NOM">liberté</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s021.t003" lemma="presse" pos="NOM">presse</instance>
+    <wf lemma="faire" pos="VER:pres">faites</wf>
+    <wf lemma="par" pos="PRP">par</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s021.t004" lemma="sandinistes" pos="NOM">sandinistes</instance>
+    <wf lemma="''" pos="PUN:cit">''</wf>
+    <wf lemma="ne" pos="ADV">ne</wf>
+    <wf lemma="se" pos="PRO:PER">se</wf>
+    <wf lemma="être" pos="VER:pres">sont</wf>
+    <wf lemma="pas" pos="ADV">pas</wf>
+    <wf lemma="matérialiser" pos="VER:pper">matérialisées</wf>
+    <wf lemma="." pos="SENT">.</wf>
+    <wf lemma="''" pos="PUN:cit">''</wf>
+  </sentence>
+  <sentence id="d001.s022">
+    <wf lemma="il" pos="PRO:PER">Il</wf>
+    <wf lemma="se" pos="PRO:PER">se</wf>
+    <wf lemma="trouver" pos="VER:pres">trouve</wf>
+    <wf lemma="que" pos="KON">que</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <wf lemma="quatre" pos="NUM">quatre</wf>
+    <instance id="d001.s022.t001" lemma="pays" pos="NOM">pays</instance>
+    <wf lemma="cité" pos="VER:pper">cités</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="notamment" pos="ADV">notamment</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <wf lemma="Colombie_" pos="NAM">Colombie</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <instance id="d001.s022.t002" lemma="Cuba" pos="NAM">Cuba</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <instance id="d001.s022.t003" lemma="Panama" pos="NAM">Panama</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s022.t004" lemma="Nicaragua" pos="NAM">Nicaragua</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="ne" pos="ADV">ne</wf>
+    <wf lemma="être" pos="VER:pres">sont</wf>
+    <wf lemma="pas" pos="ADV">pas</wf>
+    <wf lemma="seulement" pos="ADV">seulement</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <wf lemma="lieu" pos="NOM">lieux</wf>
+    <wf lemma="où" pos="PRO:REL">où</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s022.t005" lemma="presse" pos="NOM">presse</instance>
+    <wf lemma="être" pos="VER:pres">est</wf>
+    <wf lemma="en" pos="PRP">en</wf>
+    <wf lemma="butte" pos="NOM">butte</wf>
+    <wf lemma="à" pos="PRP">à</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <instance id="d001.s022.t006" lemma="attaque" pos="NOM">attaques</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="mais" pos="KON">mais</wf>
+    <wf lemma="il" pos="PRO:PER">ils</wf>
+    <wf lemma="être" pos="VER:pres">sont</wf>
+    <wf lemma="aussi" pos="ADV">aussi</wf>
+    <wf lemma="lier" pos="VER:pper">liés</wf>
+    <wf lemma="par" pos="PRP">par</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s022.t007" lemma="trafic_de_drogue" pos="N">trafic_de_drogue</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="par" pos="PRP">par</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s022.t008" lemma="politique" pos="NOM">politique</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s022.t009" lemma="gauche" pos="NOM">gauche</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s023">
+    <wf lemma="Noriega" pos="NAM">Noriega</wf>
+    <wf lemma="être" pos="VER:pres">est</wf>
+    <wf lemma="proche" pos="ADJ">proche</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s023.t001" lemma="Castro" pos="NAM">Castro</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="peut-être" pos="ADV">peut-être</wf>
+    <wf lemma="il" pos="PRO:PER">il</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="son" pos="DET:POS">son</wf>
+    <wf lemma="agent" pos="NOM">agent</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s024">
+    <wf lemma="le" pos="DET:ART">Les</wf>
+    <instance id="d001.s024.t001" lemma="sandinistes" pos="NOM">sandinistes</instance>
+    <instance id="d001.s024.t002" lemma="tomas_borge" pos="N">Thomas_Borge</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s024.t003" lemma="frère" pos="NOM">frères</instance>
+    <instance id="d001.s024.t004" lemma="Ortega" pos="NAM">Ortega</instance>
+    <wf lemma="être" pos="VER:pres">sont</wf>
+    <wf lemma="protéger" pos="VER:pper">protégés</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s024.t005" lemma="Castro" pos="NAM">Castro</instance>
+    <wf lemma=":" pos="PUN">:</wf>
+    <wf lemma="il" pos="PRO:PER">il</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="soutenir" pos="VER:pper">soutenu</wf>
+    <wf lemma="leur" pos="DET:POS">leur</wf>
+    <instance id="d001.s024.t006" lemma="coup_d'état" pos="NOM">coup_d'état</instance>
+    <wf lemma="au" pos="PRP:det">au</wf>
+    <instance id="d001.s024.t007" lemma="Nicaragua" pos="NAM">Nicaragua</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s025">
+    <wf lemma="en" pos="PRP">En</wf>
+    <instance id="d001.s025.t001" lemma="Colombie" pos="NAM">Colombie</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s025.t002" lemma="guérilla" pos="NOM">guérilla</instance>
+    <wf lemma="financer" pos="VER:pper">financée</wf>
+    <wf lemma="par" pos="PRP">par</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s025.t003" lemma="drogue" pos="NOM">drogue</instance>
+    <wf lemma="qui" pos="PRO:REL">qui</wf>
+    <wf lemma="tenter" pos="VER:pres">tente</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="saisir" pos="VER:infi">saisir</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s025.t004" lemma="pouvoir" pos="NOM">pouvoir</instance>
+    <wf lemma="au" pos="PRP:det">au</wf>
+    <instance id="d001.s025.t005" lemma="pays" pos="NOM">pays</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="détruire" pos="VER:infi">détruire</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s025.t006" lemma="démocratie" pos="NOM">démocratie</instance>
+    <wf lemma="comprendre" pos="VER:subp">comprenne</wf>
+    <wf lemma="aussi" pos="ADV">aussi</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <wf lemma="M-19" pos="NAM">M-19</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="qui" pos="PRO:REL">qui</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="clairement" pos="ADV">clairement</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="soutenir" pos="VER:pper">soutenu</wf>
+    <wf lemma="par" pos="PRP">par</wf>
+    <instance id="d001.s025.t007" lemma="Castro" pos="NAM">Castro</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s026">
+    <wf lemma="Robert" pos="NAM">Robert</wf>
+    <wf lemma="Merkel" pos="NAM">Merkel</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="un" pos="DET:ART">un</wf>
+    <wf lemma="ancien" pos="ADJ">ancien</wf>
+    <instance id="d001.s026.t001" lemma="procureur" pos="NOM">procureur</instance>
+    <wf lemma="américain" pos="ADJ">américain</wf>
+    <wf lemma="dans" pos="PRP">dans</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <instance id="d001.s026.t002" lemma="acte_d'accusation" pos="N">actes_d'accusations</instance>
+    <wf lemma="pour" pos="PRP">pour</wf>
+    <instance id="d001.s026.t003" lemma="trafic_de_drogue" pos="NOM">rafic_de_drogue</instance>
+    <wf lemma="en" pos="PRP">en</wf>
+    <instance id="d001.s026.t004" lemma="Floride" pos="NAM">Floride</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="ne" pos="ADV">ne</wf>
+    <wf lemma="penser" pos="VER:pres">pense</wf>
+    <wf lemma="pas" pos="ADV">pas</wf>
+    <wf lemma="pour" pos="PRP">pour</wf>
+    <wf lemma="un" pos="DET:ART">un</wf>
+    <instance id="d001.s026.t005" lemma="instant" pos="NOM">instant</instance>
+    <wf lemma="que" pos="KON">que</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s026.t006" lemma="procès" pos="NOM">procès</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="haut" pos="ADJ">hauts</wf>
+    <instance id="d001.s026.t007" lemma="fonctionnaire" pos="NOM">fonctionnaires</instance>
+    <wf lemma="engager" pos="VER:pper">engagés</wf>
+    <wf lemma="dans" pos="PRP">dans</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s026.t008" lemma="trafic_de_drogue" pos="N">trafic_de_drogue</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="intenter" pos="VER:pper">intentés</wf>
+    <wf lemma="par" pos="PRP">par</wf>
+    <instance id="d001.s026.t009" lemma="Castro" pos="NAM">Castro</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="très" pos="ADV">très</wf>
+    <wf lemma="médiatiser" pos="VER:pper">médiatisés</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="signifier" pos="VER:pres">signifient</wf>
+    <wf lemma="que" pos="KON">qu'</wf>
+    <wf lemma="il" pos="PRO:PER">il</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="rompre" pos="VER:pper">rompu</wf>
+    <wf lemma="avec" pos="PRP">avec</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s026.t010" lemma="cartel_de_la_drogue" pos="N">cartel_de_la_drogue</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s026.t011" lemma="Medellin" pos="NAM">Medellin</instance>
+    <wf lemma="." pos="SENT">.</wf>
+    <wf lemma="''" pos="PUN:cit">''</wf>
+  </sentence>
+  <sentence id="d001.s027">
+    <wf lemma="si" pos="KON">Si</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s027.t001" lemma="cartel" pos="NOM">cartel</instance>
+    <wf lemma="parvenir" pos="VER:pres">parvient</wf>
+    <wf lemma="à" pos="PRP">à</wf>
+    <wf lemma="forcer" pos="VER:infi">forcer</wf>
+    <wf lemma="par" pos="PRP">par</wf>
+    <wf lemma="chantage" pos="NOM">chantage</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s027.t002" lemma="autorité" pos="NOM">autorités</instance>
+    <wf lemma="colombiennes" pos="ADJ">colombiennes</wf>
+    <wf lemma="dans" pos="PRP">dans</wf>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <instance id="d001.s027.t003" lemma="négociation" pos="NOM">négociations</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s027.t004" lemma="cartel" pos="NOM">cartel</instance>
+    <wf lemma="avoir" pos="VER:futu">aura</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s027.t005" lemma="contrôle" pos="NOM">contrôle</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="Fidel" pos="NAM">Fidel</wf>
+    <wf lemma="pouvoir" pos="VER:futu">pourra</wf>
+    <wf lemma="exploiter" pos="VER:infi">exploiter</wf>
+    <wf lemma="son" pos="DET:POS">ses</wf>
+    <instance id="d001.s027.t006" lemma="relation" pos="NOM">relations</instance>
+    <wf lemma="passer" pos="VER:pper">passées</wf>
+    <wf lemma="avec" pos="PRP">avec</wf>
+    <wf lemma="eux" pos="PRO:PER">eux</wf>
+    <wf lemma="''" pos="PUN:cit">''</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="il" pos="PRO:PER">il</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="récemment" pos="ADV">récemment</wf>
+    <wf lemma="dire" pos="VER:pper">dit</wf>
+    <wf lemma="à" pos="PRP">à</wf>
+    <instance id="d001.s027.t007" lemma="david_asman" pos="NAM">David_Asman</instance>
+    <wf lemma="du" pos="PRP:det">du</wf>
+    <wf lemma="Journal" pos="NAM">Journal</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s028">
+    <wf lemma="le" pos="DET:ART">Le</wf>
+    <instance id="d001.s028.t001" lemma="résultat" pos="NOM">résultat</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s028.t002" lemma="lutte" pos="NOM">lutte</instance>
+    <wf lemma="contre" pos="PRP">contre</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s028.t003" lemma="seigneur_de_la_drogue" pos="NOM">seigneurs_de_la_drogue</instance>
+    <wf lemma="en" pos="PRP">en</wf>
+    <wf lemma="Colombie_" pos="NAM">Colombie</wf>
+    <wf lemma="être" pos="VER:pres">est</wf>
+    <wf lemma="incertain" pos="ADJ">incertain</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s029">
+    <wf lemma="ce" pos="PRO:DEM">Cette</wf>
+    <instance id="d001.s029.t001" lemma="semaine" pos="NOM">semaine</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s029.t002" lemma="gouvernement" pos="NOM">gouvernement</instance>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="arrêter" pos="VER:pper">arrêté</wf>
+    <instance id="d001.s029.t003" lemma="jose_abello_silva" pos="N">Jose_Abello_Silva</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <wf lemma="numéro" pos="NOM">numéro</wf>
+    <wf lemma="quatre" pos="NUM">quatre</wf>
+    <wf lemma="présumer" pos="VER:pper">présumé</wf>
+    <wf lemma="du" pos="PRP:det">du</wf>
+    <instance id="d001.s029.t004" lemma="cartel" pos="NOM">cartel</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s030">
+    <wf lemma="il" pos="PRO:PER">Il</wf>
+    <wf lemma="aller" pos="VER:pres">va</wf>
+    <wf lemma="probablement" pos="ADV">probablement</wf>
+    <wf lemma="être" pos="VER:infi">être</wf>
+    <wf lemma="extrader" pos="VER:pper">extradé</wf>
+    <wf lemma="vers" pos="PRP">vers</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s030.t001" lemma="Etats-Unis" pos="NAM">Etats-Unis</instance>
+    <wf lemma="pour" pos="PRP">pour</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s030.t002" lemma="procès" pos="NOM">procès</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="grâce" pos="NOM">grâce</wf>
+    <wf lemma="à" pos="PRP">à</wf>
+    <wf lemma="un" pos="DET:ART">un</wf>
+    <instance id="d001.s030.t003" lemma="traité" pos="NOM">traité</instance>
+    <wf lemma="de" pos="PRP">d'</wf>
+    <instance id="d001.s030.t004" lemma="extradition" pos="NOM">extradition</instance>
+    <wf lemma="relancer" pos="VER:pper">relancé</wf>
+    <wf lemma="par" pos="PRP">par</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s030.t005" lemma="président" pos="NOM">président</instance>
+    <wf lemma="Virgilia" pos="NAM">Virgilia</wf>
+    <wf lemma="Barco" pos="NAM">Barco</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s031">
+    <wf lemma="plus" pos="ADV">Plus</wf>
+    <wf lemma="tard" pos="ADV">tard</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="un" pos="DET:ART">un</wf>
+    <wf lemma="autre" pos="ADJ">autre</wf>
+    <instance id="d001.s031.t001" lemma="trafiquant" pos="NOM">trafiquant</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="haut" pos="ADJ">haut</wf>
+    <instance id="d001.s031.t002" lemma="rang" pos="NOM">rang</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <instance id="d001.s031.t003" lemma="leonidas_vargas" pos="NAM">Leonidas_Vargas</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="arrêter" pos="VER:pper">arrêté</wf>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="@card@" pos="NUM">1.000</wf>
+    <instance id="d001.s031.t004" lemma="kilo" pos="NOM">kilos</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s031.t005" lemma="dynamite" pos="NOM">dynamite</instance>
+    <wf lemma="avoir" pos="VER:pres">ont</wf>
+    <wf lemma="être" pos="VER:pper">été</wf>
+    <wf lemma="saisir" pos="VER:pper">saisis</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s032">
+    <wf lemma="monsieur" pos="NOM">M.</wf>
+    <wf lemma="Barco" pos="NAM">Barco</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="refuser" pos="VER:pper">refusé</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s032.t001" lemma="troupe" pos="NOM">troupes</instance>
+    <wf lemma="ou" pos="KON">ou</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <instance id="d001.s032.t002" lemma="conseiller" pos="NOM">conseillers</instance>
+    <wf lemma="américain" pos="ADJ">américaines</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="mais" pos="KON">mais</wf>
+    <wf lemma="il" pos="PRO:PER">il</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="accepter" pos="VER:pper">accepté</wf>
+    <wf lemma="le" pos="DET:ART">l'</wf>
+    <instance id="d001.s032.t003" lemma="aide" pos="NOM">aide</instance>
+    <wf lemma="militaire" pos="ADJ">militaire</wf>
+    <wf lemma="américain" pos="ADJ">américaine</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s033">
+    <wf lemma="le" pos="DET:ART">Le</wf>
+    <instance id="d001.s033.t001" lemma="président" pos="NOM">président</instance>
+    <wf lemma="Bush" pos="NAM">Bush</wf>
+    <wf lemma="avoir" pos="VER:pres">a</wf>
+    <wf lemma="accepter" pos="VER:pper">accepté</wf>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="se" pos="PRO:PER">se</wf>
+    <wf lemma="rencontrer" pos="VER:infi">rencontrer</wf>
+    <wf lemma="dans" pos="PRP">dans</wf>
+    <wf lemma="le" pos="DET:ART">les</wf>
+    <wf lemma="@card@" pos="NUM">90</wf>
+    <instance id="d001.s033.t002" lemma="jour" pos="NOM">jours</instance>
+    <wf lemma="avec" pos="PRP">avec</wf>
+    <wf lemma="monsieur" pos="NOM">M.</wf>
+    <wf lemma="Barco" pos="NAM">Barco</wf>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s033.t003" lemma="président" pos="NOM">président</instance>
+    <wf lemma="du" pos="PRP:det">du</wf>
+    <instance id="d001.s033.t004" lemma="Pérou" pos="NAM">Pérou</instance>
+    <instance id="d001.s033.t005" lemma="alan_garcia" pos="N">Alan_Garcia</instance>
+    <wf lemma="et" pos="KON">et</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s033.t006" lemma="président" pos="NOM">président</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <wf lemma="le" pos="DET:ART">la</wf>
+    <instance id="d001.s033.t007" lemma="Bolivie" pos="NAM">Bolivie</instance>
+    <instance id="d001.s033.t008" lemma="jaime_paz_zamora" pos="N">Jaime_Paz_Zamora</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="pour" pos="PRP">pour</wf>
+    <wf lemma="discuter" pos="VER:infi">discuter</wf>
+    <wf lemma="du" pos="PRP:det">du</wf>
+    <instance id="d001.s033.t009" lemma="problème" pos="NOM">problème</instance>
+    <wf lemma="du" pos="PRP:det">des</wf>
+    <instance id="d001.s033.t010" lemma="drogue" pos="NOM">drogues</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s034">
+    <wf lemma="il" pos="PRO:PER">Il</wf>
+    <wf lemma="être" pos="VER:cond">serait</wf>
+    <wf lemma="bien" pos="ADV">bien</wf>
+    <wf lemma="d" pos="ADJ">d</wf>
+    <wf lemma="’" pos="PUN:cit">’</wf>
+    <wf lemma="en" pos="PRP">en</wf>
+    <wf lemma="discuter" pos="VER:infi">discuter</wf>
+    <wf lemma="au" pos="PRP:det">au</wf>
+    <wf lemma="plus" pos="ADV">plus</wf>
+    <wf lemma="tôt" pos="ADV">tôt</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s035">
+    <wf lemma="après" pos="PRP">Après</wf>
+    <wf lemma="le" pos="DET:ART">le</wf>
+    <instance id="d001.s035.t001" lemma="fiasco" pos="NOM">fiasco</instance>
+    <wf lemma="de" pos="PRP">de</wf>
+    <instance id="d001.s035.t002" lemma="Panama" pos="NAM">Panama</instance>
+    <wf lemma="," pos="PUN">,</wf>
+    <wf lemma="il" pos="PRO:PER">ils</wf>
+    <wf lemma="avoir" pos="VER:futu">auront</wf>
+    <instance id="d001.s035.t003" lemma="besoin" pos="NOM">besoin</instance>
+    <wf lemma="de" pos="PRP">d'</wf>
+    <wf lemma="être" pos="VER:infi">être</wf>
+    <wf lemma="rassurer" pos="VER:pper">rassurés</wf>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+  <sentence id="d001.s036">
+    <wf lemma="le" pos="DET:ART">La</wf>
+    <instance id="d001.s036.t001" lemma="presse" pos="NOM">presse</instance>
+    <wf lemma="colombienne" pos="ADJ">colombienne</wf>
+    <wf lemma="surtout" pos="ADV">surtout</wf>
+    <wf lemma="en" pos="PRO:PER">en</wf>
+    <wf lemma="avoir" pos="VER:cond">aurait</wf>
+    <instance id="d001.s036.t002" lemma="besoin" pos="NOM">besoin</instance>
+    <wf lemma="." pos="SENT">.</wf>
+  </sentence>
+</text>
+</corpus>
