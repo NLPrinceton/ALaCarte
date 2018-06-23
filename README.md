@@ -8,6 +8,7 @@ Evaluation code for A La Carte Embedding
 Note that the code in this directory treats adding up all embeddings of context words in a corpus as a matrix operation. This is memory-intensive and more practical implementations should use simple vector addition to compute context vectors.
   
 Dependencies: NLTK, NumPy, SciPy, text_embedding
+
 Optional: mpi4py (to parallelize coocurrence matrix construction)
 
 If you find this code useful please cite the following:
