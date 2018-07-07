@@ -16,6 +16,7 @@ conda install -y numpy mpi4py scikit-learn boto3 h5py nltk
 pip install cld2-cffi
 
 VERSION=840B.300d
+#VERSION=42B.300d
 disp "Downloading GloVe "$VERSION" Embeddings"
 wget http://nlp.stanford.edu/data/glove.$VERSION.zip
 unzip glove.$VERSION.zip
