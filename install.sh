@@ -25,3 +25,9 @@ CRAWL=2014-52
 disp "Downloading WET Paths for "$CRAWL" Crawl"
 wget https://commoncrawl.s3.amazonaws.com/crawl-data/CC-MAIN-$CRAWL/wet.paths.gz
 gunzip wet.paths.gz
+
+GIT=https://raw.githubusercontent.com/NLPrinceton/ALaCarte/master
+disp "Downloading A La Carte Files"
+wget $GIT/alacarte.py
+wget $GIT/targets/$VERSION.txt
+wget $GIT/transform/I300.bin #wget $GIT/transform/$VERSION.bin
