@@ -6,7 +6,6 @@ from collections import OrderedDict
 from collections import defaultdict
 from glob import glob
 from gzip import GzipFile
-from itertools import chain
 from tempfile import TemporaryFile
 from unicodedata import category
 import numpy as np
@@ -81,9 +80,13 @@ def subtokenize(token, vocab):
 
   if token in vocab:
     yield token
+
   elif len(token) == 1 or len(token) > MAXTOKLEN:
     yield False
+
   else:
+
+    # determines where to split on punctuation based on whether results are in the vocabulary
     first = is_punctuation(token[0])
     for i, char in zip(range(1, len(token)), token[1:]):
       if first ^ is_punctuation(char):
@@ -235,7 +238,7 @@ class ALaCarteReader:
     Args:
       None
     Returns:
-      str (on root process only)
+      str (empty on non-root processes)
     '''
 
     if self.rank:
@@ -252,12 +255,14 @@ class ALaCarteReader:
 
     import nltk
 
+    # gets location of target n-grams in document
     target_vocab = self.target_vocab
     n = self.n
     ngrams = list(filter(lambda entry: entry[1] in target_vocab, enumerate(nltk.ngrams(tokens, n))))
 
     if ngrams:
 
+      # gets word embedding for each token
       w2v = self.w2v
       zero_vector = self.zero_vector
       wnd = self.wnd
@@ -266,6 +271,7 @@ class ALaCarteReader:
       c2v = self.c2v
       target_counts = self.target_counts
 
+      # computes context vector around each target n-gram
       for i, ngram in ngrams:
         c2v[ngram] += sum(vectors[max(0, i-wnd):i], zero_vector) + sum(vectors[i+n:i+n+wnd], zero_vector)
         target_counts[ngram] += 1
@@ -279,11 +285,13 @@ class ALaCarteReader:
       None
     '''
 
+    # tokenizes document
     combined_vocab = self.combined_vocab
     tokens = [subtoken for token in document.split() for subtoken in subtokenize(token, combined_vocab)]
     if self.n > 1:
       return self.read_ngrams(tokens)
 
+    # eliminates tokens not within the window of a target word
     T = len(tokens)
     wnd = self.wnd
     learn = self.learn
@@ -300,6 +308,7 @@ class ALaCarteReader:
     tokens = tokens[start:stop]
     T = len(tokens)
 
+    # gets word embedding for each token
     w2v = self.w2v
     zero_vector = self.zero_vector
     vectors = [w2v.get(token, zero_vector) if token else zero_vector for token in tokens]
@@ -307,6 +316,7 @@ class ALaCarteReader:
     c2v = self.c2v
     target_counts  = self.target_counts
 
+    # slides window over document
     for i, (token, vector) in enumerate(zip(tokens, vectors)):
       if token and (learn or token in target_vocab):
         c2v[token] += context_vector - vector
@@ -353,7 +363,7 @@ def process_documents(func):
       reader.read_document(document)
 
     reader.reduce()
-    write('\rFinished Processing Corpus; Targets Covered: '+reader.target_coverage()+'\n', comm)
+    write('\rFinished Processing Corpus; Targets Covered: '+reader.target_coverage()+' \n', comm)
     return reader.vector_array, reader.count_array
 
   return wrapper
