@@ -136,7 +136,7 @@ class ALaCarteReader:
 
     self.w2v = w2v
     self.combined_vocab = self.w2v
-    gramlens = {len(target.split()) for target in targets}
+    gramlens = {len(target.split()) for target in targets if target}
     assert len(gramlens) == 1, "all target n-grams must have the same n"
     self.n = gramlens.pop()
     if self.n > 1:
