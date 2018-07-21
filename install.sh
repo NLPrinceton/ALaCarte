@@ -30,5 +30,4 @@ gunzip wet.paths.gz
 GIT=https://raw.githubusercontent.com/NLPrinceton/ALaCarte/master
 disp "Downloading A La Carte Files"
 wget $GIT/alacarte.py
-wget $GIT/targets/$VERSION.txt
-wget $GIT/transform/I300.bin #wget $GIT/transform/$VERSION.bin
+wget $GIT/transform/$VERSION.bin
