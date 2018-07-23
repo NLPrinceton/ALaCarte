@@ -24,11 +24,11 @@ Required: NumPy
 
 Optional: H5Py (check-pointing), NLTK (n-grams), CLD2-CFFI (checking English), mpi4py (parallelizing using MPI), boto (Common Crawl)
 
-*For inducing vectors from Common Crawl on AWS EC2:*
+*For inducing vectors from Common Crawl on an AWS EC2 instance:*
 
 1. Start an instance. Best to use memory-optimized (<tt>r4.*</tt>).
-2. Download and executre <tt>install.sh</tt>.
-3. Download your list of target words and run <tt>alacarte.py</tt>.
+2. Download and execute <tt>install.sh</tt>.
+3. Upload your list of target words to the instance and run <tt>alacarte.py</tt>.
 
 # Evaluation code
 
