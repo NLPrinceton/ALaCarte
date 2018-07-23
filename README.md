@@ -26,7 +26,7 @@ Optional: H5Py (check-pointing), NLTK (n-grams), CLD2-CFFI (checking English), m
 
 *For inducing vectors from Common Crawl on an AWS EC2 instance:*
 
-1. Start an instance. Best to use memory-optimized (<tt>r4.*</tt>).
+1. Start an instance. Best to use a memory-optimized (<tt>r4.*</tt>) Linux instance.
 2. Download and execute <tt>install.sh</tt>.
 3. Upload your list of target words to the instance and run <tt>alacarte.py</tt>.
 
