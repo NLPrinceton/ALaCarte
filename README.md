@@ -1,7 +1,7 @@
 # ALaCarte
 
 This repository contains code and transforms to induce your own rare-word/n-gram vectors as well as evaluation code for the [A La Carte Embedding paper](http://aclweb.org/anthology/P18-1002). 
-An overview is provided in this [OffConvex Blog](http://www.offconvex.org/2018/09/18/alacarte/).
+An overview is provided in this [blog post](http://www.offconvex.org/2018/09/18/alacarte/) at OffConvex.
 
 If you find any of this code useful please cite the following:
 
