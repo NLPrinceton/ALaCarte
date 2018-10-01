@@ -23,9 +23,9 @@ For rare words from the IMDB, PTB-WSJ, SST, and STS tasks you can find vectors i
 
 *Dependencies:*
 
-Required: NumPy
+Required: numpy
 
-Optional: H5Py (check-pointing), NLTK (n-grams), CLD2-CFFI (checking English), mpi4py (parallelizing using MPI), boto (Common Crawl)
+Optional: h5py (check-pointing), nltk (n-grams), cld2-cffi (checking English), mpi4py (parallelizing using MPI), boto (Common Crawl)
 
 *For inducing vectors from Common Crawl on an AWS EC2 instance:*
 
@@ -40,6 +40,6 @@ Optional: H5Py (check-pointing), NLTK (n-grams), CLD2-CFFI (checking English), m
   
 Note that the code in this directory treats adding up all embeddings of context words in a corpus as a matrix operation. This is memory-intensive and more practical implementations should use simple vector addition to compute context vectors.
   
-Dependencies: NLTK, NumPy, SciPy, text_embedding
+Dependencies: nltk, numpy, scipy, text_embedding
 
 Optional: mpi4py (to parallelize coocurrence matrix construction)
