@@ -4,13 +4,14 @@ import sys
 from collections import Counter
 from collections import OrderedDict
 from collections import defaultdict
-from glob import glob
 from gzip import GzipFile
+from pathlib import Path
 from tempfile import TemporaryFile
 from unicodedata import category
-import numpy as np
-np.seterr(all='raise')
 
+import numpy as np
+
+np.seterr(all='raise')
 
 GLOVEFILE = 'glove.840B.300d.txt'
 WETPATHSFILE = 'wet.paths'
@@ -32,7 +33,7 @@ def write(msg, comm=None):
   Returns:
     length of msg
   '''
-  
+
   if comm is None or not comm.rank:
     sys.stdout.write(msg)
     sys.stdout.flush()
@@ -137,9 +138,8 @@ class ALaCarteReader:
     self.w2v = w2v
     self.combined_vocab = self.w2v
     gramlens = {len(target.split()) for target in targets if target}
-    assert len(gramlens) == 1, "all target n-grams must have the same n"
-    self.n = gramlens.pop()
-    if self.n > 1:
+    self.max_n = max(gramlens)
+    if self.max_n > 1:
       self.targets = [tuple(target.split()) for target in targets]
       self.target_vocab = set(self.targets)
       self.combined_vocab = {word for target in targets for word in target.split()}.union(self.combined_vocab)
@@ -155,7 +155,7 @@ class ALaCarteReader:
     self.c2v = defaultdict(lambda: np.zeros(dimension, dtype=FLOAT))
 
     self.wnd = wnd
-    self.learn = len(self.combined_vocab) == len(self.target_vocab) and self.n == 1
+    self.learn = len(self.combined_vocab) == len(self.target_vocab) and self.max_n == 1
 
     self.datafile = checkpoint
     self.comm = comm
@@ -201,8 +201,8 @@ class ALaCarteReader:
       comm.Reduce(vector_array, None, root=0)
       comm.Reduce(count_array, None, root=0)
     elif size > 1:
-      comm.Reduce(self.vector_array+vector_array, self.vector_array, root=0)
-      comm.Reduce(self.count_array+count_array, self.count_array, root=0)
+      comm.Reduce(self.vector_array + vector_array, self.vector_array, root=0)
+      comm.Reduce(self.count_array + count_array, self.count_array, root=0)
     else:
       self.vector_array += vector_array
       self.count_array += count_array
@@ -223,14 +223,14 @@ class ALaCarteReader:
 
       import h5py
 
-      f = h5py.File(datafile+'~tmp', 'w')
+      f = h5py.File(datafile + '~tmp', 'w')
       f.attrs['position'] = position
       f.create_dataset('vectors', data=self.vector_array, dtype=FLOAT)
       f.create_dataset('counts', data=self.count_array, dtype=INT)
       f.close()
       if os.path.isfile(datafile):
         os.remove(datafile)
-      os.rename(datafile+'~tmp', datafile)
+      os.rename(datafile + '~tmp', datafile)
     self.position = position
 
   def target_coverage(self):
@@ -243,7 +243,7 @@ class ALaCarteReader:
 
     if self.rank:
       return ''
-    return str(sum(self.count_array>0)) + '/' + str(len(self.targets))
+    return str(sum(self.count_array > 0)) + '/' + str(len(self.targets))
 
   def read_ngrams(self, tokens):
     '''reads tokens and updates context vectors
@@ -257,25 +257,29 @@ class ALaCarteReader:
 
     # gets location of target n-grams in document
     target_vocab = self.target_vocab
-    n = self.n
-    ngrams = list(filter(lambda entry: entry[1] in target_vocab, enumerate(nltk.ngrams(tokens, n))))
+    max_n = self.max_n
+    ngrams = dict()
+    for n in range(1, max_n + 1):
+      ngrams[n] = list(filter(lambda entry: entry[1] in target_vocab, enumerate(nltk.ngrams(tokens, n))))
 
-    if ngrams:
+    for n in range(1, max_n + 1):
+      if ngrams[n]:
 
-      # gets word embedding for each token
-      w2v = self.w2v
-      zero_vector = self.zero_vector
-      wnd = self.wnd
-      start = max(0, ngrams[0][0] - wnd)
-      vectors = [None]*start + [w2v.get(token, zero_vector) if token else zero_vector for token in tokens[start:ngrams[-1][0]+n+wnd]]
-      c2v = self.c2v
-      target_counts = self.target_counts
+        # gets word embedding for each token
+        w2v = self.w2v
+        zero_vector = self.zero_vector
+        wnd = self.wnd
+        start = max(0, ngrams[n][0][0] - wnd)
+        vectors = [None] * start + [w2v.get(token, zero_vector) if token else zero_vector for token in
+                                    tokens[start:ngrams[n][-1][0] + n + wnd]]
+        c2v = self.c2v
+        target_counts = self.target_counts
 
-      # computes context vector around each target n-gram
-      for i, ngram in ngrams:
-        c2v[ngram] += sum(vectors[max(0, i-wnd):i], zero_vector) + sum(vectors[i+n:i+n+wnd], zero_vector)
-        target_counts[ngram] += 1
-
+        # computes context vector around each target n-gram
+        for i, ngram in ngrams[n]:
+          c2v[ngram] += sum(vectors[max(0, i - wnd):i], zero_vector) + sum(vectors[i + n:i + n + wnd],
+                                                                           zero_vector)
+          target_counts[ngram] += 1
 
   def read_document(self, document):
     '''reads document and updates context vectors
@@ -288,7 +292,7 @@ class ALaCarteReader:
     # tokenizes document
     combined_vocab = self.combined_vocab
     tokens = [subtoken for token in document.split() for subtoken in subtokenize(token, combined_vocab)]
-    if self.n > 1:
+    if self.max_n > 1:
       return self.read_ngrams(tokens)
 
     # eliminates tokens not within the window of a target word
@@ -312,9 +316,9 @@ class ALaCarteReader:
     w2v = self.w2v
     zero_vector = self.zero_vector
     vectors = [w2v.get(token, zero_vector) if token else zero_vector for token in tokens]
-    context_vector = sum(vectors[:wnd+1])
+    context_vector = sum(vectors[:wnd + 1])
     c2v = self.c2v
-    target_counts  = self.target_counts
+    target_counts = self.target_counts
 
     # slides window over document
     for i, (token, vector) in enumerate(zip(tokens, vectors)):
@@ -337,7 +341,7 @@ def is_english(document):
   import cld2
 
   reliable, _, details = cld2.detect(document, bestEffort=True)
-  return reliable and details[0][0] == 'ENGLISH' and details[0][2] >= MINENGPER 
+  return reliable and details[0][0] == 'ENGLISH' and details[0][2] >= MINENGPER
 
 
 def make_printable(string):
@@ -363,7 +367,7 @@ def process_documents(func):
       reader.read_document(document)
 
     reader.reduce()
-    write('\rFinished Processing Corpus; Targets Covered: '+reader.target_coverage()+' \n', comm)
+    write('\rFinished Processing Corpus; Targets Covered: ' + reader.target_coverage() + ' \n', comm)
     return reader.vector_array, reader.count_array
 
   return wrapper
@@ -396,16 +400,17 @@ def wet_documents(pathsfile, reader, verbose=False, comm=None):
     if i < position:
       continue
 
-    if i > position and not i%1000:
+    if i > position and not i % 1000:
       reader.reduce()
       if verbose and not rank:
-        write('\rProcessed '+str(i)+'/'+str(len(paths))+' Paths; Target Coverage: '+reader.target_coverage(), comm)
+        write('\rProcessed ' + str(i) + '/' + str(len(paths)) +
+              ' Paths; Target Coverage: ' + reader.target_coverage(), comm)
       if not reader.datafile is None:
         reader.checkpoint(i)
     if i >= reader.stop:
       break
 
-    if i%size == rank:
+    if i % size == rank:
       temp = TemporaryFile('w+b')
       client.download_fileobj('commoncrawl', path.strip(), temp)
       temp.seek(0)
@@ -437,16 +442,16 @@ def corpus_documents(corpusfile, reader, verbose=False, comm=None):
     i = 0
     while line:
 
-      if i and not i%1000000:
+      if i and not i % 1000000:
         reader.reduce()
         if verbose and not rank:
-          write('\rProcessed '+str(i)+' Lines; Target Coverage: '+reader.target_coverage(), comm)
+          write('\rProcessed ' + str(i) + ' Lines; Target Coverage: ' + reader.target_coverage(), comm)
         if not reader.datafile is None:
           reader.checkpoint(f.tell())
       if i >= reader.stop:
         break
 
-      if i%size == rank:
+      if i % size == rank:
         yield line.strip()
 
       line = f.readline()
@@ -468,7 +473,7 @@ def load_vectors(vectorfile):
       word = make_printable(line[:index])
       if not word in words:
         words.add(word)
-        yield word, np.fromstring(line[index+1:], dtype=FLOAT, sep=SPACE)
+        yield word, np.fromstring(line[index + 1:], dtype=FLOAT, sep=SPACE)
 
 
 def dump_vectors(generator, vectorfile):
@@ -483,30 +488,12 @@ def dump_vectors(generator, vectorfile):
   with open(vectorfile, 'w') as f:
     for gram, vector in generator:
       numstr = ' '.join(map(str, vector.tolist())) if vector.shape else str(vector)
-      f.write(gram+' '+numstr+'\n')
+      f.write(gram + ' ' + numstr + '\n')
 
 
-def context_vectors(targets, w2v, documents, wnd=10, checkpoint=None, comm=None):
-  '''constructs context vectors from documents
-  Args:
-    targets: ordered iterable of words to find context embeddings for
-    w2v: {word: vector} dict of source word embeddings
-    documents: function taking two optional function arguments that returns a document generator
-    wnd: context window size
-    checkpoint: path to HDF5 checkpoint file
-    comm: MPI Communicator
-  Returns:
-    numpy array of size (len(targets), dimension), numpy array of size (len(targets),); at root process only
-  '''
-    
-  rank, size = ranksize(comm)
-
-  for i, document in enumerate(documents(alc)):
-    alc.read_document(document)
-    if not (i+1)%1000:
-      write('\r'+str(i+1)+' Documents', comm)
-  alc.reduce()
-  return alc.vector_array, alc.count_array
+def dump_targets(generator, targetfile):
+  with open(targetfile, 'w') as f:
+    f.writelines([f'{target}\n' for target in generator])
 
 
 def parse():
@@ -529,6 +516,8 @@ def parse():
   parser.add_argument('-w', '--window', default=10, help='size of context window', type=int)
   parser.add_argument('-e', '--english', action='store_true', help='check documents for English')
   parser.add_argument('-l', '--lower', action='store_true', help='lower-case documents')
+  parser.add_argument('--create-new', action='store_true', help='Also create embeddings for words that are already in'
+                                                                'the original embeddings.')
 
   return parser.parse_args()
 
@@ -539,22 +528,24 @@ def main(args, comm=None):
 
   rank, size = ranksize(comm)
   root = args.dumproot
-  matrixfile = root+'_transform.bin' if args.matrix is None else args.matrix
+  matrixfile = root + '_transform.bin' if args.matrix is None else args.matrix
 
-  write('Source Embeddings: '+args.source+'\n', comm)
+  write('Source Embeddings: ' + args.source + '\n', comm)
   w2v = OrderedDict(load_vectors(args.source))
 
   if args.targets is None:
-    write('No Targets Given; Will Learn Induction Matrix and Dump to '+matrixfile+'\n', comm)
+    write('No Targets Given; Will Learn Induction Matrix and Dump to ' + matrixfile + '\n', comm)
     targets = w2v.keys()
     M = None
   else:
-    write('Loading Targets from '+args.targets+'\n', comm)
+    write('Loading Targets from ' + args.targets + '\n', comm)
     with open(args.targets, 'r') as f:
-      targets = [target for target in (line.strip() for line in f) if not target in w2v]
+      if args.create_new:
+        targets = [target for target in (line.strip() for line in f)]
+      else:
+        targets = [target for target in (line.strip() for line in f) if not target in w2v]
     assert len(targets), "no uncovered targets found"
-    assert len(set(len(target.split()) for target in targets)) == 1, "all target n-grams must have the same n"
-    write('Induction Matrix: '+matrixfile+'\n', comm)
+    write('Induction Matrix: ' + matrixfile + '\n', comm)
     assert os.path.isfile(matrixfile), "induction matrix must be given if targets given"
     M = np.fromfile(matrixfile, dtype=FLOAT)
     d = int(np.sqrt(M.shape[0]))
@@ -562,8 +553,8 @@ def main(args, comm=None):
     M = M.reshape(d, d)
 
   if args.restart:
-    write('Checkpoint: '+args.restart+'\n', comm)
-  interval = [int(args.interval[0]), int(args.interval[1])] if args.interval[1].isdigit() else [int(args.interval[0]), float(args.interval[1])]
+    write('Checkpoint: ' + args.restart + '\n', comm)
+  interval = [int(args.interval[0]), int(args.interval[1])] if args.interval[1].isdigit() else [int(args.interval[0]), float( args.interval[1])]
   alc = ALaCarteReader(w2v, targets, wnd=args.window, checkpoint=args.restart, interval=interval, comm=comm)
 
   write('Building Context Vectors\n', comm)
@@ -571,12 +562,12 @@ def main(args, comm=None):
     context_vectors = FLOAT(0.0)
     target_counts = INT(0)
     for corpus in args.corpus:
-      write('Source Corpus: '+corpus+'\n', comm)
+      write('Source Corpus: ' + corpus + '\n', comm)
       context_vectors, target_counts = corpus_documents(corpus, alc, verbose=args.verbose, comm=comm, english=args.english, lower=args.lower)
       if args.restart:
         alc.checkpoint(0)
   else:
-    write('Source Corpus: WET Files in '+args.paths+'\n', comm)
+    write('Source Corpus: WET Files in ' + args.paths + '\n', comm)
     context_vectors, target_counts = wet_documents(args.paths, alc, verbose=args.verbose, comm=comm, english=args.english, lower=args.lower)
     if args.restart:
       alc.checkpoint(-1)
@@ -595,26 +586,28 @@ def main(args, comm=None):
     X = np.true_divide(context_vectors[nz], target_counts[nz, None], dtype=FLOAT)
     Y = np.vstack(vector for vector, count in zip(w2v.values(), target_counts) if count)
     M = LR(fit_intercept=False).fit(X, Y).coef_.astype(FLOAT)
-    write('Finished Learning Transform; Average Cosine Similarity: '+str(np.mean(np.sum(normalize(X.dot(M.T))*normalize(Y), axis=1)))+'\n', comm)
+    write('Finished Learning Transform; Average Cosine Similarity: ' + str(np.mean(np.sum(normalize(X.dot(M.T)) * normalize(Y), axis=1))) + '\n', comm)
 
-    write('Dumping Induction Transform to '+matrixfile+'\n', comm)
-    dump_vectors(zip(targets, target_counts), root+'_source_vocab_counts.txt')
-    context_vectors.tofile(root+'_source_context_vectors.bin')
+    write('Dumping Induction Transform to ' + matrixfile + '\n', comm)
+    dump_vectors(zip(targets, target_counts), root + '_source_vocab_counts.txt')
+    context_vectors.tofile(root + '_source_context_vectors.bin')
     M.tofile(matrixfile)
 
   else:
-
-    write('Dumping Induced Vectors to '+root+'_alacarte.txt\n', comm)
-    dump_vectors(zip(targets, target_counts), root+'_target_vocab_counts.txt')
-    context_vectors.tofile(root+'_target_context_vectors.bin')
+    Path(root).parent.mkdir(exist_ok=True)
+    write('Dumping Induced Vectors to ' + root + '_alacarte.txt\n', comm)
+    dump_vectors(zip(targets, target_counts), root + '_target_vocab_counts.txt')
+    context_vectors.tofile(root + '_target_context_vectors.bin')
     context_vectors[nz] = np.true_divide(context_vectors[nz], target_counts[nz, None], dtype=FLOAT)
-    dump_vectors(zip(targets, context_vectors.dot(M.T)), root+'_alacarte.txt')
+    dump_vectors(zip(targets, context_vectors.dot(M.T)), root + '_alacarte.txt')
+    dump_targets(np.asarray(targets)[np.invert(nz)], root + '_not_found.txt')
 
 
 if __name__ == '__main__':
 
   try:
     from mpi4py import MPI
+
     comm = MPI.COMM_WORLD
   except ImportError:
     comm = None
